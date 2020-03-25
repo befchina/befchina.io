@@ -1,0 +1,10 @@
+<div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Projects</span></h4>
+    <ol class="list-featured">
+        {% for post in site.tags.projects %}
+                <h6 class="font-weight-bold">
+                    <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
+                </h6>
+        {% endfor %}
+    </ol>
+</div>
