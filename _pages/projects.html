@@ -15,11 +15,10 @@ image: "/assets/img/projects.jpg"
     <img class="card-img-top mb-5 shadow-lg" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}">
     {% endif %}
     <div class="page-content">
-        {{ content }}
-        <!-- Comments -->
-        <!-- {% if page.comments == true %}
-        {% include comments.html %}
-        {% endif %} -->
+    <h5>Involving groups'researches focus on multiple diversity dimensions, multiple ecosystem components and multiple ecosystem functions.
+      The dimensions of biodiversity include species diversity, functional diversity and genetic diversity; the components of ecosystem include plants,
+      animals and microorganisms; and the functions of ecosystem include productivity, nutrient cycle, decomposition, multi-trophic interactions,
+      resistance to soil erosion and other stress resistance abilities.</h5>
     </div>
     </div>
 
