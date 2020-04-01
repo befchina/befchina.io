@@ -59,21 +59,7 @@ html {
 @-ms-viewport {
   width: device-width; }
 
-header.header-main {
-  position: relative;
-  z-index: 1;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-  height: 600px;
-  margin-top: 0px;
-  background:
-      size: cover;
-      position: center center;
-      repear: no-repeat;
-}
+
 
 
 
@@ -476,6 +462,61 @@ pre {
   max-height: 340px;
   overflow-y: scroll; }
 
+
+/* image style yuanyuan image*/
+.img2 {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 205px;
+  height: 130px;
+}
+
+.img2:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+img {
+  border-radius: 8px;
+}
+.container-image {
+  position: relative;
+  width: 90%;
+}
+
+.image0 {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay-image {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #a6d6df;
+}
+
+.container-image:hover .overlay-image {
+  opacity: 1;
+}
+
+.text-image {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+
 .container {
   width: 100%;
   padding-right: 15px;
@@ -495,8 +536,10 @@ pre {
     .container {
       max-width: 1140px; } }
 
+
 .container2 {
-  max-width: 800px;
+  max-width: 600px;
+  text-align: justify;
   margin: 80px auto 100px auto;
   padding: 0 20px;}
   @media (min-width: 576px) {
@@ -2593,6 +2636,104 @@ input[type="button"].btn-block {
 .dropdown,
 .dropleft {
   position: relative; }
+/* Yuanyuan's adding starts */
+
+header.header-main {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 600px;
+  margin-top: 0px;
+  background:
+      size: cover;
+      position: center center;
+      repear: no-repeat;
+}
+
+header.post-img-header {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  /* height: 600px; */
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;}
+  .overlay-dark{
+      background: "red";
+      opacity: .35;
+      position: absolute;
+      z-index: 2;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+
+}
+
+/* .site-content{
+  padding-top: 5rem;
+} */
+/* #a6d6df; */
+.dropdown-text{
+    display: block;
+    padding: 0.5rem 1.5rem;
+    margin-bottom: 0;
+    font-size: 1.05rem;
+    text-align: justify;
+    color: #6c757d;
+    outline-color: #a6d6df;
+}
+.dropdown-sub{
+    display: block;
+    margin-left: 4rem;
+    margin-bottom: 2rem;
+    color: #6c757d;
+}
+
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 120px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: grey;
+  padding: 5px 5px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+
+/* Yuanyuan's adding end*/
+
 
 .dropdown-toggle::after {
   display: inline-block;
@@ -3346,6 +3487,9 @@ input[type="button"].btn-block {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  /* height: 10rem; */
+  background-size: cover;
+  background-repeat: no-repeat;
   justify-content: space-between;
   padding: 0.3rem 1rem; }
   .navbar > .container,
@@ -3354,6 +3498,8 @@ input[type="button"].btn-block {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between; }
+
+
 
 .navbar-brand {
   display: inline-block;
@@ -7421,6 +7567,8 @@ html {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
+  /* text-align: justify; */
+  /* text-justify: inter-word; */
   margin-right: auto;
   margin-left: auto; }
   @media (min-width: 576px) {

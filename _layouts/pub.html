@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div class="container">
+<h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
+<div class="row">
+    <div class="col-md-3">
+      <div class="sticky-top sticky-top-offset">
+          <h4 class="font-weight-bold spanborder"><span>Gutianshan CSPs Publications</span></h4>
+          <ol class="list-featured">
+              {% for post in site.tags.GTS %}
+                  <h6 class="font-weight-bold">
+                      <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
+                  </h6>
+              {% endfor %}
+          </ol>
+      </div>
+    </div>
+    <div class="col-md-8">
+
+    <div class="page-content">
+        {{content}}
+
+    </div>
+    </div>
+
+</div>
+</div>

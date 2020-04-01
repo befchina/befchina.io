@@ -1,29 +1,51 @@
 ---
-title: "Authors"
+title: "Management"
 layout: default
 permalink: "/authors-list.html"
 ---
+<div class = "container">
+<h4 class="font-weight-bold spanborder"><span>Steering Committee</span></h4>
+The platform is governed by the Steering Committee (SC) which is consists of representatives from both European and Chinese sides. Main missions are: 1) coordinating of running projects on the platform and final approval of new project applications; 2) developing the management mode of the platform and solving the important issues reported by the management group (MG); 3) supervising the implementation of the decision proposed by BEF-China members. The current term of  SC is 2018.10-2023.10.
+<div class="row gap-y listrecent listrecent listauthor">
+{% for author in site.data.committee %}
+    <div class="col-lg-6 mb-4">
+        <div class="p-4 border rounded">
+        <div class="row">
+        <div class="col-md-3 mb-4 mb-md-0">
+          <img alt="{{ author.name }}" src="{{site.baseurl}}{{ author.avatar }}" class="rounded-circle" width="90">
+          <!-- <a target="_blank" href="{{ author.web }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> -->
+        </div>
+        <div class="col-md-9">
+        <a href="{{ author.web }}">
+        <h4 class="text-dark mb-0"> {{ author.name }} </h4>
+        <small class="d-inline-block mt-1 mb-1 font-weight-normal">{{ author.position }}</small><br>
+        <small class="d-inline-block mt-1 mb-1 font-weight-normal">{{ author.institute }}</small><br>
+        <small class="d-inline-block mt-1 mb-1 font-weight-normal"><i class="fa fa-envelope" aria-hidden="true"></i> {{ author.email }}</small>
+        </a>
+        </div>
+        </div>
+        </div>
+    </div>
+{% endfor %}
+</div>
+</hr>
 
-<div class="container">
-<h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4>
+<h4 class="font-weight-bold spanborder"><span>Management Group</span></h4>
+The members of the Management Group (MG) are scientists from the Institute of Botany, CAS and Jingdezhen University. Main missions are: 1) implementing the decisions of SC; 2) being responsible for routine management of lab and field sites; 3) being responsible for financial management; 4) checking applications of membership, data and paper proposals; 5) collecting and technically checking project applications and forwarding it to SC for review; 6) organizing the SC annual meeting. The current term of  MG is 2018.10-2023.10.
     <div class="row gap-y listrecent listrecent listauthor">
-    {% for author in site.authors %}
+    {% for author in site.data.members %}
         <div class="col-lg-6 mb-4">
             <div class="p-4 border rounded">
             <div class="row">
-            <div class="col-md-3 mb-4 mb-md-0"><img alt="{{ author[1].name }}" src="{{site.baseurl}}/{{ author[1].avatar }}" class="rounded-circle" height="80" width="80"></div>
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="{{ author.name }}" src="{{site.baseurl}}{{ author.avatar }}" class="rounded-circle" width="90"></div>
             <div class="col-md-9">
-            <a href="{{site.baseurl}}/author-{{ author[1].name | slugify }}">
-            <h4 class="text-dark mb-0"> {{ author[1].name }} </h4>
-            <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
-            <div class="excerpt">{{ author[1].bio }}</div>
+            <a href="{{ author.web }}">
+            <h4 class="text-dark mb-0"> {{ author.name }} </h4>
+            <!-- <a target="_blank" href="{{ author.web }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp; -->
+            <small class="d-inline-block mt-1 mb-1 font-weight-normal">{{ author.position }}</small><br>
+            <small class="d-inline-block mt-1 mb-1 font-weight-normal">{{ author.institute }}</small><br>
+            <small class="d-inline-block mt-1 mb-1 font-weight-normal"><i class="fa fa-envelope" aria-hidden="true"></i> {{ author.email }}</small>
             </a>
-            <div class="icon-block mt-3 d-flex justify-content-between">  
-            <div>
-            <a target="_blank" href="{{ author[1].twitter }}"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
-            <a target="_blank" href="{{ author[1].site }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
-            </div>
-            </div>
             </div>
             </div>
             </div>

@@ -4,13 +4,12 @@ layout: default
 <div class="container">
 <h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
 <div class="row">
-    <div class="col-md-3">
-        {% include sidebar-year.html %}
+    <div class="col-md-5">
+        <img src="{{site.baseurl}}/assets/gts_1.jpg" alt="">
     </div>
-    <div class="col-md-8">
-    {% if page.image %}
-    <img class="card-img-top mb-5 shadow-lg" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}">
-    {% endif %}
+    <div class="col-md-5">
+    <img src="{{site.baseurl}}/assets/siteA2016.jpg" alt="">
+
     <div class="page-content">
         {{ content }}
         <!-- Comments -->

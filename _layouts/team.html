@@ -4,63 +4,16 @@ layout: default
 {% assign author = site.authors[page.author] %}
 <div class="container">
 <div class="row">
-    <div class="col-md-2">
+    <div class="col-md-3">
         {% include sidebar-projects.html %}
     </div>
-    <div class="col-md-7">
+    <div class="col-md-8">
       <!-- main content -->
       <h3 class="pcontent font-weight-bold spanborder"><span>{{page.title}}</span></h3>
             <!-- Article -->
       <a class="page-content">
       {{ content }}
       </a>
-    </div>
-    <div class = "col-md-3">
-      <div class="pasid jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
-          <div class="h-100 tofront">
-              <div class="col-8 pr-0 pr-md-4 pt-4 pb-4 align-self-center">
-                <p class="text-uppercase font-weight-bold">
-                              <span class="catlist">
-                                <a class="sscroll text-danger">Contact</a><span class="sep">, </span>
-                              </span>
-                </p>
-
-                <div class="d-flex align-items-center">
-                      {% if author.avatar %}
-                      <img class="rounded-circle" src="{{site.baseurl}}{{author.avatar}}" alt="{{author.name}}" width="70"/>
-                      {% endif %}
-                  <small class="ml-4">
-                      {{ author.name }}
-                      <!-- <span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a>
-                      </span> -->
-                  </small>
-
-                </div>
-                <small class="ml-3">{{ page.position }}</small>
-                <small class="ml-3">{{ page.address }}</small>
-                <small class="ml-3">{{ page.email }}</small>
-                <small class="ml-3">{{ page.homepage }}</small>
-
-                <!-- #the second author -->
-                {% assign writer = site.authors[page.writer] %}
-                <div class="d-flex align-items-center">
-                      {% if writer.avatar %}
-                      <img class="rounded-circle" src="{{site.baseurl}}{{writer.avatar}}" alt="{{writer.name}}" width="70"/>
-                      {% endif %}
-                  <small class="ml-4">
-                      {{ writer.name }}
-                      <!-- <span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a>
-                      </span> -->
-                  </small>
-
-                </div>
-                <small class="ml-3">{{ page.position2 }}</small>
-                <small class="ml-3">{{ page.address2 }}</small>
-                <small class="ml-3">{{ page.email2 }}</small>
-                <small class="ml-3">{{ page.homepage2 }}</small>
-              </div>
-            </div>
-        </div>
     </div>
 </div>
 </div>

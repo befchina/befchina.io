@@ -2,10 +2,9 @@
 layout: default
 title: "Projects"
 permalink: "/projects.html"
-image: "/assets/img/projects.jpg"
+image: "/assets/img/publications.png"
 ---
 <div class="container">
-<h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
 <div class="row">
     <div class="col-md-3">
         {% include sidebar-projects.html %}
@@ -14,11 +13,13 @@ image: "/assets/img/projects.jpg"
     {% if page.image %}
     <img class="card-img-top mb-5 shadow-lg" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}">
     {% endif %}
+    <p>Made by Dr. Claas-Thido Pfaff</p>
+    </br>
     <div class="page-content">
-    <h5>Involving groups'researches focus on multiple diversity dimensions, multiple ecosystem components and multiple ecosystem functions.
+    <p>Researches focus on multiple diversity dimensions, multiple ecosystem components and multiple ecosystem functions.
       The dimensions of biodiversity include species diversity, functional diversity and genetic diversity; the components of ecosystem include plants,
       animals and microorganisms; and the functions of ecosystem include productivity, nutrient cycle, decomposition, multi-trophic interactions,
-      resistance to soil erosion and other stress resistance abilities.</h5>
+      resistance to soil erosion and other stress resistance abilities.</p>
     </div>
     </div>
 

@@ -1,0 +1,251 @@
+---
+layout: team
+title:  "Other ongoing projects"
+author: jane
+categories: "Publications"
+position: Professor
+address: ExampleUniversity
+homepage: www.example.com
+image: assets/img/home.jpg
+tags: [projects]
+permalink: "/otherprojects.html"
+---
+<details>
+<summary class="dropdown-text"> The effects of tree species diversity on productivity and turnover of different fine-root functional groups</summary><br>
+<li class="dropdown-sub">
+<strong><strong>Principal Investigator:</strong></strong> <br>
+Assist. Prof. Dr. ZhenKai Sun<br>  	
+Research Institute of Forestry, Chinese Academy of Forestry<br>
+<i class="fas fa-envelope"></i> sunzhenkai1987<i class="fas fa-at"></i>163.com
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> Influence of local biodiversity on the seasonality of tree growth</summary><br>
+<li class="dropdown-sub"><strong>Principal Investigator:</strong><br>
+Assoc. Prof. Dr. Zhiyao Tang<br>
+College of Urban and Environmental Sciences, Peking University<br>
+<i class="fas fa-envelope"></i> zytang<i class="fas fa-at"></i>urban.pku.edu.cn<br>
+<strong>PhD student: Gheyur Gheyret</strong>
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> The effects of contrasting climatic conditions on diversity-stability relationships</summary><br> 	
+<li class="dropdown-sub"><strong>Principal Investigators:</strong> <br>
+Prof. Dr. Christian Wirth<br>
+Institute of Biology, Leipzig University (UL) & iDiv<br>
+<i class="fas fa-envelope"></i> cwirth<i class="fas fa-at"></i>uni-leipzig.de<br>
+<strong>PhD student: Florian Schnabel</strong>
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> Role of intra- and inter-specific species traits values in the genetic diversity effect on tree growth and forest productivity in the 4x1 genetic experiment</summary><br>
+<li class="dropdown-sub"><strong>Principal Investigators:</strong> <br>
+Assoc. Prof. Dr. Xiaojuan Liu<br>
+Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> liuxiaojuan06<i class="fas fa-at"></i>ibcas.ac.cn<br>
+Prof. Dr. Keping Ma<br>
+Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> kpma<i class="fas fa-at"></i>ibcas.ac.cn<br>
+<strong>Postdoc: Dr. Franca J Bongers</strong>
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> Tree growth under a gradient of species diversity, considering intra-specific genetic variation of 12 species</summary><br>
+<li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+Assoc. Prof. Dr. Xiaojuan Liu<br>
+Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> liuxiaojuan06<i class="fas fa-at"></i>ibcas.ac.cn<br>
+Prof. Dr. Keping Ma<br>
+Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> kpma<i class="fas fa-at"></i>ibcas.ac.cn<br>
+<strong>Postdoc: Dr. Franca J Bongers</strong>
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> The role of community trait identity and trait diversity on forest productivity, considering different species extinction scenarios</summary><br>
+<li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+Assoc. Prof. Dr. Xiaojuan Liu<br>
+Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> liuxiaojuan06<i class="fas fa-at"></i>ibcas.ac.cn<br>
+Prof. Dr. Keping Ma<br>
+Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> kpma<i class="fas fa-at"></i>ibcas.ac.cn<br>
+<strong>Postdoc: Dr. Franca J Bongers</strong>
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> The richness effect on tree and shrub survival in the BEF-China experiment</summary><br>
+<li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+Assoc. Prof. Dr. Xiaojuan Liu<br>
+Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> liuxiaojuan06<i class="fas fa-at"></i>ibcas.ac.cn<br>
+Prof. Dr. Keping Ma<br>
+Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> kpma<i class="fas fa-at"></i>ibcas.ac.cn<br>
+<strong>Postdoc: Dr. Shan Li</strong>
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> Assessing the dynamic of vegetation function and productivity with laser and hyperspectral analyses of CSPs and main experiments</summary><br>
+<li class="dropdown-sub"><strong>Principal Investigators:</strong> <br>
+Assoc. Prof. Dr. Xiaojuan Liu<br>
+Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> liuxiaojuan06<i class="fas fa-at"></i>ibcas.ac.cn<br>
+Prof. Dr. Bernhard Schmid<br>
+University of Zurich<br>
+<i class="fas fa-envelope"></i> bernhard.schmid<i class="fas fa-at"></i>ieu.uzh.ch<br>
+Prof. Dr. Keping Ma<br>
+Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> kpma<i class="fas fa-at"></i>ibcas.ac.cn<br>
+Prof. Dr. Michael E. Schaepman<br>
+University of Zurich<br>
+<i class="fas fa-envelope"></i> michael.schaepman<i class="fas fa-at"></i>geo.uzh.ch<br>	 
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> The effect of wood stumps on soil organic carbon accumulation</summary><br>
+<li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+Assoc. Prof. Dr. Yin Li	Sanming University<br>
+<i class="fas fa-envelope"></i> lijiang413508<i class="fas fa-at"></i>126.com
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> Probing soil organic carbon composition and dynamics in the rhizosphere and bulk soil of Gutianshan</summary><br>
+<li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+Prof. Dr. Xiaojuan Feng<br>
+Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> xfeng<i class="fas fa-at"></i>ibcas.ac.cn<br>
+Assist. Prof. Dr. Yufu Jia<br>
+Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> yufu123jia<i class="fas fa-at"></i>163.com<br>
+
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> Formation and dynamics of mineral-associated organic carbon in subtropical forests</summary><br>
+<li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+Prof. Dr. Xiaojuan Feng	Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> xfeng<i class="fas fa-at"></i>ibcas.ac.cn<br>
+<strong>PhD student: Zongguang Liu</strong>
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> Effects of plant diversity on greenhouse gas fluxes and associated microbial mechanisms in soils of a subtropical forest</summary><br>
+<li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+Prof. Dr. Xiaoqi Zhou<br>
+School of Ecological and Environmental Sciences, East China Normal University<br>
+<i class="fas fa-envelope"></i> xqzhou<i class="fas fa-at"></i>des.ecnu.edu.cn
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> Host-parasitoid interaction	</summary><br>
+<li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+Chaodong Zhu<br>
+Institute of Zoology, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> zhucd<i class="fas fa-at"></i>ioz.ac.cn<br>
+<strong>PhD student: Pengfei Guo</strong>
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> The interaction between soil mite and tree diversity; The responses of soil mite diversity to different tree species.</summary><br>
+<li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+Prof. Dr. Chaodong Zhu<br>
+Institute of Zoology, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> zhucd<i class="fas fa-at"></i> ioz.ac.cn <br>
+Prof. Dr. Jun Chen<br>
+Institute of Zoology, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> chenj<i class="fas fa-at"></i>ioz.ac.cn<br>
+<strong>Master student: Yannan Chen</strong>
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> Effects of tree and shrub species diversity on leaf litter decomposition and microbial decomposers communities inhabiting in litter</summary><br>
+<li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+Assoc. Prof. Dr. Naili Zhang<br>
+Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> zhangnl<i class="fas fa-at"></i>ibcas.ac.cn<br>
+<strong>Postdoc: Dr. Hong Lin</strong>
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> Indirect effects of tree richness and species identity drive plant growth in subtropical forest</summary><br>
+<li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+Assoc. Prof. Dr. Naili Zhang<br>
+Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> zhangnl<i class="fas fa-at"></i>ibcas.ac.cn<br>
+<strong>Postdoc: Dr. Hong Lin</strong>
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> How does the association of tree species richness with litter fungal community change with time</summary><br>
+<li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+Assoc. Prof. Dr. Naili Zhang<br>
+Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> zhangnl<i class="fas fa-at"></i>ibcas.ac.cn<br>
+<strong>Master student: Xinlei Zhang</strong>
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> The effects of host plant diversity on the assembly of phylloesphere microbial communities</summary><br>
+<li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+Prof. Dr. Lin Jiang	Georgia<br>
+Institute of Technology<br>
+<i class="fas fa-envelope"></i> lin.jiang<i class="fas fa-at"></i>biology.gatech.edu<br>
+<strong>PhD student: Xian Yang</strong>
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> How biodiversity-ecosystem functioning relations change with or without the presence of local soil biota</summary><br>
+<li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+Dr. Sylvia Haider<br>
+Institute of Biology / Geobotany, MLU & iDiv；<br>
+<i class="fas fa-envelope"></i> sylvia.haider<i class="fas fa-at"></i>botanik.uni-halle.de<br>
+Dr. Yang Bo	<br>
+Jingdezhen University	<br>
+<i class="fas fa-envelope"></i> yangbomvp<i class="fas fa-at"></i>aliyun.com<br>
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> Do trees with extrafloral nectaries interact with tree diversity in mediating insect communities, leaf damage, defense traits and tree growth?</summary><br>
+<li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+Assoc. Prof. Dr. Xiaojuan Liu<br>
+Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> liuxiaojuan06<i class="fas fa-at"></i>ibcas.ac.cn<br>
+Assoc. Prof. Dr. Naili Zhang<br>
+Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> zhangnl<i class="fas fa-at"></i>ibcas.ac.cn<br>
+Assoc. Prof. Dr. Michael Staab<br>
+University of Freiburg<br>
+<i class="fas fa-envelope"></i> michael.staab<i class="fas fa-at"></i>nature.uni-freiburg.de<br>
+<strong>Master student: Stefanie Pietsch</strong>
+</li>
+</details>
+
+<details>
+<summary class="dropdown-text"> Dispersal of pathogens in forest stand with different tree diversity</summary><br>
+<li class="dropdown-sub"><strong><strong>Principal Investigators:</strong></strong><br>
+Assoc. Prof. Dr. Yu Liang<br>
+Institute of Botany, Chinese Academy of Sciences<br>
+<i class="fas fa-envelope"></i> coolrain<i class="fas fa-at"></i>ibcas.ac.cn<br>
+<strong>Master student: Shaoran Li</strong>
+</li>
+</details>
