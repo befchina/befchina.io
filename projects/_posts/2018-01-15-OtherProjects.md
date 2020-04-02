@@ -309,10 +309,10 @@ Institute of Botany, Chinese Academy of Sciences<br>
 <summary class="dropdown-text"> Indirect effects of tree richness and species identity drive plant growth in subtropical forest</summary><br>
 <div class="row">
     <div class="col-md-3">
-    <img class = "img3" src=" {{ site.baseurl }}/assets/projects/HongLin/HongLin3.jpg">
+    <img class = "img3" src=" {{ site.baseurl }}/assets/projects/Honglin/Honglin3.jpg">
     </div>
     <div class="col-md-3">
-      <img class = "img3" src=" {{ site.baseurl }}/assets/projects/HongLin/HongLin4.jpg">
+      <img class = "img3" src=" {{ site.baseurl }}/assets/projects/Honglin/Honglin4.jpg">
     </div>
     <div class="col-md-4">
     <li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
