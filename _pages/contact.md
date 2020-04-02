@@ -2,7 +2,7 @@
 title: "Contact"
 permalink: "/contact.html"
 ---
-<img class="img4" src= "{{ site.baseurl }}/assets/img/XGS-6.jpg">
+<img class="img5" src= "{{ site.baseurl }}/assets/img/XGS-6.jpg">
 
 <form action="https://formspree.io/{{site.email}}" method="POST">    
 <p class="mb-4">If you have any ideas for cooperation, any questions, or any field work interests, please send your message to {{site.name}}. We will reply as soon as possible!</p>
