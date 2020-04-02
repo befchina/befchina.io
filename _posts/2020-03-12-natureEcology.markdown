@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Directed species loss from species-rich forests strongly decreases productivity"
+author: Yuxin Chen
 categories: [ Research ]
 image: assets/img/siteA2016.jpg
 tags: featured

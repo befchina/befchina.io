@@ -23,10 +23,10 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> The effects of tree species diversity on productivity and turnover of different fine-root functional groups</summary><br>
 <div class="row">
     <div class="col-md-3">
-    <img class = "img3" src=" {{ site.baseurl }}/assets/projects/ZhenkaiSun/sun1.jpg">
+    <img class = "img3" src=" {{ site.baseurl }}/assets/projects/ZhenkaiSun/Sun1.jpg">
     </div>
     <div class="col-md-3">
-      <img class = "img3" src=" {{ site.baseurl }}/assets/projects/ZhenkaiSun/sun2.jpg">
+      <img class = "img3" src=" {{ site.baseurl }}/assets/projects/ZhenkaiSun/Sun2.jpg">
     </div>
     <div class="col-md-4">
       <li class="dropdown-sub">
@@ -288,10 +288,10 @@ Institute of Botany, Chinese Academy of Sciences<br>
 <summary class="dropdown-text"> Effects of tree and shrub species diversity on leaf litter decomposition and microbial decomposers communities inhabiting in litter</summary><br>
 <div class="row">
     <div class="col-md-3">
-    <img class = "img3" src=" {{ site.baseurl }}/assets/projects/HongLin/HongLin1.jpg">
+    <img class = "img3" src=" {{ site.baseurl }}/assets/projects/Honglin/Honglin1.jpg">
     </div>
     <div class="col-md-3">
-      <img class = "img3" src=" {{ site.baseurl }}/assets/projects/HongLin/HongLin2.jpg">
+      <img class = "img3" src=" {{ site.baseurl }}/assets/projects/Honglin/Honglin2.jpg">
     </div>
     <div class="col-md-4">
     <li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
