@@ -1,13 +1,17 @@
 ---
 layout: default
 ---
+<img class="img5" src= "{{ site.baseurl }}{{ page.image }}">
+
+<br>
 {% assign author = site.authors[page.author] %}
+<br>
 <div class="container">
 <div class="row">
     <div class="col-md-3">
         {% include sidebar-projects.html %}
     </div>
-    <div class="col-md-8">
+    <div class="col-md-9">
       <!-- main content -->
       <h3 class="pcontent font-weight-bold spanborder"><span>{{page.title}}</span></h3>
             <!-- Article -->
