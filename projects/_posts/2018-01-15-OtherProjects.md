@@ -17,7 +17,6 @@ permalink: "/otherprojects.html"
 
 
 * * *
-<img  src=" {{ site.baseurl }}/assets/img/BEF-title3.jpg">
 ### Productivity
 <details>
 <summary class="dropdown-text"> The effects of tree species diversity on productivity and turnover of different fine-root functional groups</summary><br>
