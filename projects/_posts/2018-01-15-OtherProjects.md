@@ -59,13 +59,21 @@ permalink: "/otherprojects.html"
 </details>
 
 <details>
-<summary class="dropdown-text"> The effects of contrasting climatic conditions on diversity-stability relationships</summary><br> 	
-<li class="dropdown-sub"><strong>Principal Investigators:</strong> <br>
-Prof. Dr. Christian Wirth<br>
-Institute of Biology, Leipzig University (UL) & iDiv<br>
-<i class="fas fa-envelope"></i> cwirth<i class="fas fa-at"></i>uni-leipzig.de<br>
-<strong>PhD student: Florian Schnabel</strong>
-</li>
+<summary class="dropdown-text"> The effects of contrasting climatic conditions on diversity-stability relationships</summary><br>
+<div class="row">
+    <div class="col-md-3">
+    <img class = "img3" src=" {{ site.baseurl }}/assets/projects/climate.jpg">
+    </div>
+    <div class="col-md-4">
+    <li class="dropdown-sub"><strong>Principal Investigators:</strong> <br>
+    Prof. Dr. Christian Wirth<br>
+    Institute of Biology, Leipzig University (UL) & iDiv<br>
+    <i class="fas fa-envelope"></i> cwirth<i class="fas fa-at"></i>uni-leipzig.de<br>
+    <strong>PhD student: Florian Schnabel</strong>
+    </li>
+    </div>
+</div>
+
 </details>
 
 <details>
@@ -117,15 +125,26 @@ Institute of Biology, Leipzig University (UL) & iDiv<br>
 
 <details>
 <summary class="dropdown-text"> The role of community trait identity and trait diversity on forest productivity, considering different species extinction scenarios</summary><br>
-<li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
-Assoc. Prof. Dr. Xiaojuan Liu<br>
-Institute of Botany, Chinese Academy of Sciences<br>
-<i class="fas fa-envelope"></i> liuxiaojuan06<i class="fas fa-at"></i>ibcas.ac.cn<br>
-Prof. Dr. Keping Ma<br>
-Institute of Botany, Chinese Academy of Sciences<br>
-<i class="fas fa-envelope"></i> kpma<i class="fas fa-at"></i>ibcas.ac.cn<br>
-<strong>Postdoc: Dr. Franca J Bongers</strong>
-</li>
+<div class="row">
+    <div class="col-md-3">
+    <img class = "img3" src=" {{ site.baseurl }}/assets/projects/FrancaBongers/trait1.jpg">
+    </div>
+    <div class="col-md-3">
+      <img class = "img3" src=" {{ site.baseurl }}/assets/projects/FrancaBongers/trait2.jpg">
+    </div>
+    <div class="col-md-4">
+    <li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+    Assoc. Prof. Dr. Xiaojuan Liu<br>
+    Institute of Botany, Chinese Academy of Sciences<br>
+    <i class="fas fa-envelope"></i> liuxiaojuan06<i class="fas fa-at"></i>ibcas.ac.cn<br>
+    Prof. Dr. Keping Ma<br>
+    Institute of Botany, Chinese Academy of Sciences<br>
+    <i class="fas fa-envelope"></i> kpma<i class="fas fa-at"></i>ibcas.ac.cn<br>
+    <strong>Postdoc: Dr. Franca J Bongers</strong>
+    </li>
+    </div>
+</div>
+
 </details>
 
 <details>
@@ -154,20 +173,29 @@ Institute of Botany, Chinese Academy of Sciences<br>
 
 <details>
 <summary class="dropdown-text"> Assessing the dynamic of vegetation function and productivity with laser and hyperspectral analyses of CSPs and main experiments</summary><br>
-<li class="dropdown-sub"><strong>Principal Investigators:</strong> <br>
-Assoc. Prof. Dr. Xiaojuan Liu<br>
-Institute of Botany, Chinese Academy of Sciences<br>
-<i class="fas fa-envelope"></i> liuxiaojuan06<i class="fas fa-at"></i>ibcas.ac.cn<br>
-Prof. Dr. Bernhard Schmid<br>
-University of Zurich<br>
-<i class="fas fa-envelope"></i> bernhard.schmid<i class="fas fa-at"></i>ieu.uzh.ch<br>
-Prof. Dr. Keping Ma<br>
-Institute of Botany, Chinese Academy of Sciences<br>
-<i class="fas fa-envelope"></i> kpma<i class="fas fa-at"></i>ibcas.ac.cn<br>
-Prof. Dr. Michael E. Schaepman<br>
-University of Zurich<br>
-<i class="fas fa-envelope"></i> michael.schaepman<i class="fas fa-at"></i>geo.uzh.ch<br>	 
-</li>
+<div class="row">
+    <div class="col-md-3">
+    <img class = "img3" src=" {{ site.baseurl }}/assets/projects/Michael/Michael1.jpg">
+    <img class = "img3" src=" {{ site.baseurl }}/assets/projects/Michael/Michael2.jpg">
+    </div>
+    <div class="col-md-6">
+    <li class="dropdown-sub"><strong>Principal Investigators:</strong> <br>
+    Assoc. Prof. Dr. Xiaojuan Liu<br>
+    Institute of Botany, Chinese Academy of Sciences<br>
+    <i class="fas fa-envelope"></i> liuxiaojuan06<i class="fas fa-at"></i>ibcas.ac.cn<br>
+    Prof. Dr. Bernhard Schmid<br>
+    University of Zurich<br>
+    <i class="fas fa-envelope"></i> bernhard.schmid<i class="fas fa-at"></i>ieu.uzh.ch<br>
+    Prof. Dr. Keping Ma<br>
+    Institute of Botany, Chinese Academy of Sciences<br>
+    <i class="fas fa-envelope"></i> kpma<i class="fas fa-at"></i>ibcas.ac.cn<br>
+    Prof. Dr. Michael E. Schaepman<br>
+    University of Zurich<br>
+    <i class="fas fa-envelope"></i> michael.schaepman<i class="fas fa-at"></i>geo.uzh.ch<br>	 
+    </li>
+    </div>
+</div>
+
 </details>
 
 <details>
@@ -192,22 +220,34 @@ University of Zurich<br>
 ### Nutrient cycling
 <details>
 <summary class="dropdown-text"> Probing soil organic carbon composition and dynamics in the rhizosphere and bulk soil of Gutianshan</summary><br>
-<li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
-Prof. Dr. Xiaojuan Feng<br>
-Institute of Botany, Chinese Academy of Sciences<br>
-<i class="fas fa-envelope"></i> xfeng<i class="fas fa-at"></i>ibcas.ac.cn<br>
-Assist. Prof. Dr. Yufu Jia<br>
-Institute of Botany, Chinese Academy of Sciences<br>
-<i class="fas fa-envelope"></i> yufu123jia<i class="fas fa-at"></i>163.com<br>
-
-</li>
+<div class="row">
+    <div class="col-md-3">
+      <img class = "img3" src=" {{ site.baseurl }}/assets/projects/YufuJia/YufuJia1.jpg">
+    </div>
+    <div class="col-md-3">
+      <img class = "img3" src=" {{ site.baseurl }}/assets/projects/YufuJia/YufuJia2.jpg">
+    </div>
+    <div class="col-md-4">
+      <li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+        Prof. Dr. Xiaojuan Feng<br>
+        Institute of Botany, Chinese Academy of Sciences<br>
+        <i class="fas fa-envelope"></i> xfeng<i class="fas fa-at"></i>ibcas.ac.cn<br>
+        Assist. Prof. Dr. Yufu Jia<br>
+        Institute of Botany, Chinese Academy of Sciences<br>
+        <i class="fas fa-envelope"></i> yufu123jia<i class="fas fa-at"></i>163.com<br>
+      </li>
+    </div>
+</div>
 </details>
 
 <details>
 <summary class="dropdown-text"> Formation and dynamics of mineral-associated organic carbon in subtropical forests</summary><br>
 <div class="row">
     <div class="col-md-3">
-    <img class = "img3" src=" {{ site.baseurl }}/assets/projects/ZongguangLiu/ZongguangLiu.jpg">
+      <img class = "img3" src=" {{ site.baseurl }}/assets/projects/ZongguangLiu/ZongguangLiu1.jpg">
+    </div>
+    <div class="col-md-3">
+      <img class = "img3" src=" {{ site.baseurl }}/assets/projects/ZongguangLiu/ZongguangLiu2.jpg">
     </div>
     <div class="col-md-4">
     <li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
@@ -217,7 +257,6 @@ Institute of Botany, Chinese Academy of Sciences<br>
     </li>
     </div>
 </div>
-
 </details>
 
 <details>
@@ -346,13 +385,24 @@ Institute of Botany, Chinese Academy of Sciences<br>
 </details>
 
 <details>
-<summary class="dropdown-text"> The effects of host plant diversity on the assembly of phylloesphere microbial communities</summary><br>
-<li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
-Prof. Dr. Lin Jiang	Georgia<br>
-Institute of Technology<br>
-<i class="fas fa-envelope"></i> lin.jiang<i class="fas fa-at"></i>biology.gatech.edu<br>
-<strong>PhD student: Xian Yang</strong>
-</li>
+<summary class="dropdown-text"> The effects of host plant diversity on the assembly of leaf bacterial communities</summary><br>
+<div class="row">
+    <div class="col-md-3">
+    <img class = "img3" src=" {{ site.baseurl }}/assets/projects/yangxian/yangxian1.jpg">
+    </div>
+    <div class="col-md-3">
+      <img class = "img3" src=" {{ site.baseurl }}/assets/projects/yangxian/yangxian2.jpg">
+    </div>
+    <div class="col-md-4">
+    <li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+    Prof. Dr. Lin Jiang	Georgia<br>
+    Institute of Technology<br>
+    <i class="fas fa-envelope"></i> lin.jiang<i class="fas fa-at"></i>biology.gatech.edu<br>
+    <strong>PhD student: Xian Yang</strong>
+    </li>
+    </div>
+</div>
+
 </details>
 
 <details>
@@ -381,12 +431,10 @@ Institute of Technology<br>
 <summary class="dropdown-text"> Do trees with extrafloral nectaries interact with tree diversity in mediating insect communities, leaf damage, defense traits and tree growth?</summary><br>
 <div class="row">
     <div class="col-md-3">
-    <img class = "img3" src=" {{ site.baseurl }}/assets/projects/MichaelStaab/MichaelStaab1.jpg">
-    </div>
-    <div class="col-md-3">
+      <img class = "img3" src=" {{ site.baseurl }}/assets/projects/MichaelStaab/MichaelStaab1.jpg">
       <img class = "img3" src=" {{ site.baseurl }}/assets/projects/MichaelStaab/MichaelStaab2.jpg">
     </div>
-    <div class="col-md-4">
+    <div class="col-md-6">
     <li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
     Assoc. Prof. Dr. Xiaojuan Liu<br>
     Institute of Botany, Chinese Academy of Sciences<br>
