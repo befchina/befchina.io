@@ -12,7 +12,7 @@ tags: [projects]
 permalink: "/previousprojects.html"
 ---
 
-<a href="http://www.bef-china.de/index.php/en/">
+<a href="https://www.bef-china.de/index.php/en/">
   <img class = "textwrap" src = "{{ site.baseurl }}/assets/logo/BEF-China.jpg" style="width:10%">
 </a>
 
@@ -38,4 +38,4 @@ The research concentrates on measuring ecosystem functions in the experimental p
 - SP 13: Microbial biomass and activity
 - SP 14: Foliar fungal pathogens
 
-For more information about previous projects, please visit [http://www.bef-china.de/index.php/en/projects](http://www.bef-china.de/index.php/en/projects)
+For more information about previous projects, please visit [https://www.bef-china.de/index.php/en/projects](https://www.bef-china.de/index.php/en/projects)
