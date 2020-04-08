@@ -174,10 +174,10 @@ permalink: "/otherprojects.html"
 <details>
 <summary class="dropdown-text"> Assessing the dynamic of vegetation function and productivity with laser and hyperspectral analyses of CSPs and main experiments</summary><br>
 <div class="row">
-    <div class="col-md-3">
+    <!-- <div class="col-md-3">
     <img class = "img3" src=" {{ site.baseurl }}/assets/projects/Michael/Michael1.jpg">
     <img class = "img3" src=" {{ site.baseurl }}/assets/projects/Michael/Michael2.jpg">
-    </div>
+    </div> -->
     <div class="col-md-6">
     <li class="dropdown-sub"><strong>Principal Investigators:</strong> <br>
     Assoc. Prof. Dr. Xiaojuan Liu<br>
