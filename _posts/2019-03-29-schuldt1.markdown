@@ -3,7 +3,7 @@ layout: post
 title:  "Multiple plant diversity components drive consumer communities across ecosystems"
 author: Andreas Schuldt
 categories: [ Article ]
-image: assets/projects/schuldt1.jpg
+image: assets/projects/schuldt1.png
 tags: featured
 ---
 ### Abstract:
