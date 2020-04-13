@@ -2,7 +2,7 @@
 layout: post
 title:  "Species-Rich Forests Better Compensate Environmental Impacts"
 author: Xiaojuan Liu
-categories: [ Research ]
+categories: [ Article ]
 image: assets/img/gts_6.jpeg
 tags: featured
 ---

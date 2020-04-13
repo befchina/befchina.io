@@ -2,7 +2,7 @@
 layout: post
 title:  "Herbivore Phylogenetic Diversity Can Be Affected By Plant Diversity Loss"
 author: ZHU Chaodong
-categories: [ Research ]
+categories: [ Article ]
 image: assets/img/zhujecology.png
 tags: featured
 ---

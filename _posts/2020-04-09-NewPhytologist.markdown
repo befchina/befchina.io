@@ -2,7 +2,7 @@
 layout: post
 title:  "New Publication: Genetic richness affects trait variation but not community productivity in a tree diversity experiment"
 author: Franca J. Bongers
-categories: [ Research ]
+categories: [ Article ]
 image: assets/img/genetic.jpg
 tags: featured
 ---
@@ -17,4 +17,4 @@ We argue that identifying functional diversity within and among species in fores
 
 
 ### Literature:
-Franca J. Bongers, Bernhard Schmid, Walter Durka, Shan Li, Helge Bruelheide, Christoph Z. Hahn, Haoru Yan, Keping Ma, and Xiaojuan Liu. 2020. Genetic richness affects trait variation but not community productivity in a tree diversity experiment. New Phytologist. in publish. [https://doi.org/10.1111/nph.16567](https://doi.org/10.1111/nph.16567).
+Franca J. Bongers, Bernhard Schmid, Walter Durka, Shan Li, Helge Bruelheide, Christoph Z. Hahn, Haoru Yan, Keping Ma, and Xiaojuan Liu. 2020. Genetic richness affects trait variation but not community productivity in a tree diversity experiment. New Phytologist. on line. [https://doi.org/10.1111/nph.16567](https://doi.org/10.1111/nph.16567).
