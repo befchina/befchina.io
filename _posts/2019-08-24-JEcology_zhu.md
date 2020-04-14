@@ -1,13 +1,11 @@
 ---
 layout: post
 title:  "Herbivore Phylogenetic Diversity Can Be Affected By Plant Diversity Loss"
-author: ZHU Chaodong
+author: Chaodong Zhu
 categories: [ Article ]
 image: assets/img/zhujecology.png
 tags: featured
 ---
-ZHU Chaodong
-
 Global change leads to increasing biodiversity loss, usually with consequences for the structure and functioning of ecosystems, such as primary productivity and nutrient cycling.
 
 Previous work has emphasized strong linkages between the loss of plant species richness and declines in consumer abundance and diversity. However, the mechanisms underlying these linkages are still unclear.
