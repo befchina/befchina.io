@@ -6,7 +6,7 @@ categories: [ Article ]
 image: assets/img/genetic.jpg
 tags: featured
 ---
-### Abstract:
+
 Biodiversity–ecosystem functioning experiments found that productivity generally increases with species richness, but less is known about effects of within‐species genetic richness and potential interactions between the two. While functional differences between species can explain species richness effects, empirical evidence regarding functional differences between genotypes within species and potential consequences for productivity is largely lacking.
 
 We therefore measured within‐ and among‐species variation in functional traits and growth and determined stand‐level tree biomass in a large forest experiment factorially manipulating species and genetic richness in subtropical China.
