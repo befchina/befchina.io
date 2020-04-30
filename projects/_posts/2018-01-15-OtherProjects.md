@@ -10,6 +10,7 @@ image: /assets/img/BEF-title2.jpg
 tags: [projects]
 permalink: "/otherprojects.html"
 ---
+<p>If you wish to apply for a new project in BEF-China, please download <a href="{{site.baseurl}}/assets/file/Application template for working in BEF-China platform.doc">the application form</a> and send it to <i class="fas fa-envelope"></i> befchina<i class="fas fa-at"></i>163.com.</p>
 
 ### - [Productivity](#productivity)
 ### - [Nutrient cycling](#nutrient-cycling)
