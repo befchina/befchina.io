@@ -40,4 +40,4 @@ The research concentrates on measuring ecosystem functions in the experimental p
 
 For more information about previous projects, please visit [https://www.bef-china.de/index.php/en/projects](https://www.bef-china.de/index.php/en/projects)
 
-<p>If you wish to apply for a new project in BEF-China, please download <a href="{{site.baseurl}}/assets/file/Application template for working in BEF-China platform.doc">the application form</a> and send it to <i class="fas fa-envelope"></i> befchina<i class="fas fa-at"></i>163.com.</p>
+<p>If you wish to apply for a new project in BEF-China, please download <a href="{{site.baseurl}}/assets/file/Application template for working in BEF-China platform.doc">the application form</a>.
