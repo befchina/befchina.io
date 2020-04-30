@@ -494,11 +494,11 @@ pre {
 }
 
 .document{
-    padding: 5px;
+    padding: 3px;
     width: 200px;
     /* background-color: lightgrey; */
     border: 2px solid green;
-    margin-left: 0px;
+    margin: 0px;
 }
 .container4{
   width: 100%;
