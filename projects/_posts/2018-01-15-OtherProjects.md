@@ -455,7 +455,7 @@ permalink: "/otherprojects.html"
 </details>
 
 <details>
-<summary class="dropdown-text"> Dispersal of pathogens in forest stand with different tree diversity</summary><br>
+<summary class="dropdown-text"> Effects of plants diversity and inhibition of pathogen transmission on seedling growth and recruitment</summary><br>
 <div class="row">
     <div class="col-md-3">
     <img class = "img3" src=" {{ site.baseurl }}/assets/projects/ShaoranLi/ShaoranLi2.jpg">
