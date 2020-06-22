@@ -1,12 +1,12 @@
 ﻿---
 layout: post
-title:  "Host functional and phylogenetic composition rather than host diversity"
+title:  "Host functional and phylogenetic composition rather than host diversity structure plant-herbivore networks"
 author: Ming‐Qiang Wang
 categories: [ Article ]
 image: assets/projects/w1.png
 tags: featured
 ---
-### Structure plant-herbivore networks
+### 
 Plant-herbivore interactions is a key ecological process in ecosystem functioning and is usually altered by global environmental change, especially plant diversity. Previous study mostly has emphasized the effects of plant diversity on plant-herbivore networks in grasslands. For forests, however, we still lack a general understanding of how changes in tree diversity, functional traits and phylogenetic composition affect the plant-herbivore interactions.
 
 Here, a joint research group, Chao-Dong Zhu's Lab (Insititute of Zoology, Chinese Academy of Sciences) and Andreas Schuldt's Lab (Georg-August-University Göttingen) has collected over 8000 caterpillars and integrated multiple components of plant diversity, leaf traits, functional and phylogenetic composition of plant, with a particular using molecular data (DNA barcoding), to test functional and phylogenetic composition of herbivore communities. Moreover, they also used these predictors to analyze network metrics at the level of host communities and individual host species. The study is based on the largest tree diversity experiment in the world at present and make use of an extensive data set that includes plant-herbivore associations in phylogeny – a trophic relationship that almost impossible to be constructed by using morphological identification, especially for larval stage herbivore. 
