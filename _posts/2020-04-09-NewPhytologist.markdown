@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New publication: Genetic richness affects trait variation but not community productivity in a tree diversity experiment"
+title:  "Genetic richness affects trait variation but not community productivity in a tree diversity experiment"
 author: Franca J. Bongers
 categories: [ Article ]
 image: assets/img/genetic.jpg
