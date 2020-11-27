@@ -2,28 +2,28 @@
   position: Chair
   institute: Institute of Botany, Chinese Academy of Sciences, China
   avatar: /assets/avatar/Ma.jpg
-  email: kpma<i class="fas fa-at"></i>ibcas.ac.cn
+  email: kpma@ibcas.ac.cn
   web: http://lvec.ibcas.ac.cn/rcdw/yjy/202002/t20200204_541685.html
 
 - name: Prof. Dr. Helge Bruelheide
   position: SC member
   institute: Institute of Biology / Geobotany, MLU & iDiv, Germany
   avatar: /assets/avatar/Helge.jpg
-  email: helge.bruelheide<i class="fas fa-at"></i>botanik.uni-halle.de
+  email: helge.bruelheide@botanik.uni-halle.de
   web: https://www.botanik.uni-halle.de/geobotanik/helge_bruelheide/
 
 - name: Prof. Dr. Bernhard Schmid
   position: SC member
   institute: University of Zurich, Switzerland
   avatar: /assets/avatar/Bernhard.jpg
-  email: bernhard.schmid<i class="fas fa-at"></i>ieu.uzh.ch
+  email: bernhard.schmid@ieu.uzh.ch
   web: https://www.geo.uzh.ch/geolean/en/units/rsl/staff/?content=bernhardschmid
 
 - name: Prof. Dr. Yanfen Wang
   position: SC member
   institute: University of Chinese Academy of Sciences, China
   avatar: /assets/avatar/Wang.jpg
-  email: yfwang<i class="fas fa-at"></i>ucas.ac.cn
+  email: yfwang@ucas.ac.cn
   web: http://people.ucas.ac.cn/~0002374?language=en
 
 
@@ -31,12 +31,12 @@
   position: SC member
   institute: Jingdezhen University, China
   avatar: /assets/avatar/Wu.jpg
-  email: parnassia<i class="fas fa-at"></i>126.com
+  email: parnassia@126.com
   web:
 
 - name: Assoc. Prof. Dr. Xiaojuan Liu
   position: Secretary of the Steering Committee
   institute: Institute of Botany, Chinese Academy of Sciences, China
   avatar: /assets/avatar/Liu.jpg
-  email: liuxiaojuan06[<i class="fas fa-at"></i>]ibcas.ac.cn
+  email: liuxiaojuan06[@]ibcas.ac.cn
   web:  http://lvec.ibcas.ac.cn/en/People/ap/202002/t20200213_542494.html
