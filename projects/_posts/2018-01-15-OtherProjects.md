@@ -45,7 +45,7 @@ permalink: "/otherprojects.html"
       <i class="fas fa-envelope"></i> bws2007@163.com<br>
       Prof. Dr. Keping Ma<br>Institute of Botany, Chinese Academy of Sciences<br>
       <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>
-      <strong>PhD student:</strong><br>  Hanjiao Gu<br>
+      <strong>PhD student:</strong><br> Hanjiao Gu<br>
       <br>
       <strong><strong>Objectives:</strong></strong> <br>
       *	To analyse species richness effects on fine-root production;<br>
@@ -390,7 +390,7 @@ permalink: "/otherprojects.html"
     <li class="dropdown-sub"><strong>Principal Investigators:</strong> <br>
     Assoc. Prof. Dr. Xiaojuan Liu<br>
     Institute of Botany, Chinese Academy of Sciences<br>
-    <i class="fas fa-envelope"></i> liuxiaojuan06<img class = "img3" src=" {{ site.baseurl }}/assets/img/emailicon.png">ibcas.ac.cn<br>
+    <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
     Prof. Dr. Keping Ma<br>
     Institute of Botany, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>
@@ -509,7 +509,7 @@ permalink: "/otherprojects.html"
       <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
       Prof. Dr. Keping Ma<br> Institute of Botany, Chinese Academy of Sciences<br>
       <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>  
-      <strong>Postdoc:</strong>Dr. Lan Zhang
+      <strong>Postdoc: </strong>Dr. Lan Zhang
       </li>
 </div>
 </details>
@@ -523,7 +523,7 @@ permalink: "/otherprojects.html"
       <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
       Prof. Dr. Keping Ma <br> Institute of Botany, Chinese Academy of Sciences<br>
       <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>  
-     <strong>Postdoc:</strong>Dr. Franca J. Bongers
+     <strong>Postdoc: <strong>Dr. Franca J. Bongers
       </li>
 </div>
 </details>
@@ -682,7 +682,7 @@ permalink: "/otherprojects.html"
     Prof. Dr. Chaodong Zhu<br>
     Institute of Zoology, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> zhucd@ioz.ac.cn <br>
-    <strong>Master student</strong>Yannan Chen
+    <strong>Master student: </strong>Yannan Chen
     </li>
     </div>
 </div>
