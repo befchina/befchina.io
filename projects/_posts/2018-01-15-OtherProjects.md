@@ -20,9 +20,9 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
-      Prof. Dr. Goddert von Oheimb, <br>TU Dresden<br>
+      Prof. Dr. Goddert von Oheimb <br>TU Dresden<br>
       <i class="fas fa-envelope"></i> Goddert_v_Oheimb@tu-dresden.de<br>
-      Prof. Dr. Werner Härdtle, German Centre for Integrative Biodiversity Research (iDiv)<br>
+      Prof. Dr. Werner Härdtle<br>German Centre for Integrative Biodiversity Research (iDiv)<br>
       <i class="fas fa-envelope"></i> werner.haerdtle@uni.leuphana.de<br>
       <strong>PhD student:</strong><br> Maria Dolores Perles Garcia<br>
       <br>
@@ -39,11 +39,11 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
-      Assoc. Prof. Dr. Xiaojuan Liu, <br>Institute of Botany, Chinese Academy of Sciences<br>
+      Assoc. Prof. Dr. Xiaojuan Liu <br>Institute of Botany, Chinese Academy of Sciences<br>
       <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
-      Dr. Wensheng Bu, Jiangxi Agricultural University<br>
+      Dr. Wensheng Bu<br>Jiangxi Agricultural University<br>
       <i class="fas fa-envelope"></i> bws2007@163.com<br>
-      Prof. Dr. Keping Ma, Institute of Botany, Chinese Academy of Sciences<br>
+      Prof. Dr. Keping Ma<br>Institute of Botany, Chinese Academy of Sciences<br>
       <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>
       <strong>PhD student:</strong><br>  Hanjiao Gu<br>
       <br>
@@ -63,9 +63,9 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
-      Dr. Sylvia Haider, <br>Institute of Biology, Martin-Luther-University Halle-Wittenberg<br>
+      Dr. Sylvia Haider<br>Institute of Biology, Martin-Luther-University Halle-Wittenberg<br>
       <i class="fas fa-envelope"></i> sylvia.haider@botanik.uni-halle.de<br>
-      Prof. Dr. Stan Harpole, German Centre for Integrative Biodiversity Research (iDiv)<br>
+      Prof. Dr. Stan Harpole<br>German Centre for Integrative Biodiversity Research (iDiv)<br>
       <i class="fas fa-envelope"></i> stan.harpole@idiv.de<br>
       <strong>PhD student: </strong><br> Andréa Davrinche<br>
       <br>
@@ -87,9 +87,9 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
-      Prof. Dr. Zeqing Ma, <br>Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences<br>
+      Prof. Dr. Zeqing Ma <br>Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences<br>
       <i class="fas fa-envelope"></i> mazq@igsnrr.ac.cn<br>
-      Dr. Bo Yang, Jingdezhen University<br>
+      Dr. Bo Yang<br>Jingdezhen University<br>
       <i class="fas fa-envelope"></i> yangbomvp@aliyun.com<br>
       <strong>PhD student: </strong><br> Gaigai Ding<br>
       <br>
@@ -106,9 +106,9 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
-      Prof. Dr. Christian Wirth, <br>Institute of Biology, Leipzig University (UL)<br>
+      Prof. Dr. Christian Wirth <br>Institute of Biology, Leipzig University (UL)<br>
       <i class="fas fa-envelope"></i> cwirth@uni-leipzig.de<br>
-      Prof. Dr. Jürgen Bauhus, <br>Institute of Biology, Leipzig University (UL) & German Centre for Integrative Biodiversity Research (iDiv)<br>
+      Prof. Dr. Jürgen Bauhus <br>Institute of Biology, Leipzig University (UL) & German Centre for Integrative Biodiversity Research (iDiv)<br>
       <i class="fas fa-envelope"></i> juergen.bauhus@waldbau.uni-freiburg.de<br>
       <strong>PhD student:</strong><br> Florian Schnabel<br>
       <br>
@@ -128,7 +128,7 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
-      Assoc. Prof. Dr. Zhiyao Tang, <br>College of Urban and Environmental Sciences, Peking University<br>
+      Assoc. Prof. Dr. Zhiyao Tang <br>College of Urban and Environmental Sciences, Peking University<br>
       <i class="fas fa-envelope"></i> zytang@urban.pku.edu.cn<br>
       <strong>PhD student: </strong><br> Tongyan Liu<br>
       <br>
@@ -150,7 +150,7 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
-      Prof. Dr. Andreas Schuldt, <br>Martin-Luther-University Halle-Wittenberg Institute of Biology<br>
+      Prof. Dr. Andreas Schuldt <br>Martin-Luther-University Halle-Wittenberg Institute of Biology<br>
       <i class="fas fa-envelope"></i> andreas.schuldt@forst.uni-goettingen.de<br>
       <strong>PhD student:</strong><br> Perttu Anttonen<br>
       <br>
@@ -167,7 +167,7 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
-      Prof. Dr. Chaodong Zhu, <br>Institute of zoology, Chinese Academy of Sciences<br>
+      Prof. Dr. Chaodong Zhu <br>Institute of zoology, Chinese Academy of Sciences<br>
       <i class="fas fa-envelope"></i> zhucd@ioz.ac.cn<br>
       <strong>PhD student:</strong><br>  Yi Li<br>
       <br>
@@ -184,7 +184,7 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
-      Prof. Dr. Helge Bruelheide, <br>Institute of Biology, Martin-Luther-University Halle-Wittenberg<br>
+      Prof. Dr. Helge Bruelheide <br>Institute of Biology, Martin-Luther-University Halle-Wittenberg<br>
       <i class="fas fa-envelope"></i> helge.bruelheide@botanik.uni-halle.de<br>
       <strong>PhD student: </strong><br>Mariem Saadani<br>
       <br>
@@ -202,9 +202,9 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
-      Prof. Dr. Lingli Liu, <br>Institute of Botany, Chinese Academy of Sciences<br>
+      Prof. Dr. Lingli Liu <br>Institute of Botany, Chinese Academy of Sciences<br>
       <i class="fas fa-envelope"></i> lingli.liu@ibcas.ac.cn<br>
-      Prof. Dr. Xiaoyong Cui, <br>University of Chinese Academy of Sciences<br>
+      Prof. Dr. Xiaoyong Cui <br>University of Chinese Academy of Sciences<br>
       <i class="fas fa-envelope"></i> cuixy@ucas.ac.cn<br>
       <strong>PhD student: </strong><br> Lulu Guo<br>
       <br>
@@ -220,13 +220,13 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
-      Prof. Dr.Nicole van Dam, <br>German Centre for Integrative Biodiversity Research (iDiv)<br>
+      Prof. Dr.Nicole van Dam <br>German Centre for Integrative Biodiversity Research (iDiv)<br>
       <i class="fas fa-envelope"></i> Nicole.vandam@idiv.de<br>
-      Dr. Steffen Neumann, <br>Leibniz Institute of Plant Biochemistry<br>
+      Dr. Steffen Neumann <br>Leibniz Institute of Plant Biochemistry<br>
       <i class="fas fa-envelope"></i> Steffen.Neumann@ipb-halle.de<br>
-      Prof. Dr. Dierk Scheel,<br> Leibniz Institute of Plant Biochemistry<br>
+      Prof. Dr. Dierk Scheel<br> Leibniz Institute of Plant Biochemistry<br>
       <i class="fas fa-envelope"></i> Dierk.Scheel@ipb-halle.de<br>
-      Dr. Alexander Weinhold,<br> German Centre for Integrative Biodiversity Research (iDiv)<br>
+      Dr. Alexander Weinhold<br> German Centre for Integrative Biodiversity Research (iDiv)<br>
       <i class="fas fa-envelope"></i> alexander.weinhold@idiv.de<br>
       <strong>PhD student: </strong><br> Min Liu<br>
       <br>
@@ -243,9 +243,9 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
-      Prof. Dr. Xingliang Xu, <br>Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences<br>
+      Prof. Dr. Xingliang Xu <br>Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences<br>
       <i class="fas fa-envelope"></i> xuxingl@hotmail.com<br>
-      Assoc. Prof. Dr. Naili Zhang, Beijing Forestry University<br>
+      Assoc. Prof. Dr. Naili Zhang <br>Beijing Forestry University<br>
       <i class="fas fa-envelope"></i> zhangnaili@bjfu.edu.cn<br>
       <strong>PhD student:</strong><br>  Sirong Zhang, Min Liu<br>
       <br>
@@ -267,7 +267,7 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
-      Dr. Tesfaye Wubet, <br>Institute of Biology, Martin-Luther-University Halle-Wittenberg; Helmholtz center for Environmental research (UFZ)<br>
+      Dr. Tesfaye Wubet <br>Institute of Biology, Martin-Luther-University Halle-Wittenberg; Helmholtz center for Environmental research (UFZ)<br>
       <i class="fas fa-envelope"></i> tesfaye.wubet@ufz.de<br>
       <strong>PhD student:</strong><br>  Bala Singavarapu<br>
       <br>
@@ -284,7 +284,7 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
-      Prof. Dr. Liangdong Guo,<br> Institute of Microbiology, Chinese Academy of Sciences<br>
+      Prof. Dr. Liangdong Guo<br> Institute of Microbiology, Chinese Academy of Sciences<br>
       <i class="fas fa-envelope"></i> guold@im.ac.cn<br>
       <strong>PhD student:</strong><br> Huiyun Gan<br>
       <br>
@@ -300,9 +300,9 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
-      Dr. Simone Cesarz,<br> Leipzig University, German Centre for Integrative Biodiversity Research (iDiv)<br>
+      Dr. Simone Cesarz<br> Leipzig University, German Centre for Integrative Biodiversity Research (iDiv)<br>
       <i class="fas fa-envelope"></i> simone.cesarz@idiv.de<br>
-      Prof. Dr. Nico Eisenhauer, Leipzig University, German Centre for Integrative Biodiversity Research (iDiv)<br>
+      Prof. Dr. Nico Eisenhauer<br> Leipzig University, German Centre for Integrative Biodiversity Research (iDiv)<br>
       <i class="fas fa-envelope"></i> nico.eisenhauer@idiv.de<br>
       <strong>PhD student:</strong><br> Rémy Beugnon<br>
       <br>
@@ -325,9 +325,9 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
-      Prof. Dr. Yanfen Wang, <br>University of Chinese Academic of Sciences<br>
+      Prof. Dr. Yanfen Wang <br>University of Chinese Academic of Sciences<br>
       <i class="fas fa-envelope"></i> yfwang@ucas.ac.cn<br>
-      Assoc. Prof. Dr. Kai Xue, University of Chinese Academic of Sciences<br>
+      Assoc. Prof. Dr. Kai Xue<br> University of Chinese Academic of Sciences<br>
       <i class="fas fa-envelope"></i> xuekai@ucas.ac.cn<br>
       <strong>PhD student: </strong><br> Jianqing Du<br>
       <br>
@@ -344,7 +344,7 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
-      Prof. Dr. Ulrich Brose,<br> Friedrich-Schiller University Jena, Institute of Biodiversity / German Centre for Integrative Biodiversity Research (iDiv)<br>
+      Prof. Dr. Ulrich Brose<br> Friedrich-Schiller University Jena, Institute of Biodiversity / German Centre for Integrative Biodiversity Research (iDiv)<br>
       <i class="fas fa-envelope"></i> ulrich.brose@idiv.de<br>
       <strong>PhD student:</strong><br> Georg Albert<br>
       <br>
@@ -361,9 +361,9 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
-      Prof. Dr. Weiguo Sang, <br>Minzu University of China<br>
+      Prof. Dr. Weiguo Sang <br>Minzu University of China<br>
       <i class="fas fa-envelope"></i> swg@muc.edu.cn<br>
-      Prof. Dr. Shaopeng Wang, College of Urban and Environmental Sciences, Peking University<br>
+      Prof. Dr. Shaopeng Wang<br>College of Urban and Environmental Sciences, Peking University<br>
       <i class="fas fa-envelope"></i> shaopeng.wang@pku.edu.cn<br>
       <strong>PhD student:</strong><br>  Chenyu Huang<br>
       <br>
@@ -394,7 +394,7 @@ permalink: "/otherprojects.html"
     Prof. Dr. Keping Ma<br>
     Institute of Botany, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>
-    <strong>Postdoc: Dr. Franca J Bongers</strong>
+    <strong>Postdoc: </strong>Dr. Franca J Bongers
     </li>
     </div>
 </div>
@@ -402,7 +402,7 @@ permalink: "/otherprojects.html"
 </details>
 
 <details>
-<summary class="dropdown-text"> Tree growth under a gradient of species diversity, considering intra-specific genetic variation of 12 species</summary><br>
+<summary class="dropdown-text"> Species and genotypic specific tree growth under a gradient of species diversity and time series</summary><br>
 <div class="row">
     <div class="col-md-3">
     <img class = "img3" src=" {{ site.baseurl }}/assets/projects/FrancaBongers/FrancaBongers3.jpg">
@@ -418,7 +418,8 @@ permalink: "/otherprojects.html"
     Prof. Dr. Keping Ma<br>
     Institute of Botany, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>
-    <strong>Postdoc: Dr. Franca J Bongers</strong>
+    <strong>Postdoc:</strong> Dr. Franca J Bongers<br>
+    <strong>PhD student:</strong> Ting Tang
     </li>
     </div>
 </div>
@@ -441,7 +442,7 @@ permalink: "/otherprojects.html"
     Prof. Dr. Keping Ma<br>
     Institute of Botany, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>
-    <strong>Postdoc: Dr. Franca J Bongers</strong>
+    <strong>Postdoc: </strong>Dr. Franca J Bongers
     </li>
     </div>
 </div>
@@ -465,7 +466,7 @@ permalink: "/otherprojects.html"
     Prof. Dr. Keping Ma<br>
     Institute of Botany, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>
-    <strong>Postdoc: Dr. Shan Li</strong>
+    <strong>Postdoc: </strong>Dr. Shan Li
     </li>
     </div>
 </div>
@@ -506,9 +507,9 @@ permalink: "/otherprojects.html"
       <strong><strong>Principal Investigator:</strong></strong> <br>
       Assoc. Prof. Dr. Xiaojuan Liu <br> Institute of Botany, Chinese Academy of Sciences<br>
       <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
-      Prof. Dr. Keping Ma, Institute of Botany, Chinese Academy of Sciences<br>
+      Prof. Dr. Keping Ma<br> Institute of Botany, Chinese Academy of Sciences<br>
       <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>  
-      <strong>Postdoc:</strong> Lan Zhang
+      <strong>Postdoc:</strong>Dr. Lan Zhang
       </li>
 </div>
 </details>
@@ -522,7 +523,7 @@ permalink: "/otherprojects.html"
       <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
       Prof. Dr. Keping Ma <br> Institute of Botany, Chinese Academy of Sciences<br>
       <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>  
-     <strong>Postdoc:</strong> Franca J. Bongers
+     <strong>Postdoc:</strong>Dr. Franca J. Bongers
       </li>
 </div>
 </details>
@@ -589,9 +590,9 @@ permalink: "/otherprojects.html"
     </div>
     <div class="col-md-4">
     <li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
-    Prof. Dr. Xiaojuan Feng	Institute of Botany, Chinese Academy of Sciences<br>
+    Prof. Dr. Xiaojuan Feng<br> Institute of Botany, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> xfeng@ibcas.ac.cn<br>
-    <strong>PhD student: Zongguang Liu</strong>
+    <strong>PhD student: </strong>Zongguang Liu
     </li>
     </div>
 </div>
@@ -643,7 +644,7 @@ permalink: "/otherprojects.html"
     Chaodong Zhu<br>
     Institute of Zoology, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> zhucd@ioz.ac.cn<br>
-    <strong>PhD student: Pengfei Guo</strong>
+    <strong>PhD student: </strong>Pengfei Guo
     </li>
     </div>
 </div>
@@ -702,7 +703,7 @@ permalink: "/otherprojects.html"
       Assoc. Prof. Dr. Naili Zhang<br>
      Beijing Forestry University<br>
       <i class="fas fa-envelope"></i> zhangnaili@bjfu.edu.cn<br>
-    <strong>Postdoc: Dr. Hong Lin</strong>
+    <strong>Postdoc:</strong> Dr. Hong Lin
     </li>
     </div>
 </div>
@@ -723,7 +724,7 @@ permalink: "/otherprojects.html"
       Assoc. Prof. Dr. Naili Zhang<br>
      Beijing Forestry University<br>
       <i class="fas fa-envelope"></i> zhangnaili@bjfu.edu.cn<br>
-    <strong>Postdoc: Dr. Hong Lin</strong>
+    <strong>Postdoc: </strong>Dr. Hong Lin
     </li>
     </div>
 </div>
@@ -743,7 +744,7 @@ permalink: "/otherprojects.html"
       Assoc. Prof. Dr. Naili Zhang<br>
       Beijing Forestry University<br>
       <i class="fas fa-envelope"></i> zhangnaili@bjfu.edu.cn<br>
-    <strong>Master student: Xinlei Zhang</strong>
+    <strong>Master student:</strong> Xinlei Zhang
     </li>
     </div>
 </div>
@@ -764,7 +765,7 @@ permalink: "/otherprojects.html"
     Prof. Dr. Lin Jiang<br>
     Georgia Institute of Technology<br>
     <i class="fas fa-envelope"></i> lin.jiang@biology.gatech.edu<br>
-    <strong>PhD student: Xian Yang</strong>
+    <strong>PhD student:</strong> Xian Yang
     </li>
     </div>
 </div>
@@ -790,7 +791,7 @@ permalink: "/otherprojects.html"
     Assoc. Prof. Dr. Michael Staab<br>
     University of Freiburg<br>
     <i class="fas fa-envelope"></i> michael.staab@nature.uni-freiburg.de<br>
-    <strong>Master student: Stefanie Pietsch</strong>
+    <strong>Master student: </strong>Stefanie Pietsch
     </li>
     </div>
 </div>
@@ -805,7 +806,7 @@ permalink: "/otherprojects.html"
     Assoc. Prof. Dr. Yu Liang<br>
     Institute of Botany, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> coolrain@ibcas.ac.cn<br>
-    <strong>Master student: Shaoran Li</strong>
+    <strong>Master student:</strong> Shaoran Li
     </li>
     </div>
 </div>
@@ -826,7 +827,7 @@ permalink: "/otherprojects.html"
     Assoc. Prof. Dr. Yu Liang<br>
     Institute of Botany, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> coolrain@ibcas.ac.cn<br>
-    <strong>Master student: Shaoran Li</strong>
+    <strong>Master student:</strong> Shaoran Li
     </li>
     </div>
 </div>
