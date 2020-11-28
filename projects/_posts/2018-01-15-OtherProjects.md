@@ -523,7 +523,7 @@ permalink: "/otherprojects.html"
       <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
       Prof. Dr. Keping Ma <br> Institute of Botany, Chinese Academy of Sciences<br>
       <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>  
-     <strong>Postdoc: <strong>Dr. Franca J. Bongers
+      <strong>Postdoc: </strong>Dr. Franca J. Bongers
       </li>
 </div>
 </details>
