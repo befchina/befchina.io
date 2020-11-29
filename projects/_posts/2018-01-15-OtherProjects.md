@@ -542,7 +542,7 @@ permalink: "/otherprojects.html"
 
 
 <details>
-<summary class="dropdown-text"> Stand tree diversity effect on shrub survival</summary><br>
+<summary class="dropdown-text"> The interation of tree diversity and shrub diversity effect on shrub survival rate</summary><br>
 <div class="row">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
