@@ -13,4 +13,97 @@ The aim of TreeDì – 林地 (lín dì, forest land) is to understand how tree-
 
 By bringing together experts and doctoral researchers from leading research institutions located in Germany and China, TreeDì creates a stimulating network of excellence. TreeDì features an international qualification programme involving an intensive Chinese-German cultural exchange during a 6-month research visit in the partners' countries, a joint PhD advisory committee (PAC) composed of Chinese and German experts, and unique offers to meet, study and discuss with figureheads in biodiversity research.
 
-Within the International Research Training Group TreeDì (GRK 2324), all positions are detailed on [https://www.idiv.de/de/web/treedi/join_treedi.html](https://www.idiv.de/de/web/treedi/join_treedi.html).
+Within the International Research Training Group TreeDì (GRK 2324), we offer positions in the following subprojects:
+
+<strong><strong>P1G: Spatial aboveground complementarity</strong></strong>
+
+PIs: Prof. Goddert von Oheimb, Prof. Werner Härdtle
+
+Place of work: Tharandt/ Dresden
+
+
+<strong><strong>P2G: Complementarity through trait variation</strong></strong>
+
+PIs: Dr. Sylvia Haider, Prof. Stan Harpole
+
+Place of work: Halle (Saale)
+
+
+<strong><strong>P3G: Diversity Signals in Tree Interaction</strong></strong>
+
+PI: Prof. Christian Wirth
+
+Place of work: Leipzig
+
+
+<strong><strong>P4G: Bottom-up and top-down drivers of herbivory</strong></strong>
+
+PI: Prof. Andreas Schuldt
+
+Place of work: Göttingen
+
+
+<strong><strong>P5G: Drivers of fungal endophyte richness</strong></strong>
+
+PI: Prof. Helge Bruelheide
+
+Place of work: Halle (Saale)
+
+
+<strong><strong>P6G: Biodiversity effects on leaf and litter metabolomes</strong></strong>
+
+PIs: Prof. Nicole van Dam, Dr. Steffen Neumann, Dr. Alexander Weinhold
+
+Place of work: Leipzig
+
+
+<strong><strong>P7G: Rhizosphere and root microbes</strong></strong>
+
+PI: Dr. Tesfaye Wubet
+
+Place of work: Halle (Saale)
+
+
+<strong><strong>P8G: Functional diversity of soil organisms</strong></strong>
+
+PIs: Dr. Simone Cesarz, Prof. Nico Eisenhauer
+
+Place of work: Leipzig
+
+
+<strong><strong>P9G: Modelling generalized diversity interactions</strong></strong>
+
+PI: Prof. Ulrich Brose
+
+Place of work: Leipzig
+
+
+<strong><strong>We offer:</strong></strong>
+
+* Cutting-edge research projects in one of the largest tree diversity experiments
+* Outstanding and integrative research environment offering many networking opportunities
+* Individual supervision by internationally recognized scientists in BEF research
+* Tailored international qualification programme
+
+<strong><strong>Requirements/expected profile:</strong></strong>
+* Excellent M.Sc.degree in a project-related field (e.g. ecology; environmental sciences)
+* Very good ecological knowledge and great interest with regard to forest biodiversity research
+* Good quantitative and statistical skills in R
+* Excellent communication skills in English - writing and speaking. Knowledge of German and/or Chinese would be advantageous.
+* Motivated to be a proactive team player in an international research consortium
+* Applicants must be prepared to spend substantial time (approx. 2-4 months per year) in China for fieldwork, lab visits and courses.
+* Willingness to work under subtropical field conditions. Field work experience would be advantageous
+
+<strong><strong>Application deadline: 14 February 2021</strong></strong>
+
+<strong><strong>All applications should include:</strong></strong>
+* Cover letter in English describing motivation for the project, research interests and relevant experience
+* Curriculum vitae in tabular form
+* Digital copy of the master's certificate and transcript of records or equivalent
+* Names and contact details of at least two scientific references
+
+Please submit your application for TreeDì positions in Germany only in English and via our application portal under [apply.idiv.de]apply.idiv.de. It is possible to apply for several projects. Severely disabled persons are encouraged to apply and will be given preference in the case of equal suitability. Selected candidates will be invited to the joint online recruitment symposium taking place in March 2021 (22-23 March 2021). For project-related questions, please contact the relevant project leader.
+
+All positions are detailed on [https://www.idiv.de/de/web/treedi/join_treedi.html]https://www.idiv.de/de/web/treedi/join_treedi.html. 
+Queries concerning the application process should be directed to Dr. Stefan Trogisch (stefan.trogisch@botanik.uni-halle.de). 
+
