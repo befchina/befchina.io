@@ -1,0 +1,16 @@
+﻿---
+layout: post
+title: "9 PhD positions in forest biodiversity research within the International Research Training Group TreeDì (GRK 2324)"
+author: Martin Luther University Halle-Wittenberg
+categories: [ Article ]
+image: assets/projects/job.jpg
+tags: featured
+---
+
+The International Research Training Group "TreeDì – Tree Diversity Interactions: The role of tree-tree interactions in local neighborhoods in Chinese subtropical forests" (GRK 2324), funded by the Deutsche Forschungsgemeinschaft (DFG) and the University of Chinese Academy of Sciences (UCAS), invites applications for 9 doctoral researchers in Germany. TreeDì [www.treedi.de](www.treedi.de) is operated by Martin Luther University Halle-Wittenberg (MLU) and its partner universities Friedrich Schiller University Jena (FSU) and University of Leipzig (UL) in cooperation with the German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, the Helmholtz Centre for Environmental Research (UFZ) and the University of Chinese Academy of Sciences (UCAS).
+
+The aim of TreeDì – 林地 (lín dì, forest land) is to understand how tree-tree interactions in local neighbourhoods of varying diversity translate into observed tree species richness effects on key ecosystem functions at the community scale. In addition, TreeDì seeks to understand the role of the forest understorey (shrub species composition and diversity) for ecosystem functioning. All research projects are carried out on the BEF-China platform in subtropical China – the largest forest BEF experiment worldwide [https://bef-china.com](https://bef-china.com).
+
+By bringing together experts and doctoral researchers from leading research institutions located in Germany and China, TreeDì creates a stimulating network of excellence. TreeDì features an international qualification programme involving an intensive Chinese-German cultural exchange during a 6-month research visit in the partners' countries, a joint PhD advisory committee (PAC) composed of Chinese and German experts, and unique offers to meet, study and discuss with figureheads in biodiversity research.
+
+Within the International Research Training Group TreeDì (GRK 2324), all positions are detailed on [https://www.idiv.de/de/web/treedi/join_treedi.html](https://www.idiv.de/de/web/treedi/join_treedi.html).
