@@ -339,14 +339,7 @@ h5, .h5 {
 h6, .h6 {
   font-size: 1rem; }
 
-hmain, .hmain {
-  margin-bottom: 0.5rem;
-  font-family:"Georgia","Times New Roman",serif;
-  font-weight: 500;
-  line-height: 1.2;
-  color: inherit;
-  font-size: 2rem;
-}
+
 
 
 .lead {
