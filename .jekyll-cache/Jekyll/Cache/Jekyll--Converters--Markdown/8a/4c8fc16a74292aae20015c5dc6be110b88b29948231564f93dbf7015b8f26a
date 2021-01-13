@@ -1,14 +1,9 @@
----
-title: "BEF-China"
-layout: default_index
-description: "Biodiversity and Ecosystem Functioning Experiment in Subtropical Forest in China"
----
-<img src= "{{ site.baseurl }}/assets/img/bef.jpg">
+I"vH<p><img src="{{ site.baseurl }}/assets/img/bef.jpg" /></p>
 <div class="container">
     <div class="row">
         <div class="col-md-3">
             <div class="container2">
-                <img src= "{{ site.baseurl }}/assets/img/XGS.jpg">
+                <img src="{{ site.baseurl }}/assets/img/XGS.jpg" />
             </div>
         </div>
 
@@ -19,11 +14,11 @@ description: "Biodiversity and Ecosystem Functioning Experiment in Subtropical F
             </div>
         </div>
     </div>
-    </hr>
+    &lt;/hr&gt;
     <div class="container">
         <h3> News </h3>
-        <hr>
-        </br>
+        <hr />
+        &lt;/br&gt;
     </div>
 </div>
 
@@ -41,7 +36,7 @@ description: "Biodiversity and Ecosystem Functioning Experiment in Subtropical F
                 {% assign latest_post = site.posts[0] %}
                 <div class="card border-0 mb-4 box-shadow">
                 <a href="{{site.baseurl}}{{latest_post.url}}">
-                <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>
+                &lt;div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"&gt;&lt;/div&gt;
                 </a>
                 <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
                     <h2 class="h4 font-weight-bold">
@@ -67,7 +62,7 @@ description: "Biodiversity and Ecosystem Functioning Experiment in Subtropical F
                 {% assign latest_post = site.posts[1] %}
                 <div class="card border-0 mb-4 box-shadow">
                 <a href="{{site.baseurl}}{{latest_post.url}}">
-                <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>
+                &lt;div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"&gt;&lt;/div&gt;
                 </a>
                 <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
                     <h2 class="h4 font-weight-bold">
@@ -101,7 +96,7 @@ description: "Biodiversity and Ecosystem Functioning Experiment in Subtropical F
                         {% if second_post.image %}
                         <div class="col-md-4">
                         <a href="{{site.baseurl}}{{second_post.url}}">
-                         <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+                         &lt;img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}"&gt;
                         </a>
                         </div>
                         {% endif %}
@@ -128,7 +123,7 @@ description: "Biodiversity and Ecosystem Functioning Experiment in Subtropical F
                         {% if third_post.image %}
                         <div class="col-md-4">
                         <a href="{{site.baseurl}}{{third_post.url}}">
-                         <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
+                         &lt;img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}"&gt;
                         </a>
                         </div>
                         {% endif %}
@@ -155,7 +150,7 @@ description: "Biodiversity and Ecosystem Functioning Experiment in Subtropical F
                         {% if fourth_post.image %}
                         <div class="col-md-4">
                         <a href="{{site.baseurl}}{{fourth_post.url}}">
-                        <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
+                        &lt;img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}"&gt;
                         </a>
                         </div>
                         {% endif %}
@@ -182,7 +177,7 @@ description: "Biodiversity and Ecosystem Functioning Experiment in Subtropical F
                         {% if fourth_post.image %}
                         <div class="col-md-4">
                         <a href="{{site.baseurl}}{{fourth_post.url}}">
-                        <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
+                        &lt;img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}"&gt;
                         </a>
                         </div>
                         {% endif %}
@@ -209,7 +204,7 @@ description: "Biodiversity and Ecosystem Functioning Experiment in Subtropical F
                         {% if fourth_post.image %}
                         <div class="col-md-4">
                         <a href="{{site.baseurl}}{{fourth_post.url}}">
-                        <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
+                        &lt;img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}"&gt;
                         </a>
                         </div>
                         {% endif %}
@@ -235,7 +230,7 @@ description: "Biodiversity and Ecosystem Functioning Experiment in Subtropical F
                         {% if fourth_post.image %}
                         <div class="col-md-4">
                         <a href="{{site.baseurl}}{{fourth_post.url}}">
-                        <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
+                        &lt;img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}"&gt;
                         </a>
                         </div>
                         {% endif %}
@@ -256,7 +251,7 @@ description: "Biodiversity and Ecosystem Functioning Experiment in Subtropical F
                         </div>
                 </div>
 
-                <a href="{{ site.baseurl }}/news/index.html")>--> More news</a>
+                &lt;a href="{{ site.baseurl }}/news/index.html")&gt;--&gt; More news&lt;/a&gt;
 
             </div>
 
@@ -289,71 +284,73 @@ description: "Biodiversity and Ecosystem Functioning Experiment in Subtropical F
 </div>
 
 <div class="container">
-    <br>
+    <br />
     <h4>Related links</h4>
-    <hr>
+    <hr />
     <p class="wordspace" style="font-size:140%">
     <a href="http://www.treedivnet.ugent.be/">TreeDivNet</a>
     <a href="https://www.idiv.de/en/index.html">iDiv</a>
     <a href="http://biology.mcgill.ca/faculty/potvin/forest_Sardinilla.html">Sardinilla</a>
     <a href="http://www.sabahbiodiversityexperiment.org/">Sabah</a>
     <a href="http://www.fundiveurope.eu/">FunDivEUROPE</a>
-    <a href="http://www.treedivbelgium.ugent.be/">treediv|Belgium</a></br>
+    <a href="http://www.treedivbelgium.ugent.be/">treediv|Belgium</a>&lt;/br&gt;
     <a href="https://www.cedarcreek.umn.edu/">Cedar_Creek</a>
     <a href="https://cordis.europa.eu/project/id/ENV4950008">BIODEPTH</a>
     <a href="http://www.the-jena-experiment.de/">Jena_Experiment</a>
     </p>
 </div>
-</br>
-<hr>
-<br>
+<p>&lt;/br&gt;</p>
+<hr />
+
+<p><br /></p>
 <div class="container6">
-  <p style="font-style:italic">The platform is managed by</p></br>
+  <p style="font-style:italic">The platform is managed by</p>&lt;/br&gt;
 </div>
 
 <div class="container6">
-      <div class = "container5">
+      <div class="container5">
         <a href="http://english.ib.cas.cn/">
-          <img src=" {{ site.baseurl }}/assets/logo/1ibcas.jpg">
+          <img src=" {{ site.baseurl }}/assets/logo/1ibcas.jpg" />
         </a>
       </div>
 </div>
 <div class="container6">
-  <div class = "container7">
+  <div class="container7">
     <a href="http://www.jdzu.edu.cn/news-list-ennjgwlbivsvhv.html">
-      <img class = "img_logo" src = "{{ site.baseurl }}/assets/logo/jing.png">
+      <img class="img_logo" src="{{ site.baseurl }}/assets/logo/jing.png" />
     </a>
   </div>
 </div>
-</br>
+<p>&lt;/br&gt;</p>
 <div class="container6">
-  <p style="font-style:italic">The funding support agencies</p></br>
+  <p style="font-style:italic">The funding support agencies</p>&lt;/br&gt;
 </div>
 
 <div class="container6">
 
     <div class="row">
 
-      <div class = "container8">
+      <div class="container8">
         <a href="http://www.nsfc.gov.cn/english/site_1/index.html">
-          <img src = "{{ site.baseurl }}/assets/logo/nsfc.jpeg">
+          <img src="{{ site.baseurl }}/assets/logo/nsfc.jpeg" />
         </a>
       </div>
 
-      <div class = "container8">
+      <div class="container8">
         <a href="http://english.cas.cn/">
-          <img class = "img_logo" src = "{{ site.baseurl }}/assets/logo/cas.png">
+          <img class="img_logo" src="{{ site.baseurl }}/assets/logo/cas.png" />
         </a>
       </div>
-      <div class = "container8">
+      <div class="container8">
         <a href="https://www.dfg.de/en/index.jsp">
-          <img src = "{{ site.baseurl }}/assets/logo/dfg2.jpg">
+          <img src="{{ site.baseurl }}/assets/logo/dfg2.jpg" />
         </a>
       </div>
-      <div class = "container8">
+      <div class="container8">
         <a href="http://www.snf.ch/en/Pages/default.aspx">
-          <img src = "{{ site.baseurl }}/assets/logo/snsf2.jpg">
+          <img src="{{ site.baseurl }}/assets/logo/snsf2.jpg" />
         </a>
       </div>
     </div>
 </div>
+:ET
