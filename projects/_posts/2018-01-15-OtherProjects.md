@@ -8,13 +8,13 @@ permalink: "/otherprojects.html"
 ---
 <p>If you wish to apply for a new project in BEF-China, please download <a href="{{site.baseurl}}/assets/file/Application template for working in BEF-China platform.doc">the application form</a>.</p>
 
-### - [TreeDì](#TreeDì)
-### - [Productivity](#productivity)
-### - [Nutrient cycling](#nutrient-cycling)
-### - [Multitrophic interaction](#multitrophic-interaction)
+#### - [TreeDì](#TreeDì)
+#### - [Productivity](#productivity)
+#### - [Nutrient cycling](#nutrient-cycling)
+#### - [Multitrophic interaction](#multitrophic-interaction)
 
 * * *
-### TreeDì
+#### TreeDì
 <details>
 <summary class="dropdown-text"> P1G：Spatio-temporal dynamics of canopy space filling</summary><br>
 <div class="row">
@@ -376,7 +376,7 @@ permalink: "/otherprojects.html"
 </details>
 
 * * *
-### Productivity
+#### Productivity
 <details>
 <summary class="dropdown-text"> Role of intra- and inter-specific species traits values in the genetic diversity effect on tree growth and forest productivity in the 4x1 genetic experiment</summary><br>
 <div class="row">
@@ -556,7 +556,7 @@ permalink: "/otherprojects.html"
 </details>
 
 
-### Nutrient cycling
+#### Nutrient cycling
 <details>
 <summary class="dropdown-text"> Probing soil organic carbon composition and dynamics in the rhizosphere and bulk soil of Gutianshan</summary><br>
 <div class="row">
@@ -629,7 +629,7 @@ permalink: "/otherprojects.html"
 </div>
 </details>
 
-### Multitrophic interaction
+#### Multitrophic interaction
 <details>
 <summary class="dropdown-text"> How does the diversity of bees, wasps and parasitoids relate to the tree species richness?</summary><br>
 <div class="row">
