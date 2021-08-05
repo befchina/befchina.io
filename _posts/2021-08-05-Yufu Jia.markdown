@@ -3,7 +3,7 @@ layout: post
 title:  "Plant and microbial pathways driving plant diversity effects on soil carbon accumulation in subtropical forest"
 author: Yufu Jia
 categories: [ Article ]
-image: assets/projects/JYF1.jpg
+image: assets/projects/JYF1.png
 tags: featured
 ---
 ### Abstract
