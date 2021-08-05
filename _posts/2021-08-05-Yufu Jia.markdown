@@ -3,13 +3,13 @@ layout: post
 title:  "Plant and microbial pathways driving plant diversity effects on soil carbon accumulation in subtropical forest"
 author: Yufu Jia
 categories: [ Article ]
-image: assets/projects/JYF1.png
+image: assets/projects/JYF1.jpg
 tags: featured
 ---
 
 Plant species richness (PSR) is known to affect soil organic carbon (SOC) storage. However, due to the complex origin and composition of SOC, mechanisms driving the PSR-SOC relationship are not yet fully revealed, hampering an accurate prediction of SOC dynamics under changing plant diversity. Here we investigate the effect of PSR on SOC accumulation along a natural PSR and stand age gradient in a subtropical forest with plot, litter and soil properties being considered. Biomarkers and soil fractionation are used to delineate plant and microbial components of SOC and their influences on the PSR-SOC relationship in the topsoil (0–10 cm) versus subsoil (30–40 cm). We show that PSR does positively affect SOC concentrations at both depths even after considering the effects of substrate, edaphic properties and stand age. However, the PSR-SOC relationship is driven by different pathways in the topsoil versus subsoil. In the topsoil, PSR exerts a strong additive effect on SOC accumulation after the positive influence of substrate, edaphic properties and stand age, mainly regulated by plant-derived components (represented by lignin phenols, light fraction and particulate organic matter), followed by microbial residues. By contrast, PSR has a positive effect on the accrual of microbial-derived components (represented by amino sugars and mineral-associated organic matter) but not plant residues likely via affecting dissolved organic matter (DOM) and nitrogen availability in the subsoil (i.e., DOM-microbial pathway). As a result, microbial-derived components dominate SOC variations in the subsoil, while plantderived components play a more important role in the topsoil. These findings provide novel information on the mechanistic links between PSR and SOC accumulation at different depths and highlight the role of PSR on long-term carbon sink potentials of soils, which may aid in predicting soil carbon dynamics with plant diversity changes in Earth's system model.
 
 ### Literature:
-Yufu Jia, Guoqing Zhai, Shanshan Zhu, Xiaojuan Liu, Bernhard Schmid, Zhiheng Wang, Keping Ma, and Xiaojuan Feng*. 2021. Plant and microbial pathways driving plant diversity effects on soil carbon accumulation in subtropical forest. Soil Biology and Biochemistry. Online. [https://doi.org/10.1016/j.soilbio.2021.108375](https://doi.org/10.1016/j.soilbio.2021.108375). 
+Yufu Jia, Guoqing Zhai, Shanshan Zhu, Xiaojuan Liu, Bernhard Schmid, Zhiheng Wang, Keping Ma, and Xiaojuan Feng*. 2021. Plant and microbial pathways driving plant diversity effects on soil carbon accumulation in subtropical forest. Soil Biology and Biochemistry. Online. [https://doi.org/10.1016/j.soilbio.2021.108375](https://doi.org/10.1016/j.soilbio.2021.108375).
 
 Chinese report: [https://mp.weixin.qq.com/s/p_-QLjaAQCo2sDW-GuiAng](https://mp.weixin.qq.com/s/p_-QLjaAQCo2sDW-GuiAng)
