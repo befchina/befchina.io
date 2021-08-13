@@ -6,7 +6,7 @@ categories: [ Article ]
 image: assets/projects/ST1.jpg
 tags: featured
 ---
-### 
+
 Global change exposes forest ecosystems to many risks including novel climatic conditions, increased frequency of climatic extremes and sudden emergence and spread of pests and pathogens. At the same time, forest landscape restoration has regained global attention as an integral strategy for climate change mitigation. Owing to unpredictable future risks and the need for new forests that provide multiple ecosystem services, mixed-species forests have been advocated for this purpose. However, the successful establishment of mixed forests requires intrinsic knowledge of biodiversity's role for forest ecosystem functioning. In this respect, a better understanding of tree-tree interactions and how they contribute to observed positive tree species richness effects on key ecosystem functions is critical. Here, we review the current knowledge of the underlying mechanisms of treetree interactions and argue that positive net biodiversity effects at the community scale may emerge from the dominance of positive over negative interactions at the local neighbourhood scale. In a second step, we demonstrate how tree-tree interactions and the immediate tree neighbourhood's role can be systematically assessed in a tree diversity experiment. The expected results will improve predictions about the effects of tree interactions on ecosystem functioning based on general principles. We argue that this knowledge is urgently required to guide the design of tree species mixtures for the successful establishment of newly planted forests.
 
 ### Literature:
