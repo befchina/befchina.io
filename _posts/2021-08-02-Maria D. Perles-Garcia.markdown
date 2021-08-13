@@ -1,0 +1,19 @@
+﻿---
+layout: post
+title:  "Tree species richness promotes an early increase of stand structural complexity in young subtropical plantations"
+author: Maria D. Perles-Garcia
+categories: [ Article ]
+image: assets/projects/Maria1.png
+tags: featured
+---
+
+Forest structural complexity has been identified as an important driver for promoting simultaneously biodiversity across trophic levels and multiple ecosystem services. However, we still have a limited understanding of the processes that lead to structural complex stands and how they evolve over time.
+
+Using terrestrial laser scanning (TLS), we quantified a three-dimensional (3D) stand structural complexity index (SSCI) in an experimental plantation with a long gradient of tree species richness (1–24 species). The plantation was established in 2009, and we made use of a multi-temporal TLS dataset recorded during 2012–2019.
+
+We found a positive relationship between tree species richness and structural complexity. This relationship became stronger over time. Ten years after planting, SSCI was on average two-fold higher in 16- and 24-species mixtures than in monocultures. Furthermore, we demonstrate that tree species richness promotes 3D stand structural complexity indirectly by fostering a high vertical heterogeneity and thus greater spatial complementarity in canopy space.
+
+Synthesis and applications. Our findings indicate that tree species richness plays a crucial role in promoting stand structural complexity in young plantations, and this role becomes more important already during early stand development. Thus, afforestation measures would benefit from planting multiple native tree species to initiate structurally complex stands.
+
+### Literature:
+Maria D. Perles‐Garcia*, Matthias Kunz, Andreas Fichtner, Werner Härdtle, and Goddert Oheimb. 2021. Tree species richness promotes an early increase of stand structural complexity in young subtropical plantations. Journal of Applied Ecology. online.[https://doi.org/10.1111/1365-2664.13973](https://doi.org/10.1111/1365-2664.13973).
