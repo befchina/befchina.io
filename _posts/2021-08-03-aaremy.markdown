@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Tree diversity and soil chemical properties drive the linkages between soil microbial community and ecosystem functioning"
 author: Rémy Beugnon
