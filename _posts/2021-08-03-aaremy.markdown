@@ -15,4 +15,4 @@ Microbial respiration is critical for soil carbon balance and ecosystem function
 
 
 ### Literature:
-Rémy Beugnon*, Jianqing Du, Simone Cesarz, Stephanie D. Jurburg, Zhe Pang, Bala Singavarapu, Tesfaye Wubet, Kai Xue*, Yanfen Wang, and Nico Eisenhauer. 2021. Tree diversity and soil chemical properties drive the linkages between soil microbial community and ecosystem functioning. ISME Communications. 1(41). [https://doi.org/10.1038/s43705-021-00040-0](https://doi.org/10.1038/s43705-021-00040-0).
+Rémy Beugnon, Jianqing Du, Simone Cesarz, Stephanie D. Jurburg, Zhe Pang, Bala Singavarapu, Tesfaye Wubet, Kai Xue, Yanfen Wang, and Nico Eisenhauer. 2021. Tree diversity and soil chemical properties drive the linkages between soil microbial community and ecosystem functioning. ISME Communications. 1(41). [https://doi.org/10.1038/s43705-021-00040-0](https://doi.org/10.1038/s43705-021-00040-0).
