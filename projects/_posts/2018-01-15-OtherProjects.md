@@ -629,6 +629,18 @@ permalink: "/otherprojects.html"
 </div>
 </details>
 
+<details>
+<summary class="dropdown-text"> Effects of species richness on priming effects and its underlying mechanisms</summary><br>
+<div class="row">
+      <li class="dropdown-sub">
+      <strong><strong>Principal Investigator:</strong></strong> <br>
+      Prof. Dr. Xuhui Zhou <br>East China Normal University<br>
+      <i class="fas fa-envelope"></i> xhzhou@des.ecnu.edu.cn<br>
+      <strong>Post Doc.: </strong>Yanghui He
+      </li>
+</div>
+</details>
+
 #### Multitrophic interaction
 <details>
 <summary class="dropdown-text"> How does the diversity of bees, wasps and parasitoids relate to the tree species richness?</summary><br>
