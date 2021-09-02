@@ -636,7 +636,7 @@ permalink: "/otherprojects.html"
       <strong><strong>Principal Investigator:</strong></strong> <br>
       Prof. Dr. Xuhui Zhou <br>East China Normal University<br>
       <i class="fas fa-envelope"></i> xhzhou@des.ecnu.edu.cn<br>
-      <strong>Post Doc.: </strong>Yanghui He
+      <strong>Postdoc: </strong>Yanghui He
       </li>
 </div>
 </details>
@@ -886,7 +886,7 @@ permalink: "/otherprojects.html"
       <strong>Principal Investigator:</strong> <br>
        Prof. Dr. Yongguan Zhu <br>Institute of Urban Environment, Chinese Academy of Sciences<br>
       <i class="fas fa-envelope"></i> ygzhu@iue.ac.cn<br>
-     <strong>Post Doc.: </strong>Jian Li
+     <strong>Postdoc: </strong>Jian Li
       </li>
 </div>
 </details>
