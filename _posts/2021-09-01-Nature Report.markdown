@@ -2,7 +2,7 @@
 layout: post
 title:  "Understanding biodiversity in forests"
 author: Nature portfolio
-categories: [ report ]
+categories: [ news ]
 image: assets/projects/NR.png
 tags: featured
 ---
