@@ -25,4 +25,4 @@ A decade of monitoring led to the landmark finding that forests with mixed tree 
 
 Understanding links between human activities and large-scale patterns of species diversity can help determine priority areas and strategies for protection. In collaboration with colleagues from Tsinghua University, the CAS team prepared a global biodiversity priority protection area distribution map of high-efficiency and low-cost protection areas, published in <a href="https://doi.org/10.1126/sciadv.abc3436">Science Advances in 2020</a>. This map, together with a map of the potential distribution of protected areas, provides the scientific basis for deliberations by the United Nations Convention on Biological Diversity's Post-2020 Global Biodiversity Framework.
 
-Nature portfolio from: [https://www.nature.com/articles/d42473-021-00378-y](https://www.nature.com/articles/d42473-021-00378-y).
+The news from: [https://www.nature.com/articles/d42473-021-00378-y](https://www.nature.com/articles/d42473-021-00378-y).
