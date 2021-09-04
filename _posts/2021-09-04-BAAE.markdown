@@ -2,7 +2,7 @@
 layout: post
 title:  "Special issue: Tree Diversity Effects on Ecosystem Functioning"
 author: 
-categories: [ report ]
+categories: [ news ]
 image: assets/projects/BAAE1.png
 tags: featured
 ---
@@ -16,4 +16,4 @@ The contributions of this issue demonstrate how biodiversity effects act at diff
 ![Figure]({{ site.baseurl }}/assets/projects/BAAE3.jpg)
 ![Figure]({{ site.baseurl }}/assets/projects/BAAE2.jpg)
 
-The news from: [https://www.sciencedirect.com/journal/basic-and-applied-ecology/vol/55/suppl/C](https://www.sciencedirect.com/journal/basic-and-applied-ecology/vol/55/suppl/C)
+The special issue from: [https://www.sciencedirect.com/journal/basic-and-applied-ecology/vol/55/suppl/C](https://www.sciencedirect.com/journal/basic-and-applied-ecology/vol/55/suppl/C)
