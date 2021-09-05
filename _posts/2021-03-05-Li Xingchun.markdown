@@ -2,7 +2,7 @@
 layout: post
 title:  "Plant identity strongly structures the root-associated fungal community in a diverse subtropical forest"
 author: Xingchun Li
-categories: [ Article ]
+categories: [ Paper ]
 image: assets/projects/LXC1.jpg
 tags: featured
 ---
