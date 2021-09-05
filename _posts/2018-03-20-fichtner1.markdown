@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
 title:  "Neighbourhood interactions drive overyielding in mixed-species tree communities"
 author: Andreas Fichtner
-categories: [ Article ]
+categories: [ Paper ]
 image: assets/projects/fichtner1.png
 tags: featured
 ---
