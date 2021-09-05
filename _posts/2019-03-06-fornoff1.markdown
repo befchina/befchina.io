@@ -2,7 +2,7 @@
 layout: post
 title:  "Tree diversity increases robustness of multi-trophic interactions"
 author: Felix Fornoff
-categories: [ Article ]
+categories: [ Paper ]
 image: assets/projects/fornoff1.jpg
 tags: featured
 ---
