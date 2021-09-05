@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Host functional and phylogenetic composition rather than host diversity structure plant-herbivore networks"
 author: Ming‐Qiang Wang
