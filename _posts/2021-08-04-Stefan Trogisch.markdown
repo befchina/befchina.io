@@ -2,7 +2,7 @@
 layout: post
 title:  "The significance of tree-tree interactions for forest ecosystem functioning"
 author: Stefan Trogisch
-categories: [ Article ]
+categories: [ Paper ]
 image: assets/projects/ST3.png
 tags: featured
 ---
