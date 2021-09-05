@@ -2,7 +2,7 @@
 layout: post
 title:  "Drivers of understorey biomass: tree species identity is more important than richness in a young forest"
 author: Markus S. Germany
-categories: [ Article ]
+categories: [ Paper ]
 image: assets/projects/G1.jpeg
 tags: featured
 ---
