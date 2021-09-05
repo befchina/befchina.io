@@ -2,7 +2,7 @@
 layout: post
 title:  "Tree mycorrhizal type and tree diversity shape the forest soil microbiota"
 author: Bala Singavarapu
-categories: [ Article ]
+categories: [ Paper ]
 image: assets/projects/Bala1.png
 tags: featured
 ---
