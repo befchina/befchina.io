@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Tree-tree interactions and crown complementarity: The role of functional diversity and branch traits for canopy packing"
 author: Michaela Hildebrand
