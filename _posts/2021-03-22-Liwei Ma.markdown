@@ -2,7 +2,7 @@
 layout: post
 title:  "Species identity and composition effects on community productivity in a subtropical forest"
 author: Liwei Ma
-categories: [ Article ]
+categories: [ Paper ]
 image: assets/projects/LM1.jpg
 tags: featured
 ---
