@@ -2,7 +2,7 @@
 layout: post
 title:  "Tree species richness promotes an early increase of stand structural complexity in young subtropical plantations"
 author: Maria D. Perles-Garcia
-categories: [ Article ]
+categories: [ Paper ]
 image: assets/projects/Maria1.png
 tags: featured
 ---
