@@ -2,7 +2,7 @@
 layout: post
 title:  "More diverse tree communities promote foliar fungal pathogen diversity, but decrease infestation rates per tree species, in a subtropical biodiversity experiment"
 author: Gemma Rutten
-categories: [ Article ]
+categories: [ Paper ]
 image: assets/projects/GR1.jpg
 tags: featured
 ---
