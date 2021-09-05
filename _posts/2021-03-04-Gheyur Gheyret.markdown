@@ -2,7 +2,7 @@
 layout: post
 title:  "Radial growth response of trees to seasonal soil humidity in a subtropical forest"
 author: Gheyur Gheyret
-categories: [ Article ]
+categories: [ Paper ]
 image: assets/projects/GG1.jpg
 tags: featured
 ---
