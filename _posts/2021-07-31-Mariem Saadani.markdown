@@ -2,7 +2,7 @@
 layout: post
 title:  "Local Tree Diversity Suppresses Foliar Fungal Infestation and Decreases Morphological but Not Molecular Richness in a Young Subtropical Forest"
 author: Mariem Saadani
-categories: [ Article ]
+categories: [ Paper ]
 image: assets/projects/MS1.png
 tags: featured
 ---
