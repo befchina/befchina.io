@@ -1,0 +1,452 @@
+I"&D<p><img src="/assets/img/bef.jpg" /></p>
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="container2">
+                <img src="/assets/img/XGS.jpg" />
+            </div>
+        </div>
+
+        <div class="col-md-9">
+            <div class="container2" id="blurb">
+              <h3>BEF-China</h3>
+              <p>The Biodiversity–Ecosystem Functioning Experiment China (BEF-China) platform has been jointly set up by Chinese, German and Swiss researchers since 2008. BEF-China aims at explaining effects of species loss on ecosystem variables and at deciphering the underlying processes. A wide range of scientists contribute to the <a href="/projects"> BEF-China projects </a>, involving groups focusing on multiple diversity dimensions, multiple ecosystem components and multiple ecosystem functions. The dimensions of biodiversity include species diversity, functional diversity and genetic diversity; the components of ecosystems include plants, animals and microorganisms; and the functions of ecosystems include productivity, nutrient cycling, decomposition, multi-trophic interactions, resistance to soil erosion and other stress-resistance abilities.</p>
+            </div>
+        </div>
+    </div>
+    &lt;/hr&gt;
+    <div class="container">
+        <h3> News </h3>
+        <hr />
+        &lt;/br&gt;
+    </div>
+</div>
+
+<!-- <img src= "/assets/img/berg2.svg"> -->
+<div class="row">
+        <div class="container">
+
+        
+
+        <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
+        <div class="row remove-site-content-margin">
+            <!-- latest post -->
+
+            <div class="col-md-6">
+                
+                <div class="card border-0 mb-4 box-shadow">
+                <a href="/BAAE/">
+                <div class="topfirstimage" style="background-image: url( /assets/projects/BAAE1.png); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>
+                </a>
+                <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
+                    <h2 class="h4 font-weight-bold">
+                    <a class="text-dark" href="/BAAE/">Special issue: Tree Diversity Effects on Ecosystem Functioning</a>
+                    </h2>
+                    <p class="excerpt">
+                        Although the exceptional role of forests for human well-being is undisputed and widely acknowledged (Watson et al. 2018), a global do...
+                    </p>
+                    <div>
+                        <!-- <small class="d-block text-muted">
+                            In <span class="catlist">
+                                
+                                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">news</a><span class="sep">, </span>
+                                
+                                </span>
+                        </small> -->
+                        <small class="text-muted">
+                            Sep 04, 2021
+                        </small>
+                    </div>
+                </div>
+                </div>
+                
+                <div class="card border-0 mb-4 box-shadow">
+                <a href="/Nature-Report/">
+                <div class="topfirstimage" style="background-image: url( /assets/projects/NR.png); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>
+                </a>
+                <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
+                    <h2 class="h4 font-weight-bold">
+                    <a class="text-dark" href="/Nature-Report/">Understanding biodiversity in forests</a>
+                    </h2>
+                    <p class="excerpt">
+                        The Chinese Academy of Sciences’ Institute of Botany has led pioneering work on forests biodiversity and the associated nature-based ...
+                    </p>
+                    <div>
+                        <!-- <small class="d-block text-muted">
+                            In <span class="catlist">
+                                
+                                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">news</a><span class="sep">, </span>
+                                
+                                </span>
+                        </small> -->
+                        <small class="text-muted">
+                            Sep 01, 2021
+                        </small>
+                    </div>
+                </div>
+                </div>
+            </div>
+
+
+            <div class="col-md-6">
+
+                <!-- second latest post --><div class="mb-3 d-flex align-items-center">
+                        
+                        <div class="col-md-4">
+                        <a href="/Yufu-Jia/">
+                         <img class="w-100" src="http://localhost:4000/assets/projects/JYF0.png" alt="Plant and microbial pathways driving plant diversity effects on soil carbon accumulation in subtropical forest" />
+                        </a>
+                        </div>
+                        
+                        <div>
+                            <h2 class="mb-2 h6 font-weight-bold">
+                            <a class="text-dark" href="/Yufu-Jia/">Plant and microbial pathways driving plant diversity effects on soil carbon accumulation in subtropical forest</a>
+                            </h2>
+                            <small class="d-block text-muted">
+                                <span class="catlist">
+                                
+                                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#paper">Paper</a><span class="sep">, </span>
+                                
+                                </span>
+                            </small>
+                            <small class="text-muted">
+                                Aug 05, 2021
+                            </small>
+                        </div>
+                    </div>
+
+                <!-- third latest post --><div class="mb-3 d-flex align-items-center">
+                        
+                        <div class="col-md-4">
+                        <a href="/Stefan-Trogisch/">
+                         <img class="w-100" src="/assets/projects/ST3.png" alt="The significance of tree-tree interactions for forest ecosystem functioning" />
+                        </a>
+                        </div>
+                        
+                        <div>
+                            <h2 class="mb-2 h6 font-weight-bold">
+                            <a class="text-dark" href="/Stefan-Trogisch/">The significance of tree-tree interactions for forest ecosystem functioning</a>
+                            </h2>
+                            <small class="d-block text-muted">
+                                <span class="catlist">
+                                
+                                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#paper">Paper</a><span class="sep">, </span>
+                                
+                                </span>
+                            </small>
+                            <small class="text-muted">
+                                Aug 04, 2021
+                            </small>
+                        </div>
+                    </div>
+
+                <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">
+                        
+                        <div class="col-md-4">
+                        <a href="/aaremy/">
+                        <img class="w-100" src="/assets/projects/RB1.png" alt="Tree diversity and soil chemical properties drive the linkages between soil microbial community and ecosystem functioning" />
+                        </a>
+                        </div>
+                        
+                        <div>
+                            <h2 class="mb-2 h6 font-weight-bold">
+                            <a class="text-dark" href="/aaremy/">Tree diversity and soil chemical properties drive the linkages between soil microbial community and ecosystem functioning</a>
+                            </h2>
+                            <small class="d-block text-muted">
+                                <span class="catlist">
+                                
+                                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#paper">Paper</a><span class="sep">, </span>
+                                
+                                </span>
+                            </small>
+                            <small class="text-muted">
+                                Aug 03, 2021
+                            </small>
+                        </div>
+                </div>
+
+                <!-- fifth latest post --><div class="mb-3 d-flex align-items-center">
+                        
+                        <div class="col-md-4">
+                        <a href="/aBoyang/">
+                        <img class="w-100" src="/assets/projects/YB1.jpg" alt="Soil fungi promote biodiversity–productivity relationships in experimental communities of young trees" />
+                        </a>
+                        </div>
+                        
+                        <div>
+                            <h2 class="mb-2 h6 font-weight-bold">
+                            <a class="text-dark" href="/aBoyang/">Soil fungi promote biodiversity–productivity relationships in experimental communities of young trees</a>
+                            </h2>
+                            <small class="d-block text-muted">
+                                <span class="catlist">
+                                
+                                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#paper">Paper</a><span class="sep">, </span>
+                                
+                                </span>
+                            </small>
+                            <small class="text-muted">
+                                Aug 03, 2021
+                            </small>
+                        </div>
+                </div>
+
+                <!-- sixth latest post --><div class="mb-3 d-flex align-items-center">
+                        
+                        <div class="col-md-4">
+                        <a href="/Bala-Singavarapu/">
+                        <img class="w-100" src="/assets/projects/Bala1.png" alt="Tree mycorrhizal type and tree diversity shape the forest soil microbiota" />
+                        </a>
+                        </div>
+                        
+                        <div>
+                            <h2 class="mb-2 h6 font-weight-bold">
+                            <a class="text-dark" href="/Bala-Singavarapu/">Tree mycorrhizal type and tree diversity shape the forest soil microbiota</a>
+                            </h2>
+                            <small class="d-block text-muted">
+                                In <span class="catlist">
+                                
+                                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#paper">Paper</a><span class="sep">, </span>
+                                
+                                </span>
+                            </small>
+                            <small class="text-muted">
+                                Aug 03, 2021
+                            </small>
+                        </div>
+                </div>
+                <!-- seventh latest post --><div class="mb-3 d-flex align-items-center">
+                        
+                        <div class="col-md-4">
+                        <a href="/Maria-D.-Perles-Garcia/">
+                        <img class="w-100" src="/assets/projects/Maria1.png" alt="Tree species richness promotes an early increase of stand structural complexity in young subtropical plantations" />
+                        </a>
+                        </div>
+                        
+                        <div>
+                            <h2 class="mb-2 h6 font-weight-bold">
+                            <a class="text-dark" href="/Maria-D.-Perles-Garcia/">Tree species richness promotes an early increase of stand structural complexity in young subtropical plantations</a>
+                            </h2>
+                            <small class="d-block text-muted">
+                                In <span class="catlist">
+                                
+                                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#paper">Paper</a><span class="sep">, </span>
+                                
+                                </span>
+                            </small>
+                            <small class="text-muted">
+                                Aug 02, 2021
+                            </small>
+                        </div>
+                </div>
+
+                &lt;a href="/news/index.html")&gt;--&gt; More news&lt;/a&gt;
+
+            </div>
+
+        </div>
+
+        <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+        <!-- 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem .bg-lightblue position-relative">
+            <div class="pl-4 pr-0 h-100 tofront">
+                <div class="row justify-content-between">
+                    <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                        <h1 class="mb-3">Directed species loss from species-rich forests strongly decreases productivity</h1>
+                        <p class="mb-3 lead">
+                            At high species richness, directed loss, but not random loss, of tree species strongly decreases forest productivity. An internationa...
+                        </p>
+                        <a href="/natureEcology/" class="btn btn-dark">Read More</a>
+                    </div>
+                    <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/img/siteA2016.jpg);">
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+          -->
+        </div>
+
+
+</div>
+
+<div class="container">
+    <br />
+    <h4>Related links</h4>
+    <hr />
+    <p class="wordspace" style="font-size:140%">
+    <a href="http://www.treedivnet.ugent.be/">TreeDivNet</a>
+    <a href="https://www.idiv.de/en/index.html">iDiv</a>
+    <a href="http://biology.mcgill.ca/faculty/potvin/forest_Sardinilla.html">Sardinilla</a>
+    <a href="http://www.sabahbiodiversityexperiment.org/">Sabah</a>
+    <a href="http://www.fundiveurope.eu/">FunDivEUROPE</a>
+    <a href="http://www.treedivbelgium.ugent.be/">treediv|Belgium</a>&lt;/br&gt;
+    <a href="https://www.cedarcreek.umn.edu/">Cedar_Creek</a>
+    <a href="https://cordis.europa.eu/project/id/ENV4950008">BIODEPTH</a>
+    <a href="http://www.the-jena-experiment.de/">Jena_Experiment</a>
+    </p>
+</div>
+<p>&lt;/br&gt;</p>
+<hr />
+
+<p><br /></p>
+<div class="container6">
+  <p style="font-style:italic">The platform is managed by</p>&lt;/br&gt;
+</div>
+
+<div class="container6">
+      <div class="container5">
+        <a href="http://english.ib.cas.cn/">
+          <img src=" /assets/logo/1ibcas.jpg" />
+        </a>
+      </div>
+</div>
+<div class="container6">
+  <div class="container7">
+    <a href="http://www.jdzu.edu.cn/news-list-ennjgwlbivsvhv.html">
+      <img class="img_logo" src="/assets/logo/jing.png" />
+    </a>
+  </div>
+</div>
+<p>&lt;/br&gt;</p>
+<div class="container6">
+  <p style="font-style:italic">The funding support agencies</p>&lt;/br&gt;
+</div>
+
+<div class="container6">
+
+    <div class="row">
+
+      <div class="container8">
+        <a href="http://www.nsfc.gov.cn/english/site_1/index.html">
+          <img src="/assets/logo/nsfc.jpeg" />
+        </a>
+      </div>
+
+      <div class="container8">
+        <a href="http://english.cas.cn/">
+          <img class="img_logo" src="/assets/logo/cas.png" />
+        </a>
+      </div>
+      <div class="container8">
+        <a href="https://www.dfg.de/en/index.jsp">
+          <img src="/assets/logo/dfg2.jpg" />
+        </a>
+      </div>
+      <div class="container8">
+        <a href="http://www.snf.ch/en/Pages/default.aspx">
+          <img src="/assets/logo/snsf2.jpg" />
+        </a>
+      </div>
+    </div>
+</div>
+:ET
