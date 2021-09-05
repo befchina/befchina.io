@@ -2,7 +2,7 @@
 layout: post
 title:  "Canopy Closure Retards Fine Wood Decomposition in Subtropical Regenerating Forests"
 author: Donghao Wu
-categories: [ Article ]
+categories: [ Paper ]
 image: assets/projects/WDH1.jpg
 tags: featured
 ---
