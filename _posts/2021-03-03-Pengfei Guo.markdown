@@ -2,7 +2,7 @@
 layout: post
 title:  "Tree diversity promotes predatory wasps and parasitoids but not pollinator bees in a subtropical experimental forest"
 author: Peng-Fei Guo
-categories: [ Article ]
+categories: [ Paper ]
 image: assets/projects/GPF1.jpg
 tags: featured
 ---
