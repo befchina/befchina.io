@@ -2,7 +2,7 @@
 layout: post
 title:  "Tree species richness modulates water supply in the local tree neighbourhood: evidence from wood δ13C signatures in a large-scale forest experiment"
 author: Kirstin Jansen
-categories: [ Article ]
+categories: [ Paper ]
 image: assets/projects/KJ1.jpg
 tags: featured
 ---
