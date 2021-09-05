@@ -2,7 +2,7 @@
 layout: post
 title:  "Neighbourhood diversity mitigates drought impacts on tree growth"
 author: Andreas Fichtner
-categories: [ Article ]
+categories: [ Paper ]
 image: assets/projects/fichtner.png
 tags: featured
 ---
