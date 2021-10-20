@@ -1,4 +1,5 @@
-﻿layout: post
+---
+layout: post
 title:  "What shapes ground beetle assemblages in a tree species-rich subtropical forest?"
 author: Pascale Zumstein
 categories: [ Paper ]
