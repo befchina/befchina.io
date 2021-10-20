@@ -1,4 +1,5 @@
-﻿layout: post
+---
+layout: post
 title:  "Tree diversity and functional leaf traits drive herbivore-associated microbiomes in subtropical China."
 author: Yi Li
 categories: [ Paper ]
