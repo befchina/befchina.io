@@ -1,4 +1,5 @@
-﻿layout: post
+---
+layout: post
 title:  "Soil fungi promote biodiversity–productivity relationships in experimental communities of young trees"
 author: Bo Yang
 categories: [ Paper ]
