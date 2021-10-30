@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Phylogenetic relatedness, functional traits, and spatial scale determine herbivore co‐occurrence in a subtropical forest."
 author: Ming‐Qiang Wang
