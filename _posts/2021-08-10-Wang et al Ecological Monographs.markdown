@@ -18,7 +18,7 @@ The study found Lepidoptera species co-occurrence to be negatively associated wi
 </span></p>
 
 ![Figure]({{ site.baseurl }}/assets/projects/WMQ3.png)
-<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 3: (a) The pattern of C-scores of individual trees across monoculture plots (black points) compared to all monoculture plots (blue dashed line represent 3.19, which is the C-score of all monocultures; mean=5.02, t=3.6, df=24, P<0.001); Standardized effect size (SES) value of MNTD across all tree species (b); SES value of MPD (c) and MNTD (d) across all plots. 
+<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 3: Relationships between co-occurrence and (a) ratio of leaf carbon to nitrogen concentrations, (b) leaf toughness and (c) tree height at tree species level; as well as relationships between co-occurrence and (d) tree species richness, (e) tree mean pairwise distance and (f) community-weighted mean value of specific leaf area at study plot level. Values were adjusted for covariates of the final regression model. 
 </span></p>
 
 The study was supported by the Strategic Priority Research Program of the Chinese Academy of Sciences (XDB310304), the National Science Fund for Distinguished Young Scholars (31625024) and other programs to Chao-Dong Zhu's Lab.
