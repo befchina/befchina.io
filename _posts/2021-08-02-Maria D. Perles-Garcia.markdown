@@ -16,4 +16,4 @@ We found a positive relationship between tree species richness and structural co
 Synthesis and applications. Our findings indicate that tree species richness plays a crucial role in promoting stand structural complexity in young plantations, and this role becomes more important already during early stand development. Thus, afforestation measures would benefit from planting multiple native tree species to initiate structurally complex stands.
 
 ### Literature:
-Maria D. Perles‐Garcia*, Matthias Kunz, Andreas Fichtner, Werner Härdtle, and Goddert Oheimb. 2021. Tree species richness promotes an early increase of stand structural complexity in young subtropical plantations. Journal of Applied Ecology. online.[https://doi.org/10.1111/1365-2664.13973](https://doi.org/10.1111/1365-2664.13973).
+Maria D. Perles‐Garcia*, Matthias Kunz, Andreas Fichtner, Werner Härdtle, and Goddert Oheimb. 2021. Tree species richness promotes an early increase of stand structural complexity in young subtropical plantations. Journal of Applied Ecology. 58(10): 2305-2314.[https://doi.org/10.1111/1365-2664.13973](https://doi.org/10.1111/1365-2664.13973).
