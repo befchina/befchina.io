@@ -3,7 +3,7 @@ layout: post
 title:  "Planting New Forests with High Functional Diversity Helps Improve Productivity"
 author: 
 categories: [ Paper ]
-image: assets/projects/XJ0.tif
+image: assets/projects/XJ0.png
 tags: featured
 ---
 
@@ -31,15 +31,15 @@ The international collaboration to record tree growth for all ten years of growt
 
 BEF-China was established and is maintained through the collective effort of scientists from China, Germany and Switzerland. 
 
-![Figure]({{ site.baseurl }}/assets/projects/XJ1.tif)
+![Figure]({{ site.baseurl }}/assets/projects/XJ1.png)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure1. BEF-China experiment sites and the map of the different diversity levels (photo by Xiaojuan Liu).
 </span></p>
 
-![Figure]({{ site.baseurl }}/assets/projects/XJ2.tif)
+![Figure]({{ site.baseurl }}/assets/projects/XJ2.png)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 2. The effects of community-weighted mean (CWM) and functional diversity (FD) on accumulated stand volume during 10 years of increasing stand age.
 </span></p>
 
-![Figure]({{ site.baseurl }}/assets/projects/XJ3.tif)
+![Figure]({{ site.baseurl }}/assets/projects/XJ3.png)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 3. Effects of CWM and FD values of 38 traits on accumulated stand volume after 10 years for 10 different species-pool subsets.
 </span></p>
 
