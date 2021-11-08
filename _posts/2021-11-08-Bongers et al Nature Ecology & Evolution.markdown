@@ -1,4 +1,4 @@
-﻿﻿---
+---
 layout: post
 title:  "Planting New Forests with High Functional Diversity Helps Improve Productivity"
 author: 
