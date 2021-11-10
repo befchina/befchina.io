@@ -48,4 +48,4 @@ Franca J. Bongers, Bernhard Schmid, Helge Bruelheide, Frans Bongers, Shan Li, Go
 
 English report: [https://english.cas.cn/newsroom/research_news/life/202111/t20211105_291070.shtml](https://english.cas.cn/newsroom/research_news/life/202111/t20211105_291070.shtml)
 
-Chinese report: [https://mp.weixin.qq.com/s/CXqEka10nS4O83Sp1J_yLQ](https://mp.weixin.qq.com/s/CXqEka10nS4O83Sp1J_yLQ)
+Chinese report: [http://www.ib.cas.cn/2019gb/meiti2019/202111/t20211105_6245138.html](http://www.ib.cas.cn/2019gb/meiti2019/202111/t20211105_6245138.html)
