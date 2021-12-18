@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Species richness stabilizes productivity via asynchrony and drought-tolerance diversity in a large-scale tree biodiversity experiment"
 author: 
