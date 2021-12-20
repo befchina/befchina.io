@@ -15,4 +15,4 @@ As woody plants provide much of the trophic basis for food webs in forests their
 
 
 ### Literature:
-Pascale Zumstein, Helge Bruelheide, Andreas Fichtner, Andreas Schuldt, Michael Staab, Werner Hardtle, Hongzhang Zhou, and Thorsten Assmann. 2021. What shapes ground beetle assemblages in a tree species-rich subtropical forest? Zookeys. 1044: 907-927. [https://doi.org/10.3897/zookeys.1044.63803](https://doi.org/10.3897/zookeys.1044.63803). 
+Pascale Zumstein<code>&ast;</code>, Helge Bruelheide, Andreas Fichtner, Andreas Schuldt, Michael Staab, Werner Hardtle, Hongzhang Zhou, and Thorsten Assmann. 2021. What shapes ground beetle assemblages in a tree species-rich subtropical forest? *Zookeys*. 1044: 907-927. [https://doi.org/10.3897/zookeys.1044.63803](https://doi.org/10.3897/zookeys.1044.63803). 
