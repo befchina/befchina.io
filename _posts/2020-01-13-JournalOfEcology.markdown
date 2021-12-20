@@ -17,4 +17,4 @@ tags: featured
 
 
 ### Literature:
-Andreas Fichtner, Florian Schnabel, Helge Bruelheide, Matthias Kunz, Katharina Mausolf, Andreas Schuldt, Werner Härdtle, and Goddert von Oheimb. 2020. Neighbourhood diversity mitigates drought impacts on tree growth. Journal of Ecology. on line. [https://doi.org/10.1111/1365-2745.13353](https://doi.org/10.1111/1365-2745.13353).
+Andreas Fichtner<code>&ast;</code>, Florian Schnabel, Helge Bruelheide, Matthias Kunz, Katharina Mausolf, Andreas Schuldt, Werner Härdtle, and Goddert von Oheimb. 2020. Neighbourhood diversity mitigates drought impacts on tree growth. *Journal of Ecology*. 108:865-875. [https://doi.org/10.1111/1365-2745.13353](https://doi.org/10.1111/1365-2745.13353).
