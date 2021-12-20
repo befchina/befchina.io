@@ -14,4 +14,4 @@ Herbivorous insects acquire microorganisms from host plants or soil, but it rema
 </span></p>
 
 ### Literature:
-Yi Li, Douglas Chesters, Mingqiang Wang, Tesfaye Wubet, Andreas Schuldt, Perttu Anttonen, Pengfei Guo, Jingting Chen, Qingsong Zhou, Naili Zhang, Keping Ma, Helge Bruelheide, Chunsheng Wu, and Chaodong Zhu. 2021. Tree diversity and functional leaf traits drive herbivore-associated microbiomes in subtropical China. Ecology and Evolution. 11(11): 6153-6166. [https://doi.org/10.1002/ece3.7434](https://doi.org/10.1002/ece3.7434). 
+Yi Li, Douglas Chesters, Mingqiang Wang, Tesfaye Wubet, Andreas Schuldt, Perttu Anttonen, Pengfei Guo, Jingting Chen, Qingsong Zhou, Naili Zhang, Keping Ma, Helge Bruelheide, Chunsheng Wu<code>&ast;</code> and Chaodong Zhu<code>&ast;</code>. 2021. Tree diversity and functional leaf traits drive herbivore-associated microbiomes in subtropical China. *Ecology and Evolution*. 11(11): 6153-6166. [https://doi.org/10.1002/ece3.7434](https://doi.org/10.1002/ece3.7434). 
