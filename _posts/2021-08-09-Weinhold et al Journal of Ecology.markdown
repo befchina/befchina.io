@@ -17,4 +17,4 @@ tags: featured
 
 
 ### Literature:
-Alexander Weinhold, Stefanie Doll, Min Liu, Andreas Schedl, Yvonne Poschl, Xingliang Xu, Steffen Neumann, and Nicole M. van Dam. Tree species richness differentially affects the chemical composition of leaves, roots and root exudates in four subtropical tree species. Journal of Ecology. Online. [https://doi.org/10.1111/1365-2745.13777](https://doi.org/10.1111/1365-2745.13777). 
+Alexander Weinhold<code>&ast;</code>, Stefanie Doll, Min Liu, Andreas Schedl, Yvonne Poschl, Xingliang Xu, Steffen Neumann and Nicole M. van Dam. Tree species richness differentially affects the chemical composition of leaves, roots and root exudates in four subtropical tree species. *Journal of Ecology*. Online. [https://doi.org/10.1111/1365-2745.13777](https://doi.org/10.1111/1365-2745.13777). 
