@@ -26,5 +26,5 @@ The study was supported by the Strategic Priority Research Program of the Chines
 
 
 ### Literature:
-Mingqiang Wang, Chuan Yan, Arong Luo, Yi Li, Douglas Chesters, Huijie Qiao, Jingting Chen, Qingsong Zhou, Keping Ma, Helge Bruelheide, Andreas Schuldt, Zhibin Zhang and Chaodong Zhu<code>&ast;</code>. 2021. Phylogenetic relatedness, functional traits, and spatial scale determine herbivore co‐occurrence in a subtropical forest. *Ecological Monographs*. Online. [https://doi.org/10.1002/ecm.1492](https://doi.org/10.1002/ecm.1492). 
+Mingqiang Wang, Chuan Yan, Arong Luo, Yi Li, Douglas Chesters, Huijie Qiao, Jingting Chen, Qingsong Zhou, Keping Ma, Helge Bruelheide, Andreas Schuldt, Zhibin Zhang and Chaodong Zhu<code>&ast;</code>. 2021. Phylogenetic relatedness, functional traits, and spatial scale determine herbivore co‐occurrence in a subtropical forest. *Ecological Monographs*. 92(1): e01492. [https://doi.org/10.1002/ecm.1492](https://doi.org/10.1002/ecm.1492). 
 
