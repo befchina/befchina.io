@@ -22,7 +22,7 @@ Results showed that pot biomass productivity increased with tree species richnes
 This study concludes that increased ecosystem biomass production with tree species richness could be largely explained by niche partitioning in N uptake among tree species. These findings highlight that niche partitioning for N uptake should be a possible important mechanism maintaining species diversity and ecosystem production in subtropical forests.
 
 ![Figure]({{ site.baseurl }}/assets/projects/LM2.jpg)
-<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Nitrogen (N) uptake rates of nitrate (NO<sub>3</sub><sup>-</sup>), ammonium (NH<sub>4</sub><sup>+</sup>), glycine (Gly) and total N (Total) by the targeted four species under different tree species richness levels (log<sub>2</sub>).
+<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Fig. 1. Nitrogen (N) uptake rates of nitrate (NO<sub>3</sub><sup>-</sup>), ammonium (NH<sub>4</sub><sup>+</sup>), glycine (Gly) and total N (Total) by the targeted four species under different tree species richness levels (log<sub>2</sub>).
 </span></p>
 
 ![Figure]({{ site.baseurl }}/assets/projects/LM3.jpg)
