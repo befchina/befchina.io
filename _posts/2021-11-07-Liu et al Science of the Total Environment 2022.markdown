@@ -17,20 +17,20 @@ The microcosm experiment was conducted in Jiangxi Province, China, which is loca
 
 The experiment was three-factorial designed, including tree species richness (1, 2 and 4), species identity, and three N forms (NH<sub>4</sub><sup>+</sup>, NO<sub>3</sub><sup>-</sup>, and glycine). In October 2019, four individual seedlings each were planted in pots at three richness levels. The four targeted tree species were planted in monocultures, in two different pairs that corresponded to the field design of BEF-China (pair 1: *K. bipinnata* and *L. glaber*; pair 2: *Cy. myrsinaefolia* and *Ca. eyrei*), and in a mixture of all four species. On September 10th, 2020, short-term in situ 15N labeling experiments were carried out. Plant and soil samples were harvested and measured. Plant N uptake preference for inorganic N form of NO<sub>3</sub><sup>-</sup> to NH<sub>4</sub><sup>+</sup> and organic N form of glycine, as well as biomass and plant functional traits was evaluated under different tree species richness level.
 
-Results showed that pot biomass productivity increased with tree species richness. Biomass of the most productive species, *K. bipinnata* increased, but not at the expense of a decreased growth of the other species. In mixtures, the species shifted their preference for the inorganic N form, from NO3− to NH<sub>4</sub><sup>+</sup> or vice versa. The uptake preference for glycine remained stable along the species richness gradient. Plant N uptake was well correlated with numerous functional traits, both aboveground, such as height and shoot diameter, and belowground, such as root diameter and root length. 
+Results showed that pot biomass productivity increased with tree species richness. Biomass of the most productive species, *K. bipinnata* increased, but not at the expense of a decreased growth of the other species. In mixtures, the species shifted their preference for the inorganic N form, from NO<sub>3</sub><sup>-</sup> to NH<sub>4</sub><sup>+</sup> or vice versa. The uptake preference for glycine remained stable along the species richness gradient. Plant N uptake was well correlated with numerous functional traits, both aboveground, such as height and shoot diameter, and belowground, such as root diameter and root length. 
 
 This study concludes that increased ecosystem biomass production with tree species richness could be largely explained by niche partitioning in N uptake among tree species. These findings highlight that niche partitioning for N uptake should be a possible important mechanism maintaining species diversity and ecosystem production in subtropical forests.
 
 ![Figure]({{ site.baseurl }}/assets/projects/LM2.jpg)
-<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Nitrogen (N) uptake rates of nitrate (NO<sub>3</sub><sup>-</sup>), ammonium (NH<sub>4</sub><sup>+</sup>), glycine (Gly) and total N (Total) by the targeted four species under different tree species richness levels (log2).
+<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Nitrogen (N) uptake rates of nitrate (NO<sub>3</sub><sup>-</sup>), ammonium (NH<sub>4</sub><sup>+</sup>), glycine (Gly) and total N (Total) by the targeted four species under different tree species richness levels (log<sub>2</sub>).
 </span></p>
 
 ![Figure]({{ site.baseurl }}/assets/projects/LM3.jpg)
-<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Fig. 2. Preference of nitrate (NO<sub>3</sub><sup>-</sup>), ammonium (NH<sub>4</sub><sup>+</sup>), or glycine (Gly) to the total nitrogen (N) uptake rates by the targeted four species under different tree species richness levels (log2).
+<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Fig. 2. Preference of nitrate (NO<sub>3</sub><sup>-</sup>), ammonium (NH<sub>4</sub><sup>+</sup>), or glycine (Gly) to the total nitrogen (N) uptake rates by the targeted four species under different tree species richness levels (log<sub>2</sub>).
 </span></p>
 
 ![Figure]({{ site.baseurl }}/assets/projects/LM4.jpg)
-<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Fig. 3. Total biomass per species (a) and per pot (b) under different tree species richness levels (log2).
+<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Fig. 3. Total biomass per species (a) and per pot (b) under different tree species richness levels (log<sub>2</sub>).
 </span></p>
 
 ![Figure]({{ site.baseurl }}/assets/projects/LM5.jpg)
