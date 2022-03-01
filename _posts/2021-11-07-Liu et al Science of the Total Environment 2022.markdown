@@ -38,4 +38,4 @@ This study concludes that increased ecosystem biomass production with tree speci
 </span></p>
 
 ### Literature:
-Min Liu, Xingliang Xu<code>&ast;</code>, Bo Yang, Naili Zhang, Zeqing Ma, Nicole M. van Dam, Helge Bruelheide. 2022. Niche partitioning in nitrogen uptake among subtropical tree species enhances biomass production. *Science of the Total Environment*. 823:153716. [https://doi.org/10.1016/j.scitotenv.2022.153716](https://doi.org/10.1016/j.scitotenv.2022.153716).
+Min Liu, Xingliang Xu<code>&ast;</code>, Bo Yang, Naili Zhang, Zeqing Ma, Nicole M. van Dam, Helge Bruelheide. 2022. Niche partitioning in nitrogen uptake among subtropical tree species enhances biomass production. _Science of the Total Environment_. 823:153716. [https://doi.org/10.1016/j.scitotenv.2022.153716](https://doi.org/10.1016/j.scitotenv.2022.153716).
