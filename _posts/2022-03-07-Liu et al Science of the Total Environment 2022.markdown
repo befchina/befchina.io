@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Niche partitioning in nitrogen uptake among subtropical tree species enhances biomass production"
-author: 
+author: Min Liu
 categories: [ Paper ]
 image: assets/projects/LIUM1.jpg
 tags: featured
