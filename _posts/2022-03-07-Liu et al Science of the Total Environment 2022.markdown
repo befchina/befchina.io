@@ -1,4 +1,4 @@
-﻿﻿---
+---
 layout: post
 title:  "Niche partitioning in nitrogen uptake among subtropical tree species enhances biomass production"
 author: 
