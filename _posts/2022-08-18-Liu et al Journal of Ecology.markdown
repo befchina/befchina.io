@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Species richness, functional traits and climate interactively affect tree survival in a large forest biodiversity experiment"
 author: Xiaojuan Liu
