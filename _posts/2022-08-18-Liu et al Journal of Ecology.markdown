@@ -3,7 +3,7 @@ layout: post
 title:  "Species richness, functional traits and climate interactively affect tree survival in a large forest biodiversity experiment"
 author: Xiaojuan Liu
 categories: [ Paper ]
-image: assets/projects/LXJ1.png
+image: assets/projects/LXJ0.jpg
 tags: featured
 ---
 Tree survival affects forest biodiversity, structure and functioning. However, little is known about feedback effects of biodiversity on survival and its dependence on functional traits and interannual climatic variability.
