@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Species richness, functional traits and climate interactively affect tree survival in a large forest biodiversity experiment"
-author: Xiaojuan Liu
+title:  "Effects of enemy exclusion on biodiversity–productivity relationships in a subtropical forest experiment"
+author: Yuanyuan Huang
 categories: [ Paper ]
 image: assets/projects/HYY0.jpg
 tags: featured
