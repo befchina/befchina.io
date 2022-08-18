@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Neighbourhood Species Richness Reduces Crown Asymmetry of Subtropical Trees in Sloping Terrain"
 author: Maria D. Perles-Garcia
