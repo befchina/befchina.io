@@ -18,7 +18,7 @@ We found that overall survival rates marginally increased with diversity at the 
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 1 Diversity effects on annual survival rate from age 3–12 (years) after the experimental forest stands were established. The grey line is the average survival rate across all ages. The x-axis was log2-transformed.
 </span></p>
 ![Figure]({{ site.baseurl }}/assets/projects/LXJ3.jpg)
-<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 2 Annual diversity–survival rate relationships for each of the 39 species of the experiment for four distinct ages.. 
+<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 2 Annual diversity–survival rate relationships for each of the 39 species of the experiment for four distinct ages.
 </span></p>
 ![Figure]({{ site.baseurl }}/assets/projects/LXJ4.png)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 3 (a) Principal component analysis (PCA) biplot for the nine functional traits defining two gradients of plant strategies; and significant functional trait (PCs)-dependent relationships between (b) species richness and (c) precipitation and annual survival rates. 
