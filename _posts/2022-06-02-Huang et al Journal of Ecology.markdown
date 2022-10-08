@@ -25,4 +25,4 @@ We found that fungicide spraying of tree canopies removed the positive tree-spec
 
 
 ### Literature:
-Yuanyuan Huang, Andreas Schuldt, Lydia Hönig, Bo Yang, Xiaojuan Liu, Helge Bruelheide, Keping Ma, Bernhard Schmid<code>&ast;</code> and Pascal A. Niklaus<code>&ast;</code>. 2022. Effects of enemy exclusion on biodiversity–productivity relationships in a subtropical forest experiment. *Journal of Ecology*. Online. [https://doi.org/10.1111/1365-2745.13940](https://doi.org/10.1111/1365-2745.13940).
+Yuanyuan Huang, Andreas Schuldt, Lydia Hönig, Bo Yang, Xiaojuan Liu, Helge Bruelheide, Keping Ma, Bernhard Schmid<code>&ast;</code> and Pascal A. Niklaus<code>&ast;</code>. 2022. Effects of enemy exclusion on biodiversity–productivity relationships in a subtropical forest experiment. *Journal of Ecology*. 110(9): 2167-2178. [https://doi.org/10.1111/1365-2745.13940](https://doi.org/10.1111/1365-2745.13940).
