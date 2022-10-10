@@ -28,4 +28,4 @@ We found that overall survival rates marginally increased with diversity at the 
 </span></p>
 
 ### Literature:
-Xiaojuan Liu, Yuanyuan Huang, Lei Chen, Shan Li, Franca J. Bongers, Nadia Castro‐Izaguirre, Yu Liang, Bo Yang, Yuxin Chen, Florian Schnabel, Ting Tang, Yujie Xue, Stefan Trogisch, Michael Staab, Helge Bruelheide, Bernhard Schmid<code>&ast;</code> and Keping Ma<code>&ast;</code>. 2022. Species richness, functional traits and climate interactively affect tree survival in a large forest biodiversity experiment. *Journal of Ecology*. Online. [https://doi.org/10.1111/1365-2745.13970](https://doi.org/10.1111/1365-2745.13970).
+Xiaojuan Liu, Yuanyuan Huang, Lei Chen, Shan Li, Franca J. Bongers, Nadia Castro‐Izaguirre, Yu Liang, Bo Yang, Yuxin Chen, Florian Schnabel, Ting Tang, Yujie Xue, Stefan Trogisch, Michael Staab, Helge Bruelheide, Bernhard Schmid<code>&ast;</code> and Keping Ma<code>&ast;</code>. 2022. Species richness, functional traits and climate interactively affect tree survival in a large forest biodiversity experiment. *Journal of Ecology*. 110(10): 2522-2531. [https://doi.org/10.1111/1365-2745.13970](https://doi.org/10.1111/1365-2745.13970).
