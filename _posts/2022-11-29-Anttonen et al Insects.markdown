@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Leaf nutritional content, tree richness, and season shape the caterpillar functional trait composition hosted by trees"
-author: Perttu Anttonen
+author: Perttu Anttonen#, Yi Li#
 categories: [ Paper ]
 image: assets/projects/PA0.png
 tags: featured
