@@ -15,7 +15,7 @@ The nutritional content of food plants can, to a large extent, determine the phy
 ![Figure]({{ site.baseurl }}/assets/projects/PA2.png)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 2 Relationships between leaf traits (leaf C and Mg content) with caterpillar (a) abundance and traits, (b) body weight, (c) head capsule width, (d) relative head capsule width, (e,f) aposematism, (g) generalism, and (h) FDis.
 </span></p>
-![Figure]({{ site.baseurl }}/assets/projects/PA3.jpg)
+![Figure]({{ site.baseurl }}/assets/projects/PA3.png)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 3 Relationship of caterpillar traits to interaction of leaf traits and tree richness. Color gradient represents estimated change in response values in the lme models retrieved by package 'effects', and point clouds show observed values. 
 </span></p>
 
