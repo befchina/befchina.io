@@ -1,4 +1,3 @@
----
 layout: post
 title:  "Leaf nutritional content, tree richness, and season shape the caterpillar functional trait composition hosted by trees"
 author: Perttu Anttonen
