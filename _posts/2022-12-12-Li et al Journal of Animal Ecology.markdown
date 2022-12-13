@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post
 title:  "Tree dissimilarity determines multi-dimensional beta-diversity of herbivores and carnivores via bottom-up effects"
-author: Yi Li
+author: Yi Li#, Yuan-Bao Du#
 categories: [ Paper ]
 image: assets/projects/LYJAE1.png
 tags: featured
