@@ -29,5 +29,5 @@ Synthesis. By focusing on tree diversity effects of both the local habitat patch
 </span></p>
 
 ### Literature:
-Yi Li, Ming‐Qiang Wang, Douglas Chesters, Perttu Anttonen, Shi‐Kun Guo, Peng‐Fei Guo, Jing‐Ting Chen, Keping Ma, Helge Bruelheide, Andreas Schuldt<code>&ast;</code>, Chao‐Dong Zhu<code>&ast;</code>. 2022. Differential impacts on herbivore diversity and scale‐dependence of tree diversity in subtropical forests. Journal of Ecology. Online [https://doi.org/10.1111/1365-2745.14054](https://doi.org/10.1111/1365-2745.14054). 
+Yi Li, Ming‐Qiang Wang, Douglas Chesters, Perttu Anttonen, Shi‐Kun Guo, Peng‐Fei Guo, Jing‐Ting Chen, Keping Ma, Helge Bruelheide, Andreas Schuldt<code>&ast;</code>, Chao‐Dong Zhu<code>&ast;</code>. 2022. Differential impacts on herbivore diversity and scale‐dependence of tree diversity in subtropical forests. *Journal of Ecology*. Online [https://doi.org/10.1111/1365-2745.14054](https://doi.org/10.1111/1365-2745.14054). 
 
