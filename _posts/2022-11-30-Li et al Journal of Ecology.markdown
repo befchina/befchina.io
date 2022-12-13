@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Differential impacts on herbivore diversity and scale-dependence of tree diversity in subtropical forests"
 author: Yi Li
