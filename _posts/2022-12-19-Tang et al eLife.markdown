@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Tree species and genetic diversity increase productivity via functional diversity and trophic feedbacks"
 author: Ting Tang
