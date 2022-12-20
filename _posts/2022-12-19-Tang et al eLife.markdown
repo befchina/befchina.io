@@ -17,7 +17,7 @@ Diversity is essential to healthy ecosystems. Forests made up of a variety of tr
 Tang and colleagues used data from a long-term large tree species and genetic diversity experiment in a subtropical forest (www.bef-china.com, Bruelheide et al., 2014). Tree species diversity and genetic diversity within species were manipulated to generate four different plant diversity levels and the team measured five structural and chemical leaf traits that are known to be highly variable and relate to rates of resource acquisition.
 
 ![Figure]({{ site.baseurl }}/assets/projects/TT1.jpg)
-<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 1. Conceptual illustration of the effects of functional diversity (a) and trophic feedbacks on tree productivity (b) and the species × genetic diversity experimental design (c).
+<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 1. Conceptual illustration of the effects of functional diversity and trophic feedbacks on tree productivity and the species × genetic diversity experimental design.
 </span></p>
 
 The team's investigations showed that trees grown in forests with multiple tree species were more productive than those grown in single-species (or monoculture) forests. Forests with four different tree species had less diversity in soil fungi than monoculture forests, reducing the need for the trees to compete with fungi for resources. There was also less pressure from herbivores than in monoculture forests.
