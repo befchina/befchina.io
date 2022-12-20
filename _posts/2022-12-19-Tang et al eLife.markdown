@@ -41,6 +41,8 @@ The results suggest that species and genetic diversity could help reduce the num
 Liu served as a co-senior author with Bernhard Schmid, a professor in the Department of Geography, University of Zurich, Switzerland, and Keping Ma, a professor at the Institute of Botany, Chinese Academy of Sciences.
 <br>
 
+Provided by eLife: [https://elifesciences.org/for-the-press/34589055/forests-benefit-from-tree-species-variety-and-genetic-diversity#:~:text=The%20results%20suggest%20that%20species,competition%20from%20fungi%20for%20nutrients.](https://elifesciences.org/for-the-press/34589055/forests-benefit-from-tree-species-variety-and-genetic-diversity#:~:text=The%20results%20suggest%20that%20species,competition%20from%20fungi%20for%20nutrients.)
+
 Chinese report: [https://mp.weixin.qq.com/s/OQv7cxizZq7eMJWTYI2XnA](https://mp.weixin.qq.com/s/OQv7cxizZq7eMJWTYI2XnA)
 
 ### Literature:
