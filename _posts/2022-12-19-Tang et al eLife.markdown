@@ -6,7 +6,7 @@ categories: [ Paper ]
 image: assets/projects/TT1.png
 tags: featured
 ---
-Reforestation projects should include a variety of tree species and ensure genetic diversity within each species to maximise new forests' health and productivity, suggests a study published today in eLife.
+Reforestation projects should include a variety of tree species and ensure genetic diversity within each species to maximise new forests' health and productivity, suggests a study published in eLife.
 
 The findings suggest that complex interactions between trees and other organisms should be carefully considered when determining the combination of trees in a forest to ensure a functional ecosystem is maintained.
 
