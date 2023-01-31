@@ -18,7 +18,6 @@ permalink: "/otherprojects.html"
 <details>
 <summary class="dropdown-text"> P1G：Spatio-temporal dynamics of canopy space filling</summary><br>
 <div class="row">
-      <div class="col-md-4">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
       Prof. Dr. Goddert von Oheimb <br>TU Dresden<br>
@@ -32,14 +31,12 @@ permalink: "/otherprojects.html"
       *	To analyse trait variability related to canopy filling and light interception;<br>
       *	To quantify how canopy space use complementarity translates into enhanced tree growth.<br>
       </li>
-   </div>
 </div>
 </details>
 
 <details>
 <summary class="dropdown-text"> P1C: Belowground productivity and complementarity</summary><br>
 <div class="row">
-      <div class="col-md-4">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
       Assoc. Prof. Dr. Xiaojuan Liu <br>Institute of Botany, Chinese Academy of Sciences<br>
@@ -59,7 +56,6 @@ permalink: "/otherprojects.html"
      1.	The impact of different species diversity levels on nutrient reabsorption in different organs (branches, leaves and fine-root);<br>
      2.	The effects of tree species diversity on productivity and turnover of different fine-root functional groups.<br>
       </li>
-</div>
 </div>
 </details>
 <details>
