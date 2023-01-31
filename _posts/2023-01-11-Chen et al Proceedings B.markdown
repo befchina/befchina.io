@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Functional and phylogenetic relationships link predators to plant diversity via trophic and non-trophic pathways"
 author: Jingting Chen
@@ -33,5 +33,3 @@ Chinese report: [https://mp.weixin.qq.com/s/w7YEslDXXSzwNn6_EDhlFg](https://mp.w
 
 ### Literature:
 Jingting Chen, Mingqiang Wang<code>&ast;</code>, Yi Li, Douglas Chesters, Arong Luo, Wei Zhang, Pengfei Guo, Shikun Guo, Qingsong Zhou, Keping Ma, Goddert von Oheimb, Matthias Kunz, Naili Zhang, Xiaojuan Liu, Helge Bruelheide, Andreas Schuldt, Chaodong Zhu<code>&ast;</code>. 2023. Functional and phylogenetic relationships link predators to plant diversity via trophic and non-trophic pathways. Proceedings of the Royal Society B-Biological Sciences. 290(1990): 20221658. [https://doi.org/10.1098/rspb.2022.16](https://doi.org/10.1098/rspb.2022.16).
-
-
