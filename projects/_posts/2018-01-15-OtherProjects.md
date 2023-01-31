@@ -39,6 +39,7 @@ permalink: "/otherprojects.html"
 <details>
 <summary class="dropdown-text"> P1C: Belowground productivity and complementarity</summary><br>
 <div class="row">
+      <div class="col-md-16">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
       Assoc. Prof. Dr. Xiaojuan Liu <br>Institute of Botany, Chinese Academy of Sciences<br>
@@ -58,6 +59,7 @@ permalink: "/otherprojects.html"
      1.	The impact of different species diversity levels on nutrient reabsorption in different organs (branches, leaves and fine-root);<br>
      2.	The effects of tree species diversity on productivity and turnover of different fine-root functional groups.<br>
       </li>
+</div>
 </div>
 </details>
 <details>
