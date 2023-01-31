@@ -18,7 +18,7 @@ permalink: "/otherprojects.html"
 <details>
 <summary class="dropdown-text"> P1G：Spatio-temporal dynamics of canopy space filling</summary><br>
 <div class="row">
-      <div class="col-md-4">
+      <div class="col-md-16">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
       Prof. Dr. Goddert von Oheimb <br>TU Dresden<br>
