@@ -19,18 +19,18 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> P1G：Spatio-temporal dynamics of canopy space filling</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      <strong><strong>Principal Investigator:</strong></strong> <br>
-      Prof. Dr. Goddert von Oheimb <br>TU Dresden<br>
-      <i class="fas fa-envelope"></i> Goddert_v_Oheimb@tu-dresden.de<br>
-      Prof. Dr. Werner Härdtle<br>German Centre for Integrative Biodiversity Research (iDiv)<br>
-      <i class="fas fa-envelope"></i> werner.haerdtle@uni.leuphana.de<br>
-      <strong>PhD student:</strong><br> Maria Dolores Perles Garcia<br>
-      <br>
-      <strong><strong>Objectives:</strong></strong> <br>
-      *	To analyse crown, branch and leaf traits in relation to tree-tree interactions (TSPs and local neighbourhood);<br>
-      *	To analyse trait variability related to canopy filling and light interception;<br>
-      *	To quantify how canopy space use complementarity translates into enhanced tree growth.<br>
-      </li>
+    <strong><strong>Principal Investigator:</strong></strong> <br>
+    Prof. Dr. Goddert von Oheimb <br>TU Dresden<br>
+    <i class="fas fa-envelope"></i> Goddert_v_Oheimb@tu-dresden.de<br>
+    Prof. Dr. Werner Härdtle<br>German Centre for Integrative Biodiversity Research (iDiv)<br>
+    <i class="fas fa-envelope"></i> werner.haerdtle@uni.leuphana.de<br>
+    <strong>PhD student:</strong><br> Maria Dolores Perles Garcia<br>
+    <br>
+    <strong><strong>Objectives:</strong></strong> <br>
+    *	To analyse crown, branch and leaf traits in relation to tree-tree interactions (TSPs and local neighbourhood);<br>
+    *	To analyse trait variability related to canopy filling and light interception;<br>
+    *	To quantify how canopy space use complementarity translates into enhanced tree growth.<br>
+    </li>
 </div>
 </details>
 
