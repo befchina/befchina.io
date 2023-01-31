@@ -24,7 +24,7 @@ permalink: "/otherprojects.html"
     &nbsp; &nbsp; <i class="fas fa-envelope"></i> Goddert_v_Oheimb@tu-dresden.de<br>
     &nbsp; &nbsp; Prof. Dr. Werner Härdtle<br>&nbsp; &nbsp; German Centre for Integrative Biodiversity Research (iDiv)<br>
     &nbsp; &nbsp; <i class="fas fa-envelope"></i> werner.haerdtle@uni.leuphana.de<br>
-    &nbsp; &nbsp; <strong>PhD student:</strong><br> Maria Dolores Perles Garcia<br>
+    &nbsp; &nbsp; <strong>PhD student:</strong><br> &nbsp; &nbsp; Maria Dolores Perles Garcia<br>
     <br>
     &nbsp; &nbsp; <strong><strong>Objectives:</strong></strong> <br>
     &nbsp; &nbsp; *	To analyse crown, branch and leaf traits in relation to tree-tree interactions (TSPs and local neighbourhood);<br>
