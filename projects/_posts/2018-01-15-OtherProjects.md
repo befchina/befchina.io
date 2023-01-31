@@ -32,6 +32,7 @@ permalink: "/otherprojects.html"
       *	To analyse trait variability related to canopy filling and light interception;<br>
       *	To quantify how canopy space use complementarity translates into enhanced tree growth.<br>
       </li>
+   </div>
 </div>
 </details>
 
