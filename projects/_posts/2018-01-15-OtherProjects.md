@@ -20,9 +20,9 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
     &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
-    &nbsp; &nbsp; Prof. Dr. Goddert von Oheimb <br>TU Dresden<br>
+    &nbsp; &nbsp; Prof. Dr. Goddert von Oheimb <br>&nbsp; &nbsp; TU Dresden<br>
     &nbsp; &nbsp; <i class="fas fa-envelope"></i> Goddert_v_Oheimb@tu-dresden.de<br>
-    &nbsp; &nbsp; Prof. Dr. Werner Härdtle<br>German Centre for Integrative Biodiversity Research (iDiv)<br>
+    &nbsp; &nbsp; Prof. Dr. Werner Härdtle<br>&nbsp; &nbsp; German Centre for Integrative Biodiversity Research (iDiv)<br>
     &nbsp; &nbsp; <i class="fas fa-envelope"></i> werner.haerdtle@uni.leuphana.de<br>
     &nbsp; &nbsp; <strong>PhD student:</strong><br> Maria Dolores Perles Garcia<br>
     <br>
