@@ -16,7 +16,7 @@ permalink: "/otherprojects.html"
 * * *
 #### TreeDì
 <details>
-<strong><summary class="dropdown-text"> P1G：Spatio-temporal dynamics of canopy space filling</summary><strong><br>
+<summary class="dropdown-text"> <strong>P1G：Spatio-temporal dynamics of canopy space filling<strong></summary><br>
 <div class="row">
       <div class="col-md-4">
       <li class="dropdown-sub">
