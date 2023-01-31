@@ -18,7 +18,7 @@ permalink: "/otherprojects.html"
 <details>
 <summary class="dropdown-text"> P1G：Spatio-temporal dynamics of canopy space filling</summary><br>
 <div class="row">
-      <div class="col-md-16">
+      <div class="col-md-8">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
       Prof. Dr. Goddert von Oheimb <br>TU Dresden<br>
@@ -39,7 +39,7 @@ permalink: "/otherprojects.html"
 <details>
 <summary class="dropdown-text"> P1C: Belowground productivity and complementarity</summary><br>
 <div class="row">
-      <div class="col-md-16">
+      <div class="col-md-8">
       <li class="dropdown-sub">
       <strong><strong>Principal Investigator:</strong></strong> <br>
       Assoc. Prof. Dr. Xiaojuan Liu <br>Institute of Botany, Chinese Academy of Sciences<br>
