@@ -16,7 +16,7 @@ permalink: "/otherprojects.html"
 * * *
 #### TreeDì
 <details>
-<summary class="dropdown-text"> **P1G：Spatio-temporal dynamics of canopy space filling**</summary><br>
+<summary class="dropdown-text"> P1G：Spatio-temporal dynamics of canopy space filling</summary><br>
 <div class="row">
       <li class="dropdown-sub">
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
@@ -38,23 +38,23 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> P1C: Belowground productivity and complementarity</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      <strong><strong>Principal Investigator:</strong></strong> <br>
-      Assoc. Prof. Dr. Xiaojuan Liu <br>Institute of Botany, Chinese Academy of Sciences<br>
-      <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
-      Dr. Wensheng Bu<br>Jiangxi Agricultural University<br>
-      <i class="fas fa-envelope"></i> bws2007@163.com<br>
-      Prof. Dr. Keping Ma<br>Institute of Botany, Chinese Academy of Sciences<br>
-      <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>
-      <strong>PhD student:</strong><br> Hanjiao Gu<br>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Xiaojuan Liu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dr. Wensheng Bu<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jiangxi Agricultural University<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> bws2007@163.com<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Keping Ma<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>PhD student:</strong><br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hanjiao Gu<br>
       <br>
-      <strong><strong>Objectives:</strong></strong> <br>
-      *	To analyse species richness effects on fine-root production;<br>
-      *	To analyse effects of species composition on fine-root turnover and distribution;<br>
-      *	To find the connection between below- and aboveground processes.<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Objectives:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *	To analyse species richness effects on fine-root production;<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *	To analyse effects of species composition on fine-root turnover and distribution;<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *	To find the connection between below- and aboveground processes.<br>
       <br>
-      <strong><strong>Subproject:</strong></strong> <br>
-     1.	The impact of different species diversity levels on nutrient reabsorption in different organs (branches, leaves and fine-root);<br>
-     2.	The effects of tree species diversity on productivity and turnover of different fine-root functional groups.<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Subproject:</strong></strong> <br>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1.	The impact of different species diversity levels on nutrient reabsorption in different organs (branches, leaves and fine-root);<br>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2.	The effects of tree species diversity on productivity and turnover of different fine-root functional groups.<br>
       </li>
 </div>
 </details>
