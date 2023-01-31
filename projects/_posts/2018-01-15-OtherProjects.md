@@ -19,17 +19,17 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> P1G：Spatio-temporal dynamics of canopy space filling</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-    &nbsp; &NBSP;<strong><strong>Principal Investigator:</strong></strong> <br>
-    &nbsp; &NBSP;Prof. Dr. Goddert von Oheimb <br>TU Dresden<br>
-    &nbsp; &NBSP;<i class="fas fa-envelope"></i> Goddert_v_Oheimb@tu-dresden.de<br>
-    &nbsp; &NBSP;Prof. Dr. Werner Härdtle<br>German Centre for Integrative Biodiversity Research (iDiv)<br>
-    &nbsp; &NBSP;<i class="fas fa-envelope"></i> werner.haerdtle@uni.leuphana.de<br>
-    &nbsp; &NBSP;<strong>PhD student:</strong><br> Maria Dolores Perles Garcia<br>
+    &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+    &nbsp; &nbsp; Prof. Dr. Goddert von Oheimb <br>TU Dresden<br>
+    &nbsp; &nbsp; <i class="fas fa-envelope"></i> Goddert_v_Oheimb@tu-dresden.de<br>
+    &nbsp; &nbsp; Prof. Dr. Werner Härdtle<br>German Centre for Integrative Biodiversity Research (iDiv)<br>
+    &nbsp; &nbsp; <i class="fas fa-envelope"></i> werner.haerdtle@uni.leuphana.de<br>
+    &nbsp; &nbsp; <strong>PhD student:</strong><br> Maria Dolores Perles Garcia<br>
     <br>
-    &nbsp; &NBSP;<strong><strong>Objectives:</strong></strong> <br>
-    &nbsp; &NBSP;*	To analyse crown, branch and leaf traits in relation to tree-tree interactions (TSPs and local neighbourhood);<br>
-    &nbsp; &NBSP;*	To analyse trait variability related to canopy filling and light interception;<br>
-    &nbsp; &NBSP;*	To quantify how canopy space use complementarity translates into enhanced tree growth.<br>
+    &nbsp; &nbsp; <strong><strong>Objectives:</strong></strong> <br>
+    &nbsp; &nbsp; *	To analyse crown, branch and leaf traits in relation to tree-tree interactions (TSPs and local neighbourhood);<br>
+    &nbsp; &nbsp; *	To analyse trait variability related to canopy filling and light interception;<br>
+    &nbsp; &nbsp; *	To quantify how canopy space use complementarity translates into enhanced tree growth.<br>
     </li>
 </div>
 </details>
