@@ -504,12 +504,12 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> Understanding plant adaptation to different diversity level by regulating functional balances</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      <strong><strong>Principal Investigator:</strong></strong> <br>
-      Assoc. Prof. Dr. Xiaojuan Liu <br> Institute of Botany, Chinese Academy of Sciences<br>
-      <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
-      Prof. Dr. Keping Ma<br> Institute of Botany, Chinese Academy of Sciences<br>
-      <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>  
-      <strong>Postdoc: </strong>Dr. Lan Zhang
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Xiaojuan Liu <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Keping Ma<br> Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>  
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Postdoc: </strong>Dr. Lan Zhang
       </li>
 </div>
 </details>
@@ -518,12 +518,12 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> Inference on growth-trait relationships is influenced by temporal species trait changes</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      <strong><strong>Principal Investigator:</strong></strong> <br>
-      Assoc. Prof. Dr. Xiaojuan Liu <br>Institute of Botany, Chinese Academy of Sciences<br>
-      <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
-      Prof. Dr. Keping Ma <br> Institute of Botany, Chinese Academy of Sciences<br>
-      <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>  
-      <strong>Postdoc: </strong>Dr. Franca J. Bongers
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Xiaojuan Liu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Keping Ma <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>  
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Postdoc: </strong>Dr. Franca J. Bongers
       </li>
 </div>
 </details>
@@ -532,10 +532,10 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> Effects of tree richness and shrub richness on shrub productivity</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      <strong><strong>Principal Investigator:</strong></strong> <br>
-      Assoc. Prof. Dr. Xiaojuan Liu <br> Institute of Botany, Chinese Academy of Sciences<br>
-      <i class="fas fa-envelope"></i>liuxiaojuan06@ibcas.ac.cn<br>
-      <strong>Master student:</strong> Anpeng Cheng
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Xiaojuan Liu <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i>liuxiaojuan06@ibcas.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Master student:</strong> Anpeng Cheng
       </li>
 </div>
 </details>
@@ -545,12 +545,12 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> The interation of tree diversity and shrub diversity effect on shrub survival rate</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      <strong><strong>Principal Investigator:</strong></strong> <br>
-      Assoc. Prof. Dr. Xiaojuan Liu <br>Institute of Botany, Chinese Academy of Sciences<br>
-      <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
-      Prof. Dr. Jingwen Li <br> Beijing Forestry University<br>
-      <i class="fas fa-envelope"></i> lijingwen@bjfu.edu.cn<br>
-      <strong>Master student: </strong> Yujie Xue
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Xiaojuan Liu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Jingwen Li <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Beijing Forestry University<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> lijingwen@bjfu.edu.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Master student: </strong> Yujie Xue
       </li>
 </div>
 </details>
@@ -619,12 +619,12 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> Analyses of species richness of the woody plants as affected by nitrogen mineralization via rhizosphere dynamics</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      <strong><strong>Principal Investigator:</strong></strong> <br>
-      Assoc. Prof. Dr. Naili Zhang <br>Beijing Forestry University<br>
-      <i class="fas fa-envelope"></i> zhangnaili@bjfu.edu.cn<br>
-      Assoc. Prof. Dr. Laiye Qu <br>Research Center of Eco-environmental Sciences, Chinese Academy of Sciences<br>
-      <i class="fas fa-envelope"></i> lyqu@rcees.ac.cn<br>
-      <strong>Master student: </strong>Siyu Gun
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Naili Zhang <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Beijing Forestry University<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> zhangnaili@bjfu.edu.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Laiye Qu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Research Center of Eco-environmental Sciences, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> lyqu@rcees.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Master student: </strong>Siyu Gun
       </li>
 </div>
 </details>
@@ -633,10 +633,10 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> Effects of species richness on priming effects and its underlying mechanisms</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      <strong><strong>Principal Investigator:</strong></strong> <br>
-      Prof. Dr. Xuhui Zhou <br>East China Normal University<br>
-      <i class="fas fa-envelope"></i> xhzhou@des.ecnu.edu.cn<br>
-      <strong>Postdoc: </strong>Yanghui He
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xuhui Zhou <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; East China Normal University<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> xhzhou@des.ecnu.edu.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Postdoc: </strong>Yanghui He
       </li>
 </div>
 </details>
@@ -667,11 +667,11 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> The effects of tree diversity on tree-caterpillar-parasitoid interaction; The effects of tree diversity on predator-prey interaction.
 </summary><br>
 <div class="row">
-    <li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
-    Chaodong Zhu<br>
-    Institute of Zoology, Chinese Academy of Sciences<br>
-    <i class="fas fa-envelope"></i> zhucd@ioz.ac.cn<br>
-    <strong>Master student: </strong> Jingting Chen
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chaodong Zhu<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Zoology, Chinese Academy of Sciences<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> zhucd@ioz.ac.cn<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Master student: </strong> Jingting Chen
     </li>
 </div>
 
@@ -814,11 +814,11 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> tree death patterns and dispersal of pathogens in forest stand with different tree diversity </summary><br>
 <div class="row">
     <div class="col-md-4">
-    <li class="dropdown-sub"><strong><strong>Principal Investigators:</strong></strong><br>
-    Assoc. Prof. Dr. Yu Liang<br>
-    Institute of Botany, Chinese Academy of Sciences<br>
-    <i class="fas fa-envelope"></i> coolrain@ibcas.ac.cn<br>
-    <strong>Master student:</strong> Shaoran Li
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li class="dropdown-sub"><strong><strong>Principal Investigators:</strong></strong><br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Yu Liang<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> coolrain@ibcas.ac.cn<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Master student:</strong> Shaoran Li
     </li>
     </div>
 </div>
@@ -869,12 +869,12 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> The effect of plant species diversity and genetic diversity on multi-trophic levels and their feedbacks on community productivity </summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      <strong>Principal Investigator:</strong> <br>
-      Assoc. Prof. Dr. Xiaojuan Liu <br>Institute of Botany, Chinese Academy of Sciences<br>
-      <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
-      Prof. Dr. Keping Ma <br> Institute of Botany, Chinese Academy of Sciences<br>
-      <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>
-     <strong>PhD student: </strong>Ting Tang
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Principal Investigator:</strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Xiaojuan Liu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Keping Ma <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>PhD student: </strong>Ting Tang
       </li>
 </div>
 </details>
@@ -883,10 +883,10 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> Microbial migration: from phyllosphere to soil </summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      <strong>Principal Investigator:</strong> <br>
-       Prof. Dr. Yongguan Zhu <br>Institute of Urban Environment, Chinese Academy of Sciences<br>
-      <i class="fas fa-envelope"></i> ygzhu@iue.ac.cn<br>
-     <strong>Postdoc: </strong>Jian Li
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Principal Investigator:</strong> <br>
+       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Yongguan Zhu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Urban Environment, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> ygzhu@iue.ac.cn<br>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Postdoc: </strong>Jian Li
       </li>
 </div>
 </details>
