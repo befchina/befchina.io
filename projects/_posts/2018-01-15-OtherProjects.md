@@ -890,3 +890,16 @@ permalink: "/otherprojects.html"
       </li>
 </div>
 </details>
+
+
+<details>
+<summary class="dropdown-text"> Response of fine root, mycorrhizal fungi and their interaction to species coexistence in subtropical forest </summary><br>
+<div class="row">
+      <li class="dropdown-sub">
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Principal Investigator:</strong> <br>
+       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Bo Yang <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jingdezhen University<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> ygzhu@iue.ac.cn<br>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Postdoc: </strong>Fangmin Hu
+      </li>
+</div>
+</details>
