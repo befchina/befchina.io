@@ -481,19 +481,19 @@ permalink: "/otherprojects.html"
     <img class = "img3" src=" {{ site.baseurl }}/assets/projects/Michael/Michael2.jpg">
     </div> -->
     <div class="col-md-6">
-    <li class="dropdown-sub"><strong>Principal Investigators:</strong> <br>
-    Assoc. Prof. Dr. Xiaojuan Liu<br>
-    Institute of Botany, Chinese Academy of Sciences<br>
-    <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
-    Prof. Dr. Bernhard Schmid<br>
-    University of Zurich<br>
-    <i class="fas fa-envelope"></i> bernhard.schmid@ieu.uzh.ch<br>
-    Prof. Dr. Keping Ma<br>
-    Institute of Botany, Chinese Academy of Sciences<br>
-    <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>
-    Prof. Dr. Michael E. Schaepman<br>
-    University of Zurich<br>
-    <i class="fas fa-envelope"></i> michael.schaepman@geo.uzh.ch<br>	 
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li class="dropdown-sub"><strong>Principal Investigators:</strong> <br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Xiaojuan Liu<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Bernhard Schmid<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Zurich<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> bernhard.schmid@ieu.uzh.ch<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Keping Ma<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Michael E. Schaepman<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Zurich<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> michael.schaepman@geo.uzh.ch<br>	 
     </li>
     </div>
 </div>
