@@ -130,7 +130,7 @@ permalink: "/otherprojects.html"
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Zhiyao Tang <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; College of Urban and Environmental Sciences, Peking University<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> zytang@urban.pku.edu.cn<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>PhD student: </strong><br> Tongyan Liu<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>PhD student: </strong><br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tongyan Liu<br>
       <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Objectives:</strong></strong><br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *	Analyze whether diverse forests express complementarity in seasonal growth and whether this translates into higher productivity;<br>
@@ -152,7 +152,7 @@ permalink: "/otherprojects.html"
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Andreas Schuldt <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Martin-Luther-University Halle-Wittenberg Institute of Biology<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> andreas.schuldt@forst.uni-goettingen.de<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>PhD student:</strong><br> Perttu Anttonen<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>PhD student:</strong><br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Perttu Anttonen<br>
       <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Objectives:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *	Herbivory & community structure of herbivore feeding guilds across space & time;<br>
@@ -206,7 +206,7 @@ permalink: "/otherprojects.html"
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> lingli.liu@ibcas.ac.cn<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xiaoyong Cui <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> cuixy@ucas.ac.cn<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>PhD student: </strong><br> Lulu Guo<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>PhD student: </strong><br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lulu Guo<br>
       <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Objectives:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *	To study the temporal course of fungal species composition, in parallel with the leaf chemical composition;<br>
