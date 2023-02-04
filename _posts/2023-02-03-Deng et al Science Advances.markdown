@@ -37,6 +37,6 @@ Chinese report:
 [http://www.ib.cas.cn/2019gb/kyjz2019/202301/t20230119_6601654.html](http://www.ib.cas.cn/2019gb/kyjz2019/202301/t20230119_6601654.html)
 
 ### Literature:
-Meifeng Deng, Shuijin Hu, Lulu Guo, Lin Jiang, Yuanyuan Huang, Bernhard Schmid, Chao Liu, Pengfei Chang, Shan Li, Xiaojuan Liu, Keping Ma, Lingli Liu<code>&ast;</code>. 2023. Tree mycorrhizal association types control biodiversity-productivity relationship in a subtropical forest. Science Advances. 9(3): eadd4468. [https://doi.org/10.1126/sciadv.add4468](https://doi.org/10.1126/sciadv.add4468).
+Meifeng Deng, Shuijin Hu, Lulu Guo, Lin Jiang, Yuanyuan Huang, Bernhard Schmid, Chao Liu, Pengfei Chang, Shan Li, Xiaojuan Liu, Keping Ma, Lingli Liu<code>&ast;</code>. 2023. Tree mycorrhizal association types control biodiversity-productivity relationship in a subtropical forest. *Science Advances*. 9(3): eadd4468. [https://doi.org/10.1126/sciadv.add4468](https://doi.org/10.1126/sciadv.add4468).
 
 
