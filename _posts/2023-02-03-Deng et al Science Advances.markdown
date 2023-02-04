@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Mycorrhizal Types Control Biodiversity Effects on Productivity"
 author: Meifeng Deng
