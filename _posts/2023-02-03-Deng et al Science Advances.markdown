@@ -26,12 +26,8 @@ These findings also have practical implications for species selection in tropica
 
 This study was published as an online cover article in Sciences Advances on Jan. 18 and was funded by the Strategic Priority Research Program of CAS and the National Natural Science Foundation of China. 
 
-![Figure]({{ site.baseurl }}/assets/projects/DMF3.jpg)
-<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Fig. 1. The study was published as an online cover article in Science Advances.
-</span></p>
-
-![Figure]({{ site.baseurl }}/assets/projects/DMF2.png)
-<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Fig. 2. Changes in nutrient acquisition strategies and soil microbial communities of arbuscular mycorrhizal (AM) and ectomycorrhizal (EcM) trees as species diversity increases.
+![Figure]({{ site.baseurl }}/assets/projects/DMF4.jpg)
+<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Fig. 1. Changes in nutrient acquisition strategies and soil microbial communities of arbuscular mycorrhizal (AM) and ectomycorrhizal (EcM) trees as species diversity increases.
 </span></p>
 
 English report:
