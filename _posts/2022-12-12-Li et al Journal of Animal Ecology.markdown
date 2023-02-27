@@ -29,4 +29,4 @@ These findings enrich our mechanistic understanding of the ‘Diversity Begets D
 </span></p>
 
 ### Literature:
-Yi Li#, Yuan-Bao Du#, Jing-Ting Chen, Ming-Qiang Wang, Shi-Kun Guo, Andreas Schuldt, Peng-Fei Guo, Xiang-Cheng Mi, Xiao-Juan Liu, Ke-Ping Ma, Helge Bruelheide, Douglas Chesters, Xuan Liu, Chao-Dong Zhu<code>&ast;</code>. 2022. Tree dissimilarity determines multi-dimensional beta diversity of herbivores and carnivores via bottom-up effects. *Journal of Animal Ecology*. Online [https://doi.org/10.1111/1365-2656.13868](https://doi.org/10.1111/1365-2656.13868). 
+Yi Li#, Yuan-Bao Du#, Jing-Ting Chen, Ming-Qiang Wang, Shi-Kun Guo, Andreas Schuldt, Peng-Fei Guo, Xiang-Cheng Mi, Xiao-Juan Liu, Ke-Ping Ma, Helge Bruelheide, Douglas Chesters, Xuan Liu, Chao-Dong Zhu<code>&ast;</code>. 2022. Tree dissimilarity determines multi-dimensional beta diversity of herbivores and carnivores via bottom-up effects. *Journal of Animal Ecology*. 92:442-453. [https://doi.org/10.1111/1365-2656.13868](https://doi.org/10.1111/1365-2656.13868). 
