@@ -39,7 +39,7 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Xiaojuan Liu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xiaojuan Liu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dr. Wensheng Bu<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jiangxi Agricultural University<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> bws2007@163.com<br>
@@ -388,7 +388,7 @@ permalink: "/otherprojects.html"
     </div>
     <div class="col-md-4">
     <li class="dropdown-sub"><strong>Principal Investigators:</strong> <br>
-    Assoc. Prof. Dr. Xiaojuan Liu<br>
+    Prof. Dr. Xiaojuan Liu<br>
     Institute of Botany, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
     Prof. Dr. Keping Ma<br>
@@ -412,7 +412,7 @@ permalink: "/otherprojects.html"
     </div>
     <div class="col-md-4">
     <li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
-    Assoc. Prof. Dr. Xiaojuan Liu<br>
+    Prof. Dr. Xiaojuan Liu<br>
     Institute of Botany, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
     Prof. Dr. Keping Ma<br>
@@ -436,7 +436,7 @@ permalink: "/otherprojects.html"
     </div>
     <div class="col-md-4">
     <li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
-    Assoc. Prof. Dr. Xiaojuan Liu<br>
+    Prof. Dr. Xiaojuan Liu<br>
     Institute of Botany, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
     Prof. Dr. Keping Ma<br>
@@ -460,7 +460,7 @@ permalink: "/otherprojects.html"
     </div>
     <div class="col-md-4">
     <li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
-    Assoc. Prof. Dr. Xiaojuan Liu<br>
+    Prof. Dr. Xiaojuan Liu<br>
     Institute of Botany, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
     Prof. Dr. Keping Ma<br>
@@ -482,7 +482,7 @@ permalink: "/otherprojects.html"
     </div> -->
     <div class="col-md-6">
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li class="dropdown-sub"><strong>Principal Investigators:</strong> <br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Xiaojuan Liu<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xiaojuan Liu<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Bernhard Schmid<br>
@@ -505,7 +505,7 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Xiaojuan Liu <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xiaojuan Liu <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Keping Ma<br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>  
@@ -519,7 +519,7 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Xiaojuan Liu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xiaojuan Liu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Keping Ma <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>  
@@ -533,7 +533,7 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Xiaojuan Liu <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xiaojuan Liu <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i>liuxiaojuan06@ibcas.ac.cn<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Master student:</strong> Anpeng Cheng
       </li>
@@ -546,7 +546,7 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Xiaojuan Liu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xiaojuan Liu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Jingwen Li <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Beijing Forestry University<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> lijingwen@bjfu.edu.cn<br>
