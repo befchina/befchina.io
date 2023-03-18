@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Different assembly mechanisms of leaf epiphytic and endophytic bacterial communities underlie their higher diversity in more diverse forests"
 author: Xian Yang
