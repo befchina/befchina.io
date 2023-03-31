@@ -17,4 +17,4 @@ Carbon-focused climate mitigation strategies are becoming increasingly important
 </span></p>
 
 ### Literature:
-Andreas Schuldt<code>&ast;</code>, Xiaojuan Liu, Francois Buscot, Helge Bruelheide, Alexandra Erfmeier, Jinsheng He, Alexandra-Maria Klein, Keping Ma, Michael Scherer-Lorenzen, Bernhard Schmid, Thomas Scholten, Zhiyao Tang, Stefan Trogisch, Christian Wirth, Tesfaye Wubet, Michael Staab. 2023. Carbon-biodiversity relationships in a highly diverse subtropical forest. *Global Change Biology*. [https://doi.org/10.1111/gcb.16697](https://doi.org/10.1111/gcb.16697). 
+Andreas Schuldt<code>&ast;</code>, Xiaojuan Liu, Francois Buscot, Helge Bruelheide, Alexandra Erfmeier, Jinsheng He, Alexandra-Maria Klein, Keping Ma, Michael Scherer-Lorenzen, Bernhard Schmid, Thomas Scholten, Zhiyao Tang, Stefan Trogisch, Christian Wirth, Tesfaye Wubet, Michael Staab. 2023. Carbon-biodiversity relationships in a highly diverse subtropical forest. *Global Change Biology*. Online. [https://doi.org/10.1111/gcb.16697](https://doi.org/10.1111/gcb.16697). 
