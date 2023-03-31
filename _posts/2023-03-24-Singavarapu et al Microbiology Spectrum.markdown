@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Functional potential of soil microbial communities and their subcommunities varies with tree mycorrhizal type and tree diversity"
 author: Bala Singavarapu
