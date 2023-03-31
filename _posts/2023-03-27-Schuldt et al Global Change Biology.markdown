@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Carbon–biodiversity relationships in a highly diverse subtropical forest"
 author: Andreas Schuldt
