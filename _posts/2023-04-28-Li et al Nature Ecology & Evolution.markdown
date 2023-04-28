@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Multitrophic arthropod diversity mediates tree diversity effects on primary productivity"
 author: Yi Li
