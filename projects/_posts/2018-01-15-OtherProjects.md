@@ -481,7 +481,7 @@ permalink: "/otherprojects.html"
     <img class = "img3" src=" {{ site.baseurl }}/assets/projects/Michael/Michael2.jpg">
     </div> -->
     <div class="col-md-6">
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li class="dropdown-sub"><strong>Principal Investigators:</strong> <br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xiaojuan Liu<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
