@@ -1033,7 +1033,7 @@ permalink: "/otherprojects.html"
 <div class="row">
       <li class="dropdown-sub">
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Principal Investigator:</strong> <br>
-       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Bo Yang <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jingdezhen University<br>
+       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Bo Yang <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jingdezhen University<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> yangbomvp@aliyun.com<br>
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Postdoc: </strong>Fangmin Hu
       </li>
