@@ -376,6 +376,20 @@ permalink: "/otherprojects.html"
 </div>
 </details>
 
+
+* * *
+#### Multi-Troph
+<details>
+Z1: Administrative and scientific coordination
+SP1: Wood decomposition and decomposer interactions
+SP2: Soil-plant interactions and stoichiometry
+SP3: Plant-arthropod food webs, stoichiometry and functions
+SP4: Cavity-nesting Hymenoptera and multi-trophic interactions
+SP5: Trophic interactions across tree regeneration stages
+SP6: Ant trophic interactions and functions
+Z2: Data management and synthesis
+</details>
+
 * * *
 #### Productivity
 <details>
