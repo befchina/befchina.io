@@ -20,7 +20,7 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> P1G：Spatio-temporal dynamics of canopy space filling</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong> <br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Goddert von Oheimb <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; TU Dresden<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> Goddert_v_Oheimb@tu-dresden.de<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Werner Härdtle<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; German Centre for Integrative Biodiversity Research (iDiv)<br>
@@ -39,7 +39,7 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> P1C: Belowground productivity and complementarity</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xiaojuan Liu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dr. Wensheng Bu<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jiangxi Agricultural University<br>
@@ -63,7 +63,7 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> P2G: Causes and effects of leaf trait variation</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dr. Sylvia Haider<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Biology, Martin-Luther-University Halle-Wittenberg<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> sylvia.haider@botanik.uni-halle.de<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Stan Harpole<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; German Centre for Integrative Biodiversity Research (iDiv)<br>
@@ -87,7 +87,7 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> P2C: Roots and mycorrhizal traits</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Zeqing Ma <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> mazq@igsnrr.ac.cn<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dr. Bo Yang<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jingdezhen University<br>
@@ -106,7 +106,7 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> P3G: Spatio-temporal complementarity</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Christian Wirth <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Biology, Leipzig University (UL)<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> cwirth@uni-leipzig.de<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Jürgen Bauhus <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Biology, Leipzig University (UL) & German Centre for Integrative Biodiversity Research (iDiv)<br>
@@ -202,7 +202,7 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> P5C: Effects of leaf pathogens on leaf litter decomposition</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Lingli Liu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> lingli.liu@ibcas.ac.cn<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xiaoyong Cui <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Chinese Academy of Sciences<br>
@@ -220,7 +220,7 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> P6G: Biodiversity effects on tree root exudate metabolomes</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr.Nicole van Dam <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; German Centre for Integrative Biodiversity Research (iDiv)<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> Nicole.vandam@idiv.de<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dr. Steffen Neumann <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Leibniz Institute of Plant Biochemistry<br>
@@ -243,7 +243,7 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> P6C: Complementarity in nitrogen uptake by roots</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xingliang Xu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> xuxingl@hotmail.com<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Naili Zhang <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Beijing Forestry University<br>
@@ -300,7 +300,7 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> P8G: Functional diversity of soil microbial and nematode communities</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dr. Simone Cesarz<br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Leipzig University, German Centre for Integrative Biodiversity Research (iDiv)<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> simone.cesarz@idiv.de<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Nico Eisenhauer<br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Leipzig University, German Centre for Integrative Biodiversity Research (iDiv)<br>
@@ -325,7 +325,7 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> P8C: Microbial function potential and its linkage with ecosystem functioning</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Yanfen Wang <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Chinese Academic of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> yfwang@ucas.ac.cn<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Kai Xue<br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Chinese Academic of Sciences<br>
@@ -361,7 +361,7 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> P9C: Modeling forest community dynamics and neighbor TSP competition</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Weiguo Sang <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Minzu University of China<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> swg@muc.edu.cn<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Shaopeng Wang<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; College of Urban and Environmental Sciences, Peking University<br>
@@ -411,7 +411,6 @@ permalink: "/otherprojects.html"
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> luoar@ioz.ac.cn<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Doctoral Researcher:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Matteo Dadda<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Bayreuth<br>
-            
       </li>
 </div>
 </details>
@@ -434,7 +433,6 @@ permalink: "/otherprojects.html"
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> zhangnaili@bjfu.edu.cn<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Doctoral Researcher:</strong></strong> <br> 
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Haikuo Zhang<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Tübingen<br>
-            
       </li>
 </div>
 </details>
