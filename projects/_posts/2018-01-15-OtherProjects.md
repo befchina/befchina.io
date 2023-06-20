@@ -383,11 +383,13 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> Z1: Administrative and scientific coordination</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Spokesperson:</strong></strong> <br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Alexandra-M. Klein<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Freiburg<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> alexandra.klein@nature.uni-freiburg.de<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Chinese Coordinator:</strong></strong> <br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Chao-Dong Zhu<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Zoology, Chinese Academy of Sciences<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> zhucd@ioz.ac.cn<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Project Coordinator:</strong></strong> <br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dr. Finn Rehling<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Freiburg<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> finn.rehling@nature.uni-freiburg.de<br>
     </li>
