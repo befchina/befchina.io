@@ -396,34 +396,22 @@ permalink: "/otherprojects.html"
 </div>
 </details>
 
-<details>
-<summary class="dropdown-text"> Z2: Data management and synthesis</summary><br>
-<div class="row">
-      <li class="dropdown-sub">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Andreas Schuldt<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Georg-August-Universität Göttingen<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> andreas.schuldt@forst.uni-goettingen.de<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Helge Bruelheide<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Martin Luther University Halle Wittenberg<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> helge.bruelheide@botanik.uni-halle.de<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Huijie Qiao<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Zoology, Chinese Academy of Sciences<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> qiaohj@ioz.ac.cn<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xiaojuan Liu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
-      </li>
-</div>
-</details>
 
 <details>
 <summary class="dropdown-text"> SP1: Wood decomposition and decomposer interactions</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Heike Feldhaar<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Bayreuth<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> Heike.Feldhaar@uni-bayreuth.de<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dr. Simon Thorn<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Würzburg<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> simon@thornonline.de<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Chinese Partners:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Arong Luo<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Zoology, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> luoar@ioz.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Doctoral Researcher:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Matteo Dadda<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Bayreuth<br>
+            
       </li>
 </div>
 </details>
@@ -512,6 +500,24 @@ permalink: "/otherprojects.html"
       </li>
 </div>
 </details>
+
+<details>
+<summary class="dropdown-text"> Z2: Data management and synthesis</summary><br>
+<div class="row">
+      <li class="dropdown-sub">
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Andreas Schuldt<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Georg-August-Universität Göttingen<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> andreas.schuldt@forst.uni-goettingen.de<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Helge Bruelheide<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Martin Luther University Halle Wittenberg<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> helge.bruelheide@botanik.uni-halle.de<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Huijie Qiao<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Zoology, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> qiaohj@ioz.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xiaojuan Liu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
+      </li>
+</div>
+</details>
+
 
 * * *
 #### Productivity
