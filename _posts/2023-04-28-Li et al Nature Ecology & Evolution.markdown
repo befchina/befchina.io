@@ -53,5 +53,5 @@ Chinese report:
 [https://mp.weixin.qq.com/s/6RtjUpyu2kGBJODTF52-mg](https://mp.weixin.qq.com/s/6RtjUpyu2kGBJODTF52-mg)
 
 ### Literature:
-Yi Li, Bernhard Schmid, Andreas Schuldt, Shan Li, Ming-Qiang Wang, Felix Fornoff, Michael Staab, Peng-Fei Guo, Perttu Anttonen, Douglas Chesters, Helge Bruelheide, Chao-Dong Zhu, Keping Ma<code>&ast;</code>, Xiaojuan Liu<code>&ast;</code>. 2023. Multitrophic arthropod diversity mediates tree diversity effects on primary productivity. Nature Ecology & Evolution. Online. [https://doi.org/10.1038/s41559-023-02049-1](https://doi.org/10.1038/s41559-023-02049-1). 
+Yi Li, Bernhard Schmid, Andreas Schuldt, Shan Li, Ming-Qiang Wang, Felix Fornoff, Michael Staab, Peng-Fei Guo, Perttu Anttonen, Douglas Chesters, Helge Bruelheide, Chao-Dong Zhu, Keping Ma<code>&ast;</code>, Xiaojuan Liu<code>&ast;</code>. 2023. Multitrophic arthropod diversity mediates tree diversity effects on primary productivity. Nature Ecology & Evolution. 7: 832–840. [https://doi.org/10.1038/s41559-023-02049-1](https://doi.org/10.1038/s41559-023-02049-1). 
 
