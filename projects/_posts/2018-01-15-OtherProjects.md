@@ -420,17 +420,21 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> SP2: Soil-plant interactions and stoichiometry</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Yvonne Oelmann <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Tübingen<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> yvonne.oelmann@uni-tuebingen.de<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Thomas Scholten<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Tübingen<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> thomas.scholten@uni-tuebingen.de<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dr. Steffen Seitz<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Tübingen<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> steffen.seitz@uni-tuebingen.de<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr.  Yu Liang<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Chinese Partners:</strong></strong> <br> 
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Yu Liang<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> coolrain@ibcas.ac.cn<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Naili Zhang<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Beijing Forestry University<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> zhangnaili@bjfu.edu.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Doctoral Researcher:</strong></strong> <br> 
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Haikuo Zhang<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Tübingen<br>
+            
       </li>
 </div>
 </details>
@@ -439,15 +443,18 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> SP3: Plant-arthropod food webs, stoichiometry and functions</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Jana Petermann <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Salzburg<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> jana.petermann@plus.ac.at<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Andreas Schuldt<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Georg-August-Universität Göttingen<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> andreas.schuldt@forst.uni-goettingen.de<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Chinese Partners:</strong></strong> <br>     
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Douglas Chesters<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Zoology, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> dchesters@ioz.ac.cn<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. MingQiang Wang<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chengdu Institute of Biology, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> wangmq@cib.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Doctoral Researcher:</strong></strong> <br>     
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mareike Mittag<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Salzburg<br> 
       </li>
 </div>
 </details>
@@ -456,17 +463,21 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> SP4: Cavity-nesting Hymenoptera and multi-trophic interactions</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Alexandra-M. Klein<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Freiburg<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> alexandra.klein@nature.uni-freiburg.de<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dr. Felix Fornoff <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Freiburg<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> felix.fornoffatnature.uni-freiburg.de<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dr. Manuela Sann <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Hohenheim<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> manuela.sann@uni-hohenheim.de<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Chinese Partner:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Arong Luo<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Zoology, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> luoar@ioz.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Partner:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dr. Michael C. Orr<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Naturkundemuseum Stuttgart<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> michael.christopher.orr@gmail.com<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Doctoral Researcher:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Massimo Martini<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Freiburg<br>
       </li>
 </div>
 </details>
@@ -475,13 +486,16 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> SP5: Trophic interactions across tree regeneration stages</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Alexandra Erfmeier<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Kiel<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> aerfmeier@ecology.uni-kiel.de<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Tim Diekötter<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Kiel<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> tdiekoetter@ecology.uni-kiel.de<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Chinese Partner:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Zhishu Xiao<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Zoology, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> xiaozs@ioz.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Doctoral Researcher:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Noga Abecassis<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Kiel<br>
       </li>
 </div>
 </details>
@@ -490,13 +504,16 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> SP6: Ant trophic interactions and functions</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dr. Michael Staab <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Darmstadt<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> michael.staab1@tu-darmstadt.de<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Heike Feldhaar <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Bayreuth<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> Heike.Feldhaar@uni-bayreuth.de<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Chinese Partner:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xiaojuan Liu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Doctoral Researcher:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Joshua Spitz<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Darmstadt<br>
       </li>
 </div>
 </details>
@@ -505,15 +522,18 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> Z2: Data management and synthesis</summary><br>
 <div class="row">
       <li class="dropdown-sub">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Andreas Schuldt<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Georg-August-Universität Göttingen<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> andreas.schuldt@forst.uni-goettingen.de<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Helge Bruelheide<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Martin Luther University Halle Wittenberg<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> helge.bruelheide@botanik.uni-halle.de<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Huijie Qiao<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Zoology, Chinese Academy of Sciences<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> qiaohj@ioz.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Chinese Partners:</strong></strong> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xiaojuan Liu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Huijie Qiao<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Zoology, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> qiaohj@ioz.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Postdoctoral Researcher:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Georg Albert<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Göttingen<br>
       </li>
 </div>
 </details>
