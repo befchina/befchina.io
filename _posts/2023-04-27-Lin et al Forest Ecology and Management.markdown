@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Subtropical forest tree genetic richness causes contrasting effects on soil fungal guilds in monocultures and mixed-species stands"
 author: Hong Lin, Sirong Zhang
