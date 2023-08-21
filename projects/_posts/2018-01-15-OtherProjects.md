@@ -734,6 +734,51 @@ permalink: "/otherprojects.html"
 
 #### Nutrient cycling
 <details>
+<summary class="dropdown-text"> Tree and shrub diversity affect soil organic carbon and above- and below-ground carbon trade-off</summary><br>
+<div class="row">
+    <div class="col-md-3">
+      <img class = "img3" src=" {{ site.baseurl }}/assets/projects/YufuJia/YufuJia1.jpg">
+    </div>
+    <div class="col-md-3">
+      <img class = "img3" src=" {{ site.baseurl }}/assets/projects/YufuJia/YufuJia2.jpg">
+    </div>
+    <div class="col-md-4">
+      <li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+        Prof. Dr. Xiaojuan Liu<br>
+        Institute of Botany, Chinese Academy of Sciences<br>
+        <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
+        Prof. Dr. Lei Chen<br>
+        Institute of Botany, Chinese Academy of Sciences<br>
+        <i class="fas fa-envelope"></i> chenlei@ibcas.ac.cn<br>
+        <strong>PhD student:</strong> Zhuo Yang
+      </li>
+    </div>
+</div>
+</details>
+
+<details>
+<summary class="dropdown-text"> Effects of plant diversity on soil organic carbon stability in subtropical forests</summary><br>
+<div class="row">
+      <li class="dropdown-sub">
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Guoyong Yan <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Qufu Normal University<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> guoyongyan1991@163.com<br>
+      </li>
+</div>
+</details>
+
+<details>
+<summary class="dropdown-text"> On the influence of afforestation on soil erosion processes in a subtropical Chinese forest ecosystem</summary><br>
+<div class="row">
+      <li class="dropdown-sub">
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dr. Zhengshan Song<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jiangsu Normal University<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> songzhengshan@hotmail.com<br>
+      </li>
+</div>
+</details>
+
+<details>
 <summary class="dropdown-text"> Probing soil organic carbon composition and dynamics in the rhizosphere and bulk soil of Gutianshan</summary><br>
 <div class="row">
     <div class="col-md-3">
