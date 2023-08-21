@@ -556,7 +556,7 @@ permalink: "/otherprojects.html"
     Prof. Dr. Keping Ma<br>
     Institute of Botany, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>
-    <strong>Postdoc: </strong>Dr. Franca J Bongers
+    <strong>PhD student:</strong> Ting Tang
     </li>
     </div>
 </div>
@@ -580,7 +580,6 @@ permalink: "/otherprojects.html"
     Prof. Dr. Keping Ma<br>
     Institute of Botany, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>
-    <strong>Postdoc:</strong> Dr. Franca J Bongers<br>
     <strong>PhD student:</strong> Ting Tang
     </li>
     </div>
@@ -604,7 +603,7 @@ permalink: "/otherprojects.html"
     Prof. Dr. Keping Ma<br>
     Institute of Botany, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>
-    <strong>Postdoc: </strong>Dr. Franca J Bongers
+    <strong>PhD student:</strong> Ting Tang
     </li>
     </div>
 </div>
@@ -656,6 +655,7 @@ permalink: "/otherprojects.html"
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Michael E. Schaepman<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Zurich<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> michael.schaepman@geo.uzh.ch<br>	 
+    <strong>Master student: </strong> Xianglu Deng
     </li>
     </div>
 </div>
@@ -686,6 +686,20 @@ permalink: "/otherprojects.html"
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Keping Ma <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>  
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Postdoc: </strong>Dr. Franca J. Bongers
+      </li>
+</div>
+</details>
+
+<details>
+<summary class="dropdown-text"> Evidence for tree biodiversity-specific performance in a subtropical forest experiment </summary><br>
+<div class="row">
+      <li class="dropdown-sub">
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xiaojuan Liu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Keping Ma <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> kpma@ibcas.ac.cn<br>  
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>PhD student: </strong>Ting Tang
       </li>
 </div>
 </details>
