@@ -1052,7 +1052,7 @@ permalink: "/otherprojects.html"
 </details>
 
 <details>
-<summary class="dropdown-text"> tree death patterns and dispersal of pathogens in forest stand with different tree diversity </summary><br>
+<summary class="dropdown-text"> Tree death patterns and dispersal of pathogens in forest stand with different tree diversity</summary><br>
 <div class="row">
     <li class="dropdown-sub">
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong><br>
