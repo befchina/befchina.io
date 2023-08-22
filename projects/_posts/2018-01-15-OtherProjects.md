@@ -875,7 +875,7 @@ permalink: "/otherprojects.html"
 </summary><br>
 <div class="row">
     <li class="dropdown-sub">
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Principal Investigators:</strong><br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chaodong Zhu<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Zoology, Chinese Academy of Sciences<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> zhucd@ioz.ac.cn<br>
@@ -888,7 +888,7 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> The impact of tree diversity on dung- and carrion-associated beetle community in subtropical southeast China</summary><br>
 <div class="row">
     <li class="dropdown-sub">
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li class="dropdown-sub"><strong><strong>Principal Investigators:</strong></strong><br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong><br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Chaodong Zhu<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Zoology, Chinese Academy of Sciences<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> zhucd@ioz.ac.cn<br>
@@ -924,7 +924,7 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> Changes in diversity and community structure of Collembola with the tree diversity gradient </summary><br>
 <div class="row">
     <li class="dropdown-sub">
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li class="dropdown-sub"><strong><strong>Principal Investigators:</strong></strong><br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong><br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Donghui Wu<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> wudonghui@iga.ac.cn<br>
@@ -937,7 +937,7 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> The effects of tree species diversity on energy fluxes of soil food webs</summary><br>
 <div class="row">
     <li class="dropdown-sub">
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li class="dropdown-sub"><strong><strong>Principal Investigators:</strong></strong><br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong><br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assis. Prof. Dr. Shaopeng Wang<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Peking University<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> shaopeng.wang@pku.edu.cn<br>
@@ -1054,7 +1054,7 @@ permalink: "/otherprojects.html"
 <details>
 <summary class="dropdown-text"> tree death patterns and dispersal of pathogens in forest stand with different tree diversity </summary><br>
 <div class="row">
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li class="dropdown-sub"><strong><strong>Principal Investigators:</strong></strong><br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong><br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Yu Liang<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> coolrain@ibcas.ac.cn<br>
