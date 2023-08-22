@@ -875,11 +875,12 @@ permalink: "/otherprojects.html"
 <summary class="dropdown-text"> The effects of tree diversity on tree-caterpillar-parasitoid interaction; The effects of tree diversity on predator-prey interaction.
 </summary><br>
 <div class="row">
+    <li class="dropdown-sub">
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chaodong Zhu<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Zoology, Chinese Academy of Sciences<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> zhucd@ioz.ac.cn<br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Master student: </strong> Jingting Chen
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>PhD student: </strong> Jingting Chen
     </li>
 </div>
 </details>
@@ -887,7 +888,8 @@ permalink: "/otherprojects.html"
 <details>
 <summary class="dropdown-text"> The impact of tree diversity on dung- and carrion-associated beetle community in subtropical southeast China</summary><br>
 <div class="row">
-    <div class="col-md-4">
+    <div class="row">
+    <li class="dropdown-sub">
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li class="dropdown-sub"><strong><strong>Principal Investigators:</strong></strong><br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Chaodong Zhu<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Zoology, Chinese Academy of Sciences<br>
@@ -915,7 +917,7 @@ permalink: "/otherprojects.html"
     Prof. Dr. Chaodong Zhu<br>
     Institute of Zoology, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> zhucd@ioz.ac.cn <br>
-    <strong>Master student: </strong>Yannan Chen
+    <strong>PhD student: </strong>Yannan Chen
     </li>
     </div>
 </div>
@@ -924,7 +926,8 @@ permalink: "/otherprojects.html"
 <details>
 <summary class="dropdown-text"> Changes in diversity and community structure of Collembola with the tree diversity gradient </summary><br>
 <div class="row">
-    <div class="col-md-4">
+    <div class="row">
+    <li class="dropdown-sub">
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li class="dropdown-sub"><strong><strong>Principal Investigators:</strong></strong><br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Donghui Wu<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences<br>
@@ -938,7 +941,8 @@ permalink: "/otherprojects.html"
 <details>
 <summary class="dropdown-text"> The effects of tree species diversity on energy fluxes of soil food webs</summary><br>
 <div class="row">
-    <div class="col-md-4">
+    <div class="row">
+    <li class="dropdown-sub">
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li class="dropdown-sub"><strong><strong>Principal Investigators:</strong></strong><br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assis. Prof. Dr. Shaopeng Wang<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Peking University<br>
