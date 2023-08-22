@@ -1054,6 +1054,7 @@ permalink: "/otherprojects.html"
 <details>
 <summary class="dropdown-text"> tree death patterns and dispersal of pathogens in forest stand with different tree diversity </summary><br>
 <div class="row">
+    <li class="dropdown-sub">
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigators:</strong></strong><br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assoc. Prof. Dr. Yu Liang<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
