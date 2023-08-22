@@ -637,11 +637,7 @@ permalink: "/otherprojects.html"
 <details>
 <summary class="dropdown-text"> Assessing the dynamic of vegetation function and productivity with laser and hyperspectral analyses of CSPs and main experiments</summary><br>
 <div class="row">
-    <!-- <div class="col-md-3">
-    <img class = "img3" src=" {{ site.baseurl }}/assets/projects/Michael/Michael1.jpg">
-    <img class = "img3" src=" {{ site.baseurl }}/assets/projects/Michael/Michael2.jpg">
-    </div> -->
-    <div class="col-md-6">
+    <li class="dropdown-sub">
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xiaojuan Liu<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
@@ -735,24 +731,15 @@ permalink: "/otherprojects.html"
 #### Nutrient cycling
 <details>
 <summary class="dropdown-text"> Tree and shrub diversity affect soil organic carbon and above- and below-ground carbon trade-off</summary><br>
-<div class="row">
-    <div class="col-md-3">
-      <img class = "img3" src=" {{ site.baseurl }}/assets/projects/YufuJia/YufuJia1.jpg">
-    </div>
-    <div class="col-md-3">
-      <img class = "img3" src=" {{ site.baseurl }}/assets/projects/YufuJia/YufuJia2.jpg">
-    </div>
-    <div class="col-md-4">
-      <li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
-        Prof. Dr. Xiaojuan Liu<br>
-        Institute of Botany, Chinese Academy of Sciences<br>
-        <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
-        Prof. Dr. Lei Chen<br>
-        Institute of Botany, Chinese Academy of Sciences<br>
-        <i class="fas fa-envelope"></i> chenlei@ibcas.ac.cn<br>
-        <strong>PhD student:</strong> Zhuo Yang
+      <div class="row">
+      <li class="dropdown-sub">
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><strong>Principal Investigator:</strong></strong> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Xiaojuan Liu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> liuxiaojuan06@ibcas.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Lei Chen <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Botany, Chinese Academy of Sciences<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> chenlei@ibcas.ac.cn<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>PhD student:</strong> Zhuo Yang
       </li>
-    </div>
 </div>
 </details>
 
