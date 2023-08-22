@@ -877,7 +877,7 @@ permalink: "/otherprojects.html"
     Chaodong Zhu<br>
     Institute of Zoology, Chinese Academy of Sciences<br>
     <i class="fas fa-envelope"></i> zhucd@ioz.ac.cn<br>
-    <strong>PhD student: </strong>Pengfei Guo
+    <strong>PhD student: </strong>Guoai Chen
     </li>
     </div>
 </div>
@@ -895,7 +895,20 @@ permalink: "/otherprojects.html"
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Master student: </strong> Jingting Chen
     </li>
 </div>
+</details>
 
+<details>
+<summary class="dropdown-text"> The impact of tree diversity on dung- and carrion-associated beetle community in subtropical southeast China</summary><br>
+<div class="row">
+    <div class="col-md-4">
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li class="dropdown-sub"><strong><strong>Principal Investigators:</strong></strong><br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Chaodong Zhu<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Zoology, Chinese Academy of Sciences<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> zhucd@ioz.ac.cn<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Postdoc:</strong> Xiaoyu Shi
+    </li>
+    </div>
+</div>
 </details>
 
 <details>
@@ -919,7 +932,33 @@ permalink: "/otherprojects.html"
     </li>
     </div>
 </div>
+</details>
 
+<details>
+<summary class="dropdown-text"> Changes in diversity and community structure of Collembola with the tree diversity gradient </summary><br>
+<div class="row">
+    <div class="col-md-4">
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li class="dropdown-sub"><strong><strong>Principal Investigators:</strong></strong><br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Donghui Wu<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> wudonghui@iga.ac.cn<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Postdoc:</strong> Zhijing Xie
+    </li>
+    </div>
+</div>
+</details>
+
+<details>
+<summary class="dropdown-text"> The effects of tree species diversity on energy fluxes of soil food webs</summary><br>
+<div class="row">
+    <div class="col-md-4">
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li class="dropdown-sub"><strong><strong>Principal Investigators:</strong></strong><br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assis. Prof. Dr. Shaopeng Wang<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Peking University<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> shaopeng.wang@pku.edu.cn<br>
+    </li>
+    </div>
+</div>
 </details>
 
 <details>
@@ -944,7 +983,7 @@ permalink: "/otherprojects.html"
 </details>
 
 <details>
-<summary class="dropdown-text"> Indirect effects of tree richness and species identity drive plant growth in subtropical forest</summary><br>
+<summary class="dropdown-text"> Effects of tree and shrub diversity on plant-soil feedback in subtropical forests</summary><br>
 <div class="row">
     <div class="col-md-3">
     <img class = "img3" src=" {{ site.baseurl }}/assets/projects/Honglin/Honglin3.jpg">
@@ -954,10 +993,9 @@ permalink: "/otherprojects.html"
     </div>
     <div class="col-md-4">
     <li class="dropdown-sub"><strong>Principal Investigators:</strong><br>
-      Assoc. Prof. Dr. Naili Zhang<br>
-     Beijing Forestry University<br>
-      <i class="fas fa-envelope"></i> zhangnaili@bjfu.edu.cn<br>
-    <strong>Postdoc: </strong>Dr. Hong Lin
+      Dr. Hong Lin<br>
+     NanJing XiaoZhuang University<br>
+      <i class="fas fa-envelope"></i> linhongshengwu2012@163.com<br>
     </li>
     </div>
 </div>
@@ -1002,7 +1040,6 @@ permalink: "/otherprojects.html"
     </li>
     </div>
 </div>
-
 </details>
 
 
@@ -1028,7 +1065,6 @@ permalink: "/otherprojects.html"
     </li>
     </div>
 </div>
-
 </details>
 
 <details>
@@ -1043,7 +1079,6 @@ permalink: "/otherprojects.html"
     </li>
     </div>
 </div>
-
 </details>
 
 <details>
@@ -1099,19 +1134,6 @@ permalink: "/otherprojects.html"
       </li>
 </div>
 </details>
-
-<details>
-<summary class="dropdown-text"> Microbial migration: from phyllosphere to soil </summary><br>
-<div class="row">
-      <li class="dropdown-sub">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Principal Investigator:</strong> <br>
-       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Yongguan Zhu <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Institute of Urban Environment, Chinese Academy of Sciences<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> ygzhu@iue.ac.cn<br>
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Postdoc: </strong>Jian Li
-      </li>
-</div>
-</details>
-
 
 <details>
 <summary class="dropdown-text"> Response of fine root, mycorrhizal fungi and their interaction to species coexistence in subtropical forest </summary><br>
