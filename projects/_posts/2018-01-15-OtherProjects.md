@@ -655,7 +655,7 @@ permalink: "/otherprojects.html"
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Michael E. Schaepman<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Zurich<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> michael.schaepman@geo.uzh.ch<br>	 
-    <strong>Master student: </strong> Xianglu Deng
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Master student: </strong> Xianglu Deng
     </li>
     </div>
 </div>
