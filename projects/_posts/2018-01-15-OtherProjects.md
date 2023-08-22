@@ -1133,7 +1133,7 @@ permalink: "/otherprojects.html"
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Principal Investigator:</strong> <br>
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof. Dr. Bo Yang <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jingdezhen University<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-envelope"></i> yangbomvp@aliyun.com<br>
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Postdoc: </strong>Fangmin Hu
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Master student: </strong>Fangmin Hu
       </li>
 </div>
 </details>
