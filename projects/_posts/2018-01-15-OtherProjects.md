@@ -959,7 +959,7 @@ permalink: "/otherprojects.html"
       Assoc. Prof. Dr. Naili Zhang<br>
      Beijing Forestry University<br>
       <i class="fas fa-envelope"></i> zhangnaili@bjfu.edu.cn<br>
-    <strong>Postdoc:</strong> Dr. Hong Lin
+    <strong>PhD student:</strong> Yumei Pan
     </li>
     </div>
 </div>
