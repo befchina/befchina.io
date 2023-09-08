@@ -22,4 +22,4 @@ We found a positive effect of intraspecific genetic richness on soil fungal alph
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Fig. 3 Bayesian SEMs accounting for the direct and indirect effects of tree species richness, tree genetic richness, and soil properties on fungal diversity and community composition in the topsoil and subsoil. 
 </span></p>
 ### Literature:
-Hong Lin, Sirong Zhang, Xiaojuan Liu, Keping Ma, Naili Zhang<code>&ast;</code>. 2023. Subtropical forest tree genetic richness causes contrasting effects on soil fungal guilds in monocultures and mixed-species stands. *Forest Ecology and Management*. [https://doi.org/10.1016/j.foreco.2023.121285](https://doi.org/10.1016/j.foreco.2023.121285).
+Hong Lin, Sirong Zhang, Xiaojuan Liu, Keping Ma, Naili Zhang<code>&ast;</code>. 2023. Subtropical forest tree genetic richness causes contrasting effects on soil fungal guilds in monocultures and mixed-species stands. *Forest Ecology and Management*. 545:121285. [https://doi.org/10.1016/j.foreco.2023.121285](https://doi.org/10.1016/j.foreco.2023.121285).
