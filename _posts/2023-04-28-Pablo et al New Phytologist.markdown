@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Within-individual leaf trait variation increases with phenotypic integration in a subtropical tree diversity experiment"
 author: Pablo Castro Sanchez-Bermejo
