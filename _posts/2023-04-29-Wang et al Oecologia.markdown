@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Tree communities and functional traits determine herbivore compositional turnover"
 author: Mingqiang Wang
