@@ -27,4 +27,4 @@ Our study suggests that integrated phenotypes allow the variability of leaf phen
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Fig. 4 Conceptual representation of the occupancy of the functional trait space under scenarios of (a) low and (b) high individual phenotypic integration (PIind). 
 </span></p>
 ### Literature:
-Pablo Castro Sanchez-Bermejo<code>&ast;</code>, Andr´ea Davrinche, Silvia Matesanz, W. Stanley Harpole, Sylvia Haider. 2023. Within-individual leaf trait variation increases with phenotypic integration in a subtropical tree diversity experiment. *New Phytologist*.  Online. [https://doi.org/10.1111/nph.19250](https://doi.org/10.1111/nph.19250).
+Pablo Castro Sanchez-Bermejo<code>&ast;</code>, Andr´ea Davrinche, Silvia Matesanz, W. Stanley Harpole, Sylvia Haider. 2023. Within-individual leaf trait variation increases with phenotypic integration in a subtropical tree diversity experiment. *New Phytologist*. 240(4): 1390-1404. [https://doi.org/10.1111/nph.19250](https://doi.org/10.1111/nph.19250).
