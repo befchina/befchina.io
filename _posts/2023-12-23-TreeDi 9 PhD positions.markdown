@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "9 PhD positions in the field of forest biodiversity ecosystem functioning research (TreeDì / BEF-China)"
 author: TreeDì
