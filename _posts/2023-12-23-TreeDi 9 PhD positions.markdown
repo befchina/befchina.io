@@ -4,8 +4,7 @@ title: "9 PhD positions in the field of forest biodiversity ecosystem functionin
 author: TreeDì
 categories: [ news ]
 image: assets/projects/job2.png
-tags: featured
----
+tags: featured---
 
 The International Research Training Group "</strong></strong>TreeDì - Tree Diversity Interactions: The role of tree-tree interactions in local neighborhoods in Chinese subtropical forests" (GRK 2324)</strong></strong>, funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) and the University of Chinese Academy of Sciences (UCAS), invites applications for 9 PhD positions in Germany.
 
