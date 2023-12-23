@@ -7,7 +7,7 @@ image: assets/projects/job2.png
 tags: featured
 ---
 
-The International Research Training Group "<strong>TreeDì - Tree Diversity Interactions: The role of tree-tree interactions in local neighborhoods in Chinese subtropical forests" (GRK 2324)<strong>, funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) and the University of Chinese Academy of Sciences (UCAS), invites applications for 9 PhD positions in Germany.
+The International Research Training Group "TreeDì - Tree Diversity Interactions: The role of tree-tree interactions in local neighborhoods in Chinese subtropical forests" (GRK 2324), funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) and the University of Chinese Academy of Sciences (UCAS), invites applications for 9 PhD positions in Germany.
 
 TreeDì (www.treedi.de) is operated by Martin Luther University Halle-Wittenberg (MLU) and its partner universities Friedrich Schiller University Jena (FSU) and University of Leipzig (UL) in cooperation with the German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, the Helmholtz Centre for Environmental Research (UFZ) and the University of Chinese Academy of Sciences (UCAS). The aim of TreeDì is to understand how tree-tree interactions in local neighbourhoods of varying diversity translate into observed tree species richness effects on key ecosystem functions at the community scale. In addition, TreeDì seeks to understand the role of the forest understorey (shrub species composition and diversity) for ecosystem functioning. All research projects are carried out on the BEF-China platform in subtropical China - the largest forest BEF experiment worldwide (https://bef-china.com).
 
