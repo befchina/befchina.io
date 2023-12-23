@@ -26,39 +26,39 @@ Starting date: 01 June 2024
 <strong><strong>All positions are detailed on www.idiv.de/en/about_idiv/career</strong></strong><br>
 
 <strong><strong>P1G-3: Spatial aboveground complementarity</strong></strong>
-PIs: Prof. Goddert von Oheimb, PD Dr. Andreas Fichtner
+PIs: Prof. Goddert von Oheimb, PD Dr. Andreas Fichtner<br>
 Place of work: Tharandt/ Dresden
 
 <strong><strong>P2G-3: Complementarity through trait variation</strong></strong><br>
-PIs: Prof. Sylvia Haider, Dr. Steffen Neumann
+PIs: Prof. Sylvia Haider, Dr. Steffen Neumann<br>
 Place of work: Lüneburg
 
 <strong><strong>P3G-3: Diversity signals in tree interaction history</strong></strong><br>
-PI: Prof. Christian Wirth
+PI: Prof. Christian Wirth<br>
 Place of work: Leipzig
 
 <strong><strong>P4G-3: Bottom-up and top-down drivers of herbivory</strong></strong><br>
-PI: Prof. Andreas Schuldt
+PI: Prof. Andreas Schuldt<br>
 Place of work: Göttingen
 
 <strong><strong>P5G-3: Drivers of fungal endophyte richness</strong></strong><br>
-PI: Prof. Helge Bruelheide
+PI: Prof. Helge Bruelheide<br>
 Place of work: Halle (Saale)
 
 <strong><strong>P6G-3: Drivers of soil micro-eukaryote richness (nematodes, protists)</strong></strong><br>
-PI: Dr. Peter Dietrich
+PI: Dr. Peter Dietrich<br>
 Place of work: Halle (Saale)
 
 <strong><strong>P7G-3: Rhizosphere and root microbes</strong></strong><br>
-PI: Dr. Tesfaye Wubet
+PI: Dr. Tesfaye Wubet<br>
 Place of work: Halle (Saale)
 
 <strong><strong>P8G-3: Soil microclimate and soil functions</strong></strong><br>
-PIs: Dr. Simone Cesarz, Prof. Nico Eisenhauer
+PIs: Dr. Simone Cesarz, Prof. Nico Eisenhauer<br>
 Place of work: Leipzig
 
 <strong><strong>P9G-3: Modelling generalized diversity interactions</strong></strong><br>
-PI: Ulrich Brose
+PI: Ulrich Brose<br>
 Place of work: Leipzig
 
 <strong><strong>We offer:</strong></strong>
