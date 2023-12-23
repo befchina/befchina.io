@@ -25,7 +25,7 @@ Starting date: 01 June 2024
 
 <strong><strong>All positions are detailed on www.idiv.de/en/about_idiv/career</strong></strong><br>
 
-<strong><strong>P1G-3: Spatial aboveground complementarity</strong></strong>
+<strong><strong>P1G-3: Spatial aboveground complementarity</strong></strong><br>
 PIs: Prof. Goddert von Oheimb, PD Dr. Andreas Fichtner<br>
 Place of work: Tharandt/ Dresden
 
