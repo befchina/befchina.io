@@ -23,41 +23,41 @@ limited to 3 years, 65 percent of a full-time employment, Salary: Entgeltgruppe 
 
 Starting date: 01 June 2024
 
-<strong><strong>All positions are detailed on www.idiv.de/en/about_idiv/career</strong></strong>
+<strong><strong>All positions are detailed on www.idiv.de/en/about_idiv/career</strong></strong><br>
 
 <strong><strong>P1G-3: Spatial aboveground complementarity</strong></strong>
 PIs: Prof. Goddert von Oheimb, PD Dr. Andreas Fichtner
 Place of work: Tharandt/ Dresden
 
-<strong><strong>P2G-3: Complementarity through trait variation</strong></strong>
+<strong><strong>P2G-3: Complementarity through trait variation</strong></strong><br>
 PIs: Prof. Sylvia Haider, Dr. Steffen Neumann
 Place of work: Lüneburg
 
-<strong><strong>P3G-3: Diversity signals in tree interaction history</strong></strong>
+<strong><strong>P3G-3: Diversity signals in tree interaction history</strong></strong><br>
 PI: Prof. Christian Wirth
 Place of work: Leipzig
 
-<strong><strong>P4G-3: Bottom-up and top-down drivers of herbivory</strong></strong>
+<strong><strong>P4G-3: Bottom-up and top-down drivers of herbivory</strong></strong><br>
 PI: Prof. Andreas Schuldt
 Place of work: Göttingen
 
-<strong><strong>P5G-3: Drivers of fungal endophyte richness</strong></strong>
+<strong><strong>P5G-3: Drivers of fungal endophyte richness</strong></strong><br>
 PI: Prof. Helge Bruelheide
 Place of work: Halle (Saale)
 
-<strong><strong>P6G-3: Drivers of soil micro-eukaryote richness (nematodes, protists)</strong></strong>
+<strong><strong>P6G-3: Drivers of soil micro-eukaryote richness (nematodes, protists)</strong></strong><br>
 PI: Dr. Peter Dietrich
 Place of work: Halle (Saale)
 
-<strong><strong>P7G-3: Rhizosphere and root microbes</strong></strong>
+<strong><strong>P7G-3: Rhizosphere and root microbes</strong></strong><br>
 PI: Dr. Tesfaye Wubet
 Place of work: Halle (Saale)
 
-<strong><strong>P8G-3: Soil microclimate and soil functions</strong></strong>
+<strong><strong>P8G-3: Soil microclimate and soil functions</strong></strong><br>
 PIs: Dr. Simone Cesarz, Prof. Nico Eisenhauer
 Place of work: Leipzig
 
-<strong><strong>P9G-3: Modelling generalized diversity interactions</strong></strong>
+<strong><strong>P9G-3: Modelling generalized diversity interactions</strong></strong><br>
 PI: Ulrich Brose
 Place of work: Leipzig
 
