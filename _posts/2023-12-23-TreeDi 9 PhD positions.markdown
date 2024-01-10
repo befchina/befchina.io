@@ -77,7 +77,7 @@ Place of work: Leipzig
 * Applicants must be prepared to spend substantial time (approx. 2-4 months per year) in China for fieldwork, lab visits, and courses
 * Willingness to work under sometimes difficult subtropical field conditions (hot and humid climate). Fieldwork experience would be advantageous
 
-<strong><strong>Application deadline: 03 January 2024</strong></strong>
+<strong><strong>Application deadline: 17 January 2024</strong></strong>
 
 <strong><strong>All applications should include: </strong></strong>
 * Cover letter in English describing motivation for the project, research interests and relevant experience
