@@ -1,11 +1,12 @@
 ﻿﻿---
 layout: post
-title:  "Systematic distributions of interaction strengths across tree interaction networks yield positive diversity–productivity relationships"
+title: "Systematic distributions of interaction strengths across tree interaction networks yield positive diversity–productivity relationships"
 author: Wentao Yu
 categories: [ Paper ]
 image: assets/projects/yu2024-1.png
 tags: featured
 ---
+
 Understanding the mechanisms underlying diversity–productivity relationships (DPRs) is crucial to mitigating the effects of forest biodiversity loss. Tree–tree interactions in diverse communities are fundamental in driving growth rates, potentially shaping the emergent DPRs, yet remain poorly explored. Here, using data from a large-scale forest biodiversity experiment in subtropical China, we demonstrated that changes in individual tree productivity were driven by speciesspecific pairwise interactions, with higher positive net pairwise interaction effects on trees in more diverse neighbourhoods. By perturbing the interactions strength from empirical data in simulations, we revealed that the positive differences between inter- and intra-specific interactions were the critical determinant for the emergence of positive DPRs. Surprisingly, the condition for positive DPRs corresponded to the condition for coexistence. Our results thus provide a novel insight into how pairwise tree interactions regulate DPRs, with implications for identifying the tree mixtures with maximized productivity to guide forest restoration and reforestation efforts.
 ![Figure]({{ site.baseurl }}/assets/projects/yu2024-2.jpg)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 1 Conceptual illustration of mechanisms through which local neighbourhoods can affect (a) individual tree productivity and (b) diversity–productivity relationships (DPRs)
