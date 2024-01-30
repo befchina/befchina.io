@@ -6,7 +6,6 @@ categories: [ Paper ]
 image: assets/projects/pan2024-1.jpg
 tags: featured
 ---
-
 Plant-soil feedback (PSF) is an important driver of plant species coexistence and diversity maintenance. However, it remains unclear how changes in PSF due to decline in tree species richness influence the performance of arbuscular mycorrhizal (AM) and ectomycorrhizal (EcM) tree species.
 
 A PSF experiment was established with eight target tree species (four AM and four EcM tree species) by the research team led by Zhang Naili from Beijing Forestry University based on a subtropical forest Biodiversity-Ecosystem Functioning Experimental in China (BEF-China) platform (Fig. 1). In this study, they investigated the response mechanisms of PSF in different tree species richness and tree species with different mycorrhizal types. They found that the interaction between tree species richness and soil fungal communities is a crucial factor in regulating PSF.
