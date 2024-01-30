@@ -1,11 +1,9 @@
-﻿﻿---
-layout: post
+﻿---layout: post
 title:  "Tree and shrub richness modifies subtropical tree productivity by regulating the diversity and community composition of soil bacteria and archaea"
 author: Siqi Tao
 categories: [ Paper ]
 image: assets/projects/tao2024-1.png
-tags: featured
----
+tags: featured---
 
 Forest soils contain rich prokaryotic communities, with groups such as bacteria and archaea playing important roles in carbon flux, nutrient cycling, and decomposition. However, their contribution to forest biodiversity-ecosystem function is still unclear.
 
