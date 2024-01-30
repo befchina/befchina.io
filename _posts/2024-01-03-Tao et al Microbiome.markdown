@@ -6,6 +6,7 @@ categories: [ Paper ]
 image: assets/projects/tao2024-1.png
 tags: featured
 ---
+
 Forest soils contain rich prokaryotic communities, with groups such as bacteria and archaea playing important roles in carbon flux, nutrient cycling, and decomposition. However, their contribution to forest biodiversity-ecosystem function is still unclear.
 
 Relying on China's large-scale subtropical forest biodiversity experimental platform (BEF-China), the research team of Naili Zhang from Beijing Forestry University, in collaboration with the research team of Laiye Qu from the Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences, published a study in Microbiome titled " Tree and shrub richness modifies subtropical tree productivity by regulating the diversity and community composition of soil bacteria and archaea." This research reveals the interactive effects of soil bacterial and archaeal communities on the diversity of trees and shrubs at different diversity gradients, as well as the regulatory mechanisms on ecosystem productivity.
