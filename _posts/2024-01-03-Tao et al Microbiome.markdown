@@ -24,9 +24,9 @@ Additionally, this study employed structural equation modeling to propose a nove
 ![Figure]({{ site.baseurl }}/assets/projects/tao2024-4.png)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 3 Plant richness affects tree productivity by regulating soil properties and microbial communities
 </span></p>
-In summary, the study reached the following conclusions:
-1. An increase in tree species richness significantly reduced the variability in bacterial community composition and the complexity of co-occurrence networks, and the impact of shrub species richness on bacterial α-diversity varied at different levels of tree species richness.
-2. The richness of tree and shrub species had a minimal impact on archaea.
+In summary, the study reached the following conclusions:<br>
+1. An increase in tree species richness significantly reduced the variability in bacterial community composition and the complexity of co-occurrence networks, and the impact of shrub species richness on bacterial α-diversity varied at different levels of tree species richness.<br>
+2. The richness of tree and shrub species had a minimal impact on archaea.<br>
 3. The richness of tree and shrub species significantly enhanced the productivity of trees in forest stands by directly or indirectly regulating soil microbial communities (diversity and composition of bacteria and archaea). For bacteria, tree species richness can indirectly increase bacterial diversity and regulate bacterial community composition by stimulating soil C/N, thereby creating a cascade effect on tree productivity (tree species richness --> soil C/N --> bacterial diversity and community composition --> productivity). For archaea, the richness of tree and shrub species did not directly change the diversity and composition of the archaeal community, but as soil C/N increased, the diversity of archaea increased, thereby enhancing the productivity of trees at the stand level (tree species richness --> soil C/N; soil C/N --> archaeal diversity --> productivity).
 
 ### Literature:
