@@ -1,6 +1,6 @@
-﻿﻿---
+---
 layout: post
-title:  "Plant–soil feedback is dependent on tree mycorrhizal types and tree species richness in a subtropical forest"
+title: "Plant–soil feedback is dependent on tree mycorrhizal types and tree species richness in a subtropical forest"
 author: Yumei Pan
 categories: [ Paper ]
 image: assets/projects/pan2024-1.jpg
