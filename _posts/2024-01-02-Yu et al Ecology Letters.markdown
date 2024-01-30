@@ -1,4 +1,4 @@
-﻿﻿---
+---
 layout: post
 title: "Systematic distributions of interaction strengths across tree interaction networks yield positive diversity–productivity relationships"
 author: Wentao Yu
