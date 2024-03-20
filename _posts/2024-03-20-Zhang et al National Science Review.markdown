@@ -1,4 +1,4 @@
-﻿﻿---
+---
 layout: post
 title:  "Functional dissimilarity in mixed forests promotes stem radial growth by mitigating tree water deficit"
 author: Hongtu Zhang
