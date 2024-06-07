@@ -23,7 +23,7 @@ This research underscores the pivotal role of mycorrhizal partnerships and the i
 ![Figure]({{ site.baseurl }}/assets/projects/Bala2024-4.jpg)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 3 Heatmap based on pairwise permutational multivariate analysis of variance (PERMANOVA) to test effects of tree diversity on tree species root-associated fungal community composition. (a) Arbuscular mycorrhizal (AM) tree species pairs (TSPs), (b) Ectomycorrhizal (EcM) TSPs, and (c) AM-EcM TSPs.
 </span></p>
-![Figure]({{ site.baseurl }}/assets/projects/Bala2024-5.jpg)
+![Figure]({{ site.baseurl }}/assets/projects/Bala2024-7.jpg)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 4 Taxonomic and functional composition of root-associated fungal communities across tree diversity levels. (a) Phylum level taxonomic composition of arbuscular mycorrhizal (AM) and ectomycorrhizal (EcM) tree species, (b) trophic mode level functional composition of AM and EcM tree species, (c) functional guild level composition of symbiotrophs of all tree species. 
 </span></p>
 ![Figure]({{ site.baseurl }}/assets/projects/Bala2024-6.jpg)
