@@ -4,8 +4,7 @@ title:  "Influence of tree mycorrhizal type, tree species identity, and diversit
 author: Bala Singavarapu
 categories: [ Paper ]
 image: assets/projects/Bala2024-1.png
-tags: featured
----
+tags: featured---
 Understanding the complex interactions between trees and fungi is crucial for forest ecosystem management, yet the influence of tree mycorrhizal types, species identity, and diversity on tree-tree interactions and their root-associated fungal communities remains poorly understood. 
 
 Our study addresses this gap by investigating root-associated fungal communities of different arbuscular mycorrhizal (AM) and ectomycorrhizal (EcM) tree species pairs (TSPs) in a subtropical tree diversity experiment, spanning monospecific, two-species, and multi-species mixtures, utilizing Illumina sequencing of the ITS2 region. 
