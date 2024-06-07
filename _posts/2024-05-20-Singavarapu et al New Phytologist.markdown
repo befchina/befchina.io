@@ -1,4 +1,4 @@
-﻿﻿---
+---
 layout: post
 title:  "Influence of tree mycorrhizal type, tree species identity, and diversity on forest root-associated mycobiomes"
 author: Bala Singavarapu
