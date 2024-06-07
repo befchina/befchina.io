@@ -14,6 +14,7 @@ Our study addresses this gap by investigating root-associated fungal communities
 The study reveals that tree mycorrhizal type significantly impacts the alpha diversity of root-associated fungi in monospecific stands. Meanwhile, tree species identity’s influence is modulated by overall tree diversity. Tree-related variables and spatial distance emerged as major drivers of variations in fungal community composition. Notably, in multi-species mixtures, compositional differences between root fungal communities of AM and EcM trees diminish, indicating a convergence of fungal communities irrespective of mycorrhizal type. Interestingly, dual mycorrhizal fungal communities were observed in these multi-species mixtures. 
 
 This research underscores the pivotal role of mycorrhizal partnerships and the interplay of biotic and abiotic factors in shaping root fungal communities, particularly in varied tree diversity settings, and its implications for effective forest management and biodiversity conservation.
+
 ![Figure]({{ site.baseurl }}/assets/projects/Bala2024-2.jpg)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 1 Alpha-diversity indices of root-associated fungal communities. (a, c) Comparison of fungal observed richness, and Shannon diversities, respectively between all arbuscular mycorrhizal (AM) and ectomycorrhizal (EcM) TSPs. (b, d) Within the tree diversity level, differences between AM and EcM TSPs for the respective fungal alpha-diversity measures. 
 </span></p>
