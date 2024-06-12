@@ -12,6 +12,8 @@ Litter decomposition is a major determinant of carbon (C) and nutrient cycling i
 Using leaf litter collected from China’s large-scale subtropical forest biodiversity experimental platform (BEF-China), we conducted a 383-day incubation experiment and measured initial litter quality, litter mass loss, and incubation-induced changes in mineral-associated soil C and nitrogen (N). 
 
 In this study, We found that litter from higher richness plots exhibited lower N concentration and higher carbon to nitrogen ratio (C:N). Moreover, tree species richness exerted control over the effects of fungal pathogen infection on litter quality, decomposition, and N turnover (Fig. 1). Under higher richness, litter with higher fungal infection levels tended to have higher N concentration and lower C:N, thus leading to faster decomposition rates and more soil N loss. Meanwhile, litter with elevated fungal infection levels contributed more to litter C retained in soil (Fig. 1). 
+
+
 ![Figure]({{ site.baseurl }}/assets/projects/guo2024-1.png)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Fig. 1 Alpha-diversity indices of root-associated fungal communities. (a, c) Comparison of fungal observed richness, and Shannon diversities, respectively between all arbuscular mycorrhizal (AM) and ectomycorrhizal (EcM) TSPs. (b, d) Within the tree diversity level, differences between AM and EcM TSPs for the respective fungal alpha-diversity measures. 
 </span></p>
