@@ -4,8 +4,7 @@ title:  "Tree species diversity modulates the effects of fungal pathogens on lit
 author: Lulu Guo
 categories: [ Paper ]
 image: assets/projects/guo2024-0.png
-tags: featured
----
+tags: featured---
 
 Litter decomposition is a major determinant of carbon (C) and nutrient cycling in ecosystems, and contributes to soil organic carbon (SOC) formation. Ongoing global changes are exacerbating biodiversity loss, potentially elevating foliar fungal pathogen infections and consequently impacting litter quality and quantity. However, the potential interplay between biodiversity loss and fungal pathogen infection on litter decomposition and SOC formation remains largely unknown. 
 
