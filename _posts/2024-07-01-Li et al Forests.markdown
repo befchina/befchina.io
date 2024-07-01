@@ -31,4 +31,4 @@ These results suggest that a significant mixture effect exists in the coordinati
 </span></p>
 
 ### Literature:
-Yuxin Li#, Cancan Zhang#, Yiqing Cheng, Shiqi Zeng, Shiyun Yang, Xiaofan Lin, Jianmin Shi<code>&ast;</code>, Wensheng Bu<code>&ast;</code>. 2024. Mixed-Species Stands Improve the Coordination between Leaf and Fine Root Traits in a Common Garden Experiment. Forests. 15(5): 744. [http://doi.org/10.3390/f15050744](http://doi.org/10.3390/f15050744). 
+Yuxin Li#, Cancan Zhang#, Yiqing Cheng, Shiqi Zeng, Shiyun Yang, Xiaofan Lin, Jianmin Shi<code>&ast;</code>, Wensheng Bu<code>&ast;</code>. 2024. Mixed-Species Stands Improve the Coordination between Leaf and Fine Root Traits in a Common Garden Experiment. *Forests*. 15(5): 744. [http://doi.org/10.3390/f15050744](http://doi.org/10.3390/f15050744). 
