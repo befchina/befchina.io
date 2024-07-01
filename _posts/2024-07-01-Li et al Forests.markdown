@@ -1,4 +1,4 @@
-﻿﻿---
+---
 layout: post
 title:  "Mixed-Species Stands Improve the Coordination between Leaf and Fine Root Traits in a Common Garden Experiment"
 author: Yuxin Li
