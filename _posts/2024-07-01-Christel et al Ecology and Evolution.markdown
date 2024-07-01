@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "The spatial distribution of tree-tree interaction effects on soil microbial biomass and respiration"
 author: Henriette Christel
