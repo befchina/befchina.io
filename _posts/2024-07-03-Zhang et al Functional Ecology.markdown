@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Functional diversity of neighbours mediates sap flow density and radial growth of focal trees, but in different ways between evergreen and deciduous broadleaved species"
 author: Yongqiang Zhang
