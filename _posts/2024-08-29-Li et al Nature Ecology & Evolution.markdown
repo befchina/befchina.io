@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Plant diversity enhances ecosystem multifunctionality via multitrophic diversity"
 author: Yi Li
