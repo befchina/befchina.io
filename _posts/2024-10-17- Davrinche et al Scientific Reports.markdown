@@ -10,27 +10,27 @@ Examples of positive effects of biodiversity on ecosystem functions have kept ac
 
 
 ![Figure]({{ site.baseurl }}/assets/projects/Davrinche-1.png)
-<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 1. Study sites, vegetation structure, and example arthropods of the BEF-China and Jena biodiversity experiments
+<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 1. Expected trait acquisitiveness (a) and trait variation (b) of a focal tree in response to increasing species diversity (from mono to heterospecific tree neighbour; dashed line), with inoculation of the native soil microbiota (+ Ino; solid line), phosphorus fertilization (+ P; solid line), or both soil treatments together (+ Ino and + P; double line). (c) Experiment design. 
 </span></p>
 
 
 ![Figure]({{ site.baseurl }}/assets/projects/Davrinche-2.png)
-<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 2. Relationships between multitrophic diversity (or diversity of individual trophic groups) and multifunctionality (or individual functions).
+<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 2. Effect of soil inoculation with microbiota (a, b), phosphorus fertilization (c; d) and the interaction of both soil treatments (e) on leaf traits. 
 </span></p>
 
 
 ![Figure]({{ site.baseurl }}/assets/projects/Davrinche-3.png)
-<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 1. Study sites, vegetation structure, and example arthropods of the BEF-China and Jena biodiversity experiments
+<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 3.Effect of the tree species pair diversity (mono- or heterospecific TSP; (a) and its interaction with soil inoculation (b), phosphorus fertilization (c, d) and both soil treatments (e) on leaf traits.
 </span></p>
 
 
 ![Figure]({{ site.baseurl }}/assets/projects/Davrinche-4.png)
-<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 2. Relationships between multitrophic diversity (or diversity of individual trophic groups) and multifunctionality (or individual functions).
+<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 4. Effect of soil inoculation (a, b), phosphorus fertilization (c, d, e) and the interaction of both soil treatments (f, g, h) on leaf trait variation. 
 </span></p>
 
 
 ![Figure]({{ site.baseurl }}/assets/projects/Davrinche-5.png)
-<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 3. Plant diversity enhancing multifunctionality through multitrophic diversity or the diversity of multiple trophic groups. 
+<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 5. Effect of the tree species pair diversity (mono- or heterospecific TSP) interaction with soil inoculation (a, b, c), phosphorus fertilization (d) and both soil treatments (e, f) on leaf trait variation. 
 </span></p>
 ### Literature:
 Andréa Davrinche<code>&ast;</code>, Sylvia Haider. 2024. Soil conditions modify species diversity effects on tree functional trait expression. *Scientific Reports*. 14(1): 17114. [https://www.nature.com/articles/s41598-024-67512-w](https://www.nature.com/articles/s41598-024-67512-w)
