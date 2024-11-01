@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Soil conditions modify species diversity effects on tree functional trait expression"
 author: Andréa Davrinche
