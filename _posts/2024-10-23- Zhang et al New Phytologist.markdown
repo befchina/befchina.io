@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Strong nestedness and turnover effects on stand productivity in a long‐term forest biodiversity experiment"
 author: Lan Zhang
