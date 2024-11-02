@@ -14,17 +14,17 @@ We found that the greater the differences in species or functional group nestedn
 
 Our results indicate that selection of specific tree species is as important as planting a large number of species to support the productivity function of forests. Furthermore, the selection of specific tree species should be based on functionality, because beneficial effects of functional group composition were stronger than those of species composition.
 
-
+<br>
 ![Figure]({{ site.baseurl }}/assets/projects/Zhang-NP-2024-1.png)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 1. Principal component analysis biplot for the trait-based water transport and carbon accumulation ability gradients. 
 </span></p>
 
-
+<br>
 ![Figure]({{ site.baseurl }}/assets/projects/Zhang-NP-2024-2.png)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 2. Differences in stand volume between plots differing in either species or functional group richness (nestedness) or species or functional group composition (turnover) for the period 2011-2021. 
 </span></p>
 
-
+<br>
 ![Figure]({{ site.baseurl }}/assets/projects/Zhang-NP-2024-3.png)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 3. Species and functional nestedness and turnover effects on differences in stand volume between plots.
 </span></p>
