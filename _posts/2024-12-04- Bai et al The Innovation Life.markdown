@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Trait-based neighbourhood effects modulate the growth-weather relationships of subtropical trees"
 author: Yun-Hao Bai
