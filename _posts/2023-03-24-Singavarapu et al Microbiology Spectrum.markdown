@@ -27,5 +27,5 @@ Loss of multifunctional microbial communities can negatively affect ecosystem se
 </span></p>
 
 ### Literature:
-Bala Singavarapu<code>&ast;</code>, Jianqing Du, Rémy Beugnon, Simone Cesarz, Nico Eisenhauer, Kai Xue, Yanfen Wang, Helge Bruelheide, Tesfaye Wubet<code>&ast;</code>. 2023. Functional potential of soil microbial communities and their subcommunities varies with tree mycorrhizal type and tree diversity. *Microbiology spectrum*. [https://doi.org/10.1128/spectrum.04578-22](https://doi.org/10.1128/spectrum.04578-22).
+Bala Singavarapu<code>&ast;</code>, Jianqing Du, Rémy Beugnon, Simone Cesarz, Nico Eisenhauer, Kai Xue, Yanfen Wang, Helge Bruelheide, Tesfaye Wubet<code>&ast;</code>. 2023. Functional potential of soil microbial communities and their subcommunities varies with tree mycorrhizal type and tree diversity. *Microbiology spectrum*. 11(2): 1-19. [https://doi.org/10.1128/spectrum.04578-22](https://doi.org/10.1128/spectrum.04578-22).
 
