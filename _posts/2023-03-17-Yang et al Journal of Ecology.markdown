@@ -31,6 +31,6 @@ Chinese report:
 [https://mp.weixin.qq.com/s/4YHY-lfUhBggxo2yDZrQqw](https://mp.weixin.qq.com/s/4YHY-lfUhBggxo2yDZrQqw)
 
 ### Literature:
-Xian Yang, Pandeng Wang, Bowen Xiao, Qianna Xu, Qiang Guo, Shao‐peng Li, Lulu Guo, Meifeng Deng, Jianbo Lu, Lingli Liu, Keping Ma, Bernhard Schmid, Lin Jiang<code>&ast;</code>. 2023. Different assembly mechanisms of leaf epiphytic and endophytic bacterial communities underlie their higher diversity in more diverse forests. Journal of Ecology. Online. [https://doi.org/10.1111/1365-2745.14084](https://doi.org/10.1111/1365-2745.14084).
+Xian Yang, Pandeng Wang, Bowen Xiao, Qianna Xu, Qiang Guo, Shao‐peng Li, Lulu Guo, Meifeng Deng, Jianbo Lu, Lingli Liu, Keping Ma, Bernhard Schmid, Lin Jiang<code>&ast;</code>. 2023. Different assembly mechanisms of leaf epiphytic and endophytic bacterial communities underlie their higher diversity in more diverse forests. Journal of Ecology. 111(5): 970-981. [https://doi.org/10.1111/1365-2745.14084](https://doi.org/10.1111/1365-2745.14084).
 
 
