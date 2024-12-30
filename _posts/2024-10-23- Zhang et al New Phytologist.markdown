@@ -29,6 +29,6 @@ Our results indicate that selection of specific tree species is as important as 
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 3. Species and functional nestedness and turnover effects on differences in stand volume between plots.
 </span></p>
 ### Literature:
-Lan Zhang, Bernhard Schmid, Franca J. Bongers, Shan Li, Goddert von Oheimb, Keping Ma, Xiaojuan Liu<code>&ast;</code>. 2024. Strong nestedness and turnover effects on stand productivity in a long‐term forest biodiversity experiment. *New Phytologist*. Online. [https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.20210](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.20210)
+Lan Zhang, Bernhard Schmid, Franca J. Bongers, Shan Li, Goddert von Oheimb, Keping Ma, Xiaojuan Liu<code>&ast;</code>. 2024. Strong nestedness and turnover effects on stand productivity in a long‐term forest biodiversity experiment. *New Phytologist*. 245(1): 130-140. [https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.20210](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.20210)
 
 Chinese report: [https://mp.weixin.qq.com/s/4zFusK_K0kdkZYGBkr1Mfg](https://mp.weixin.qq.com/s/4zFusK_K0kdkZYGBkr1Mfg)
